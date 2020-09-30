@@ -1,0 +1,20 @@
+Id Number = 9885
+Process = CT
+Element A = N
+Initial Charge Number A = +5
+Final Charge Number A = +4
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 5.009E+02,5.813E+02,6.675E+02,7.747E+02,9.087E+02,1.072E+03,1.312E+03,1.597E+03,1.975E+03,2.379E+03,2.991E+03,3.622E+03,4.248E+03,5.172E+03,6.500E+03,8.170E+03,9.738E+03,1.211E+04,1.514E+04,1.824E+04,2.094E+04,2.443E+04,2.689E+04,2.975E+04,3.622E+04,4.293E+04,5.009E+04,5.783E+04,6.605E+04,7.504E+04,8.390E+04,9.382E+04,1.055E+05,1.179E+05,1.319E+05,1.466E+05,1.622E+05,1.776E+05,1.986E+05
+Y Axis Data = 1.157E-16,1.416E-16,1.701E-16,2.083E-16,2.534E-16,3.103E-16,3.847E-16,4.711E-16,5.659E-16,6.545E-16,7.523E-16,8.065E-16,8.116E-16,7.715E-16,7.197E-16,6.756E-16,6.587E-16,6.629E-16,6.545E-16,6.342E-16,6.382E-16,6.756E-16,6.885E-16,6.671E-16,5.915E-16,5.050E-16,4.311E-16,3.477E-16,2.717E-16,2.109E-16,1.597E-16,1.186E-16,8.646E-17,6.222E-17,4.478E-17,3.203E-17,2.334E-17,1.745E-17,1.224E-17
+Y Axis Error Data =
+Reference Number = 2012C471
+Author(s) = Liu, L.$Wang, J.G.$Janev, R.K.
+Title of Record = State-selective electron capture in N5+ - H and O6+ - H collisions
+Journal Name = J. Phys. B
+Volume and Issue No. = 45
+Page Numbers = 015202
+Date of Publication = 2012
+Process Title = N5+ + H(1s) --> N4+(n=3) + H+

@@ -1,0 +1,15 @@
+id_number,B201870372
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,CO1+(X2&Sigma,v=5) + CO(X1&Sigma,v0=0) -> CO(X1&Sigma) + CO1+(X2&Sigma)
+reference_number,2018000356
+author,M. R. Flannery###  P. C. Cosby### and  T. F. Moran
+title_of_record,Molecular charge transfer: Experimental and theoretical investigation of the role of incident©\ion vibrational states in N + 2 ¨CN 2 and CO+¨CCO collisions 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,59
+page_number,5494
+date_of_publication,1973

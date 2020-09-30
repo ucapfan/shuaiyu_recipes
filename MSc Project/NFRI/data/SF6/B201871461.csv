@@ -1,0 +1,15 @@
+id_number,B201871461
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,hv + SF61- -> SF6
+reference_number,2018000003
+author,L.G.Christophorou and J.K.Olthoff
+title_of_record,Electron Interactions With SF6
+journal_name,J. Phys. Chem. Ref. Data
+volume_and_issue_No,29
+page_number,267
+date_of_publication,2000

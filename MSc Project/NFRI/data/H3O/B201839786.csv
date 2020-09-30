@@ -1,0 +1,15 @@
+id_number,B201839786
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,State Selectivity
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,C3H7CHO(1-butanol) + H3O1+ -> C4H9O1+ + H2O
+reference_number,2018000169
+author,Patrik Spanel### Yufeng Ji### David Smith
+title_of_record,SIFT studies of the reactions of H3O+, NO+ and O2+ with a series of aldehydes and ketones
+journal_name,International Journal of Mass Spectrometry and Ion Processes
+volume_and_issue_No,165
+page_number,25
+date_of_publication,1997

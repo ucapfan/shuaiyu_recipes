@@ -1,0 +1,15 @@
+id_number,B201868512
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ne2+(3P) + Kr -> Kr1+ + Ne1+
+reference_number,2018000291
+author,D Smith### N G Adams### E Alge### H Villinger and W Lindinger
+title_of_record,Reactions of Ne2+, Ar2+, Kr2+ and Xe2+ with the rare gases at low energies
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,13
+page_number,2787
+date_of_publication,1980

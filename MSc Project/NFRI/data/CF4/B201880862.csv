@@ -1,0 +1,15 @@
+id_number,B201880862
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CF4
+reference_number,2018000585
+author,G. R. Cook and  B. K. Ching
+title_of_record,Photoionization and Absorption Cross Sections and Fluorescence of CF4 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,43
+page_number,1794
+date_of_publication,1965

@@ -1,0 +1,20 @@
+Id Number = 412
+Process = CT
+Element A = Ne
+Initial Charge Number A = +2
+Final Charge Number A = +1
+Element B = H2
+Initial Charge Number B = 0
+Final Charge Number B =
+Theory or Experiment = E
+X Axis Data = 5.0000E+03
+Y Axis Data = 5.0000E-16
+Y Axis Error Data = 2.5000E-16
+Reference Number = 1977C089
+Author(s) = Winter,H. Bloemen,E. de-Heer,F.J.
+Title of Record = Electron capture into excited projectile states incollisions of 100 keV Ne(+) (z=1,2,3,4) with He, H(2), andAr
+Journal Name = J.Phys.B
+Volume and Issue No. = 10
+Page Numbers = L453
+Date of Publication = 1977
+Process Title = Ne2+ + H2 --> Ne+

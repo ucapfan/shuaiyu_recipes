@@ -1,0 +1,15 @@
+id_number,B201211720
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Li3+ + H(1s1) -> Li3+ + H(2s1)
+reference_number,2012000638
+author,R. K. Janev### E. A. Solov'ev### Yi Wang
+title_of_record,Electron capture, excitation and ionization in slow collisions of Li3+ ions with ground-state and metastable hydrogen atoms
+journal_name,J. Phys. B
+volume_and_issue_No,29
+page_number,2497
+date_of_publication,1996

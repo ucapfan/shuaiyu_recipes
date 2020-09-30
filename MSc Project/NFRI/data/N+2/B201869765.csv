@@ -1,0 +1,15 @@
+id_number,B201869765
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Ar + N2(j=22) -> Ar + N2(j'=26)
+reference_number,2018000436
+author,M. D. Pattengill### R. B. Bernstein
+title_of_record,Surprisal analysis of classical trajectory calculations of rotationally inelastic cross sections for the Ar¨CN2 system; influence of the potential energy surface 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,65
+page_number,4007
+date_of_publication,1976

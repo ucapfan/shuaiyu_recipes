@@ -1,0 +1,15 @@
+id_number,B201224242
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O- + CH3F -> OH-
+reference_number,2012001314
+author,R. Peverall### R. A. Kennedy### C. A. Mayhew### P. Watts
+title_of_record,Selected ion flow tube study of the reactions of O- and O2- with CHCl2F, CHClF2, CHF3, CH2ClF, CH2F2, CH3F, CHF2CHF2, CH2FCF3 and CH3CHF2
+journal_name,IJMSIP
+volume_and_issue_No,171
+page_number,51
+date_of_publication,1997

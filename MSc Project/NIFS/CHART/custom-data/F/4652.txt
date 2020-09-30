@@ -1,0 +1,20 @@
+Id Number = 4652
+Process = ION
+Element A = F
+Initial Charge Number A = +8
+Final Charge Number A = +7
+Element B = Ne
+Initial Charge Number B = 0
+Final Charge Number B = +4
+Theory or Experiment = E
+X Axis Data = 2.3200E+05,5.2600E+05,7.8900E+05
+Y Axis Data = 9.8901E-17,5.9801E-17,1.9000E-17
+Y Axis Error Data = 0.0000E+00,0.0000E+00,0.0000E+00
+Reference Number = 1990C256
+Author(s) = Kelbch,S. Cocke,C.L. Hagmann,S. Hozbatsch,M. Kelbch,C. Kock,R. Schmidt-Bocking,H. Ullrich,J.
+Title of Record = Recoil-ion production cross sections and differential scattering angle dependences in 2.5-15 MeV F(n+)(n=4,6,8) on Ne collisions.
+Journal Name = J.Phys.B
+Volume and Issue No. = 23
+Page Numbers = 1277
+Date of Publication = 1990
+Process Title = F8+ + Ne --> F7+ + Ne4+

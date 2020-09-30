@@ -1,0 +1,20 @@
+Id Number = 2009
+Process = EXC
+Element A = H
+Initial Charge Number A = +1
+Final Charge Number A = +1
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = 0
+Theory or Experiment = E
+X Axis Data = 2.5000E+04,5.0000E+04,7.5000E+04,1.4500E+05,2.0000E+05
+Y Axis Data = 7.8000E-18,1.1300E-17,1.2100E-17,9.2000E-18,7.7000E-18
+Y Axis Error Data = 3.0000E-18,4.0000E-18,4.0000E-18,4.0000E-18,3.0000E-18
+Reference Number = 1976C051
+Author(s) = Park,J.T. Aldag,J.E. George,J.M. Peacher,J.L.
+Title of Record = Cross sections for excitation of atomic hydrogen to the n=2, 3 and 4 states by 15-200 keV protons
+Journal Name = Phys.Rev.A
+Volume and Issue No. = 14
+Page Numbers = 608
+Date of Publication = 1976
+Process Title = H+ + H --> H+ + H(N=4)

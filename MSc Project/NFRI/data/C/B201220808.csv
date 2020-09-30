@@ -1,0 +1,15 @@
+id_number,B201220808
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H2 + C- -> H2 + C + e
+reference_number,2012001216
+author,M. L. Gardel### R. Vandenbosch### B. P. Henry### C. Cooper### D. I. Will
+title_of_record,Electron detachment and fragmentation in collisions between 1.25 keV/carbon C8- and C60- clusters and H2
+journal_name,Eur. Phys. J. D
+volume_and_issue_No,7
+page_number,79
+date_of_publication,1999

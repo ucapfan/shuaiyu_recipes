@@ -1,0 +1,15 @@
+id_number,B201869604
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Ionization
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Ne*(2p5(2P1/2)3s,1P1) + Kr -> Ne(2p6,1S0) + Kr1+ + e
+reference_number,2018000433
+author,Tsutomu Watanabe and  Kanji Katsuura
+title_of_record,Ionization of Atoms by Collision with Excited Atoms. II. A Formula without the Rotating©\Atom Approximation 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,47
+page_number,800
+date_of_publication,1967

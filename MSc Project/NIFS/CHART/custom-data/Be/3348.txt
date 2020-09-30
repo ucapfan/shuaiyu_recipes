@@ -1,0 +1,20 @@
+Id Number = 3348
+Process = CT
+Element A = Be
+Initial Charge Number A = +3
+Final Charge Number A = +2
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 3.9000E+02,5.6000E+02,7.5000E+02,1.0000E+03,1.5600E+03,2.0000E+03,2.2500E+03,2.7500E+03,3.0600E+03,4.0000E+03,4.5000E+03,6.2500E+03
+Y Axis Data = 8.7001E-18,4.0200E-17,5.4400E-17,8.4601E-17,1.7700E-16,2.4900E-16,2.9100E-16,3.6000E-16,3.9900E-16,5.0800E-16,5.4300E-16,6.3300E-16
+Y Axis Error Data = 0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00
+Reference Number = 1988C219
+Author(s) = Shimakura,N.
+Title of Record = Electron-capture cross sections in Be(3+) + H collisions using the travelling-molecular-orbital method.
+Journal Name = J.Phys.B
+Volume and Issue No. = 21
+Page Numbers = 2485
+Date of Publication = 1988
+Process Title = Be3+ + H --> Be2+(1s n=2) + H+

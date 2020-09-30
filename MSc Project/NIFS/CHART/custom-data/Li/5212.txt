@@ -1,0 +1,20 @@
+Id Number = 5212
+Process = CT
+Element A = Li
+Initial Charge Number A = +3
+Final Charge Number A = +2
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 1.09E+04,1.70E+04,2.49E+04,3.24E+04,4.34E+04,5.53E+04,8.07E+04,1.12E+05,1.39E+05,1.82E+05,2.26E+05
+Y Axis Data = 5.56E-15,2.22E-15,8.88E-16,3.34E-16,1.02E-16,3.04E-17,5.46E-18,8.72E-19,1.76E-19,3.9E-20,1.03E-20
+Y Axis Error Data = 0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+Reference Number = 1997C322
+Author(s) = Montanari,C.C. Gravielle,M.S. Miraglia,J.E.
+Title of Record = Capture from n=2 states of hydrogen by heavy fast ions
+Journal Name = Physica Scripta
+Volume and Issue No. = 56
+Page Numbers = 279-283
+Date of Publication = 1997
+Process Title = Li3+ + H(2s) --> Li2+(4f) + H+

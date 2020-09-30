@@ -1,0 +1,20 @@
+Record Number = 10054
+Process = charge transfer
+Theory or Experiment = E
+data type = CS
+Projectile Element = H
+Projectile Charge State = +1
+Target Molecule = H2O
+Target Charge State = 0
+Initial Excited State B = 1s
+Products = H(n=1);H2O+
+Original X Unit = eV
+Original Y Unit = cm2
+Reference Number = 2000C380
+Author(s) = Greenwood, J.B.$Chutjian, A.$Smith, S.J.
+Title of Record = MEASUREMENTS OF ABSOLUTE, SINGLE CHARGE-EXCHANGE CROSS SECTIONS OF H+, He+ AND He2+ WITH H2O AND CO2
+Journal Name = Astrophys. J.
+Volume and Issue No. = 529
+Page Numbers = 605
+Date of Publication = 2000
+Process Title = H+ + H2O (1s) --> H(n=1)+H2O+

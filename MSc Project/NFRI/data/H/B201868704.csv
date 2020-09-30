@@ -1,0 +1,15 @@
+id_number,B201868704
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H + H1- -> H + H + e
+reference_number,2018000325
+author,Janev### R. K .
+title_of_record,Rate Coefficient of H + H -¡ú H + H + e Reaction
+journal_name,Astronomy and Astrophysics 
+volume_and_issue_No,35
+page_number,161
+date_of_publication,1974

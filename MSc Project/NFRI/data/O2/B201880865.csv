@@ -1,0 +1,15 @@
+id_number,B201880865
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + O21- -> O2
+reference_number,2018000588
+author,R. A. Beyer and J. A. Vanderhoff
+title_of_record,Cross section measurements for photodetachment or photodissociation of ions produced in gaseous mixtures of O2, CO2, and H2O
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,65
+page_number,2313
+date_of_publication,1976

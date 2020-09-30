@@ -1,0 +1,15 @@
+id_number,B201880837
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + He
+reference_number,2018000578
+author,Brown### R. L.
+title_of_record,On the Photoionization of Hydrogen and Helium
+journal_name,The Astrophysical Journal
+volume_and_issue_No,164
+page_number,387
+date_of_publication,1971

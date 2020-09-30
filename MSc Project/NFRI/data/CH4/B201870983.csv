@@ -1,0 +1,15 @@
+id_number,B201870983
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ne1+ + CH4 -> CH41+ + Ne
+reference_number,2018000374
+author,A.B. Rakshit### N.D. Twiddy
+title_of_record,Measurements of thermal energy neon ion¡ªneutral reaction rate coefficients and product ion distributions
+journal_name,Chemical Physics Letters
+volume_and_issue_No,60
+page_number,400
+date_of_publication,1979

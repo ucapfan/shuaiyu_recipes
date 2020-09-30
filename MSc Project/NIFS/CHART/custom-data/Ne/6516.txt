@@ -1,0 +1,20 @@
+Id Number = 6516
+Process = CT
+Element A = Ne
+Initial Charge Number A = +10
+Final Charge Number A = +9
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 3E+05,4E+05,5E+05,6E+05
+Y Axis Data = 4.32E-18,8.35E-19,2.60E-19,9.21E-20
+Y Axis Error Data = 0.00E+00,0.00E+00,0.00E+00,0.00E+00
+Reference Number = 1996C309
+Author(s) = Das,M. Deb,N.C. Mukherjee,S.C.
+Title of Record = Calculation of Cross Sections for Electron Capture by Fast Fully Stripped Ions from Atomic Hydrogen
+Journal Name = Physica Scripta
+Volume and Issue No. = 54
+Page Numbers = 44-49
+Date of Publication = 1996
+Process Title = Ne10+ + H(1s) --> Ne9+(n=11) + H+

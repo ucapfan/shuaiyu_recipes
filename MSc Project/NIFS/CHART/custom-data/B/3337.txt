@@ -1,0 +1,20 @@
+Id Number = 3337
+Process = CT
+Element A = B
+Initial Charge Number A = +5
+Final Charge Number A = +4
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 1.0000E+04,2.5000E+04,5.0000E+04,7.5000E+04,1.0000E+05,2.0000E+05
+Y Axis Data = 3.7900E-18,1.3800E-16,1.6800E-16,9.4701E-17,5.0100E-17,5.7900E-18
+Y Axis Error Data = 0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00
+Reference Number = 1982C215
+Author(s) = Ryufuku,H.
+Title of Record = Partial Cross Sections for Charge Transfer in Collisions of Multicharged ions with Atomic Hydrogen.
+Journal Name = JAERI-M
+Volume and Issue No. = 82-031
+Page Numbers = 42
+Date of Publication = 1982
+Process Title = B5+ + H --> B4+(n=6) + H+

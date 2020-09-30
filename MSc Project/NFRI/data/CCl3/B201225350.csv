@@ -1,0 +1,15 @@
+id_number,B201225350
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O2- + CCl3Br -> Br- + CCl3 + O2
+reference_number,2012001164
+author,R. Thomas### Y. Liu### C. A. Mayhew### R. Peverall
+title_of_record,Selected ion flow tube studies of the gas-phase reactions of O-, O2- and OH- with a variety of brominated compounds
+journal_name,IJMSIP
+volume_and_issue_No,155
+page_number,163
+date_of_publication,1996

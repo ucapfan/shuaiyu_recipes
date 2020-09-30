@@ -1,0 +1,15 @@
+id_number,B201208971
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He2+ + CO -> He+ + CO(C2¦²+)
+reference_number,2012000534
+author,D. M. Kearns### D. R. Gillen### D. Voulot### J. B. Greenwood### R. W. McCullough### H. B. Gilbody
+title_of_record,The role of dissociative electron capture in collisions of slow He2+ ions with CO
+journal_name,J. Phys. B
+volume_and_issue_No,34
+page_number,3401
+date_of_publication,2001

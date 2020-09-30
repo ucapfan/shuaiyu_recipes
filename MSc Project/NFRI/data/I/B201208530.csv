@@ -1,0 +1,15 @@
+id_number,B201208530
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Recombination
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H3O+ + I- -> H3O + I
+reference_number,2012000512
+author,Jingzhong Guo### John M. Goodings
+title_of_record,Recombination coecients for H3O+ ions with electrons e- and with Cl-, Br- and I- at flame temperatures 1820-2400 K
+journal_name,Chem. Phys. Lett.
+volume_and_issue_No,329
+page_number,393
+date_of_publication,2000

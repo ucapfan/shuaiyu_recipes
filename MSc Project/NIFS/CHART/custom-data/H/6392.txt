@@ -1,0 +1,20 @@
+Id Number = 6392
+Process = CT
+Element A = H
+Initial Charge Number A = +1
+Final Charge Number A = 0
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 2.5E+04,3.5E+04,5.0E+04,7.5E+0,1.00E+05,1.25E+0.5,1.50E+05,2.00E+05,2.50E+05,3.00E+05,4.00E+05,5.00E+05,6.00E+05,7.50E+05,8.50E+05,1.00E+06,1.25E+06,1.50E+06,2.00E+06,2.50E+06,3.50E+06,5.00E+06,7.50E+06,1.00E+07
+Y Axis Data = 5.08E-16,2.02E-16,6.94E-17,1.81E-17,6.39E-18,2.69E-18,1.28E-18,3.75E-19,1.38E-19,5.89E-20,1.47E-20,4.82E-21,1.90E-21,5.96E-22,3.08E-22,1.29E-22,3.87E-23,1.43E-23,2.92E-24,8.41E-25,1.27E-25,1.68E-26,1.66E-27,3.19E-28
+Y Axis Error Data = 0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+Reference Number = 1991C244
+Author(s) = Belkic,D.
+Title of Record = Electron Transfer from Hydrogenlike Atoms to Partially and Completely Stripped Projectiles: CDW Approximation.
+Journal Name = Phys. Scripta
+Volume and Issue No. = 43
+Page Numbers = 561
+Date of Publication = 1991
+Process Title = H+ + H --> H(n=1) + H+

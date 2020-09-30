@@ -1,0 +1,15 @@
+id_number,B201865968
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,HCN + C1+ -> C2N1+ + H
+reference_number,2018000309
+author,D.C. Clary### D. Smith### N.G. Adams
+title_of_record,Temperature dependence of rate coefficients for reactions of ions with dipolar molecules
+journal_name,Chemical Physics Letters
+volume_and_issue_No,119
+page_number,320
+date_of_publication,1985

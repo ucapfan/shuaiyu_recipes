@@ -1,0 +1,15 @@
+id_number,B201221812
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He + C(3P0) -> He + C(3P1)
+reference_number,2012001283
+author,H. Lavendy### J.M. Robbe### E. Roueff
+title_of_record,Interatomic potentials of the C-He system. Application to fine structure excitation of C(3PJ) in collisions with He
+journal_name,Astron. Astrophys
+volume_and_issue_No,241
+page_number,317
+date_of_publication,1991

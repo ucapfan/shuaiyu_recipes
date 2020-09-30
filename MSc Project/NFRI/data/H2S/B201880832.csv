@@ -1,0 +1,15 @@
+id_number,B201880832
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + H2S -> S1+
+reference_number,2018000575
+author,H.F. PREST### W.-B. TZENG### J.M. BROM### Jr. and C.Y. NG
+title_of_record,MOLECULAR BEAM PHOTOIONIZATION STUDY OF H2S
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,50
+page_number,315
+date_of_publication,1983

@@ -1,0 +1,15 @@
+id_number,B201211624
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Dissociative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Ar+ + SF6 -> SF5+ + F + Ar
+reference_number,2012000617
+author,Clair Atterbury### Andrew D. J. Critchley### Richard A. Kennedy### Chris A. Mayhew### Richard P. Tuckett
+title_of_record,A study of the gas phase reactions of various cations with two derivatives of SF6; SF5CF3 and SF5Cl
+journal_name,Phys. Chem. Chem. Phys.
+volume_and_issue_No,4
+page_number,2206
+date_of_publication,2002

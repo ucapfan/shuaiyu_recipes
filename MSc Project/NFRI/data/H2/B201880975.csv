@@ -1,0 +1,15 @@
+id_number,B201880975
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + H2
+reference_number,2018000601
+author,P.H.S. Martin### T.N. Rescigno### V. McKoy### W.H. Henneker
+title_of_record,Photoionization cross sections for H2 in the random phase approximation with a square-integrable basis
+journal_name,Chemical Physics Letters
+volume_and_issue_No,29
+page_number,496
+date_of_publication,1974

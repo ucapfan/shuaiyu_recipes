@@ -1,0 +1,15 @@
+id_number,B201225597
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Radiative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H(2p1) + H(n=1) -> H2 + hv
+reference_number,2012001334
+author,WILLIAM B. LATTER### JOHN H. BLACK
+title_of_record,MOLECULAR HYDROGEN FORMATION BY EXCITED ATOM RADIATIVE ASSOCIATION
+journal_name,Astrophys. J.
+volume_and_issue_No,372
+page_number,161
+date_of_publication,1991

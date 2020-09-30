@@ -1,0 +1,15 @@
+id_number,B201208206
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H2(v=11) -> H2+ + H
+reference_number,2012000489
+author,Akira Ichihara### Osamu Iwamoto### R. K. Janev
+title_of_record,Cross sections for the reaction H+ + H2 (v = 0¨C14)? H +H+2 at low collision energies
+journal_name,J. Phys. B
+volume_and_issue_No,33
+page_number,4747
+date_of_publication,2000

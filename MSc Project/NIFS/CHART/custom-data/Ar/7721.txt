@@ -1,0 +1,20 @@
+Id Number = 7721
+Process = CT
+Element A = Ar
+Initial Charge Number A = +15
+Final Charge Number A = +14
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 13333.3,20000,23333,35000,40000,70000,83333,125000,250000
+Y Axis Data = 9.2471E-19,2.4306E-18,4.7796E-18,1.5779E-17,4.2935E-17,4.2935E-17,4.9326E-17,2.8545E-17,3.8226E-18
+Y Axis Error Data =
+Reference Number = 2010C466
+Author(s) = Schultz, D.R.$Lee, T-.G.$Loch, S.D.
+Title of Record = Calculations and analysis of cross sections required for argon charge exchange recombination spectroscopy
+Journal Name = J. Phys. B
+Volume and Issue No. = 43
+Page Numbers = 144002
+Date of Publication = 2010
+Process Title = Ar15+ + H(1s) --> Ar14+(n=12,l=7) + H+

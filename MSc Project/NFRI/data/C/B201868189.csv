@@ -1,0 +1,15 @@
+id_number,B201868189
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H1+ + C5+ -> H(1s1) + C6+
+reference_number,2018000252
+author,Mohan Lal### A N Tripathi and M K Srivastava
+title_of_record,Charge-transfer cross sections for protons colliding with hydrogenic ions I
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,11
+page_number,4249
+date_of_publication,1978

@@ -1,0 +1,15 @@
+id_number,B201867931
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H1+ + CN(j=0) -> H1+ + CN(j=1) 2e
+reference_number,2018000234
+author,Andrew E DePristo and Millard H Alexander
+title_of_record,Decoupling approximations for rotationally inelastic collisions between ions and polar molecules : H+-CN
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,9
+page_number,2713
+date_of_publication,1976

@@ -1,0 +1,15 @@
+id_number,B201220880
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Na + I(2) -> Na+ + I-
+reference_number,2012001207
+author,D. A. Padmavathi### Manoj K. Mishra### Herschel Rabitz
+title_of_record,Role of potential structure in nonadiabatic collisions with applications to He++Ne(2p6)->He++Ne(2p53s)and Na+I-> Na++I-
+journal_name,Phys. Rev. A
+volume_and_issue_No,48
+page_number,279
+date_of_publication,1993

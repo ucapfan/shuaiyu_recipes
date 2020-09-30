@@ -1,0 +1,15 @@
+id_number,B201221125
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,C3+ + H
+reference_number,2012001233
+author,C. C. Havener### A. Muller### P. A. Zeijlmans van Emmichoven### R. A. Phaneuf
+title_of_record,Low-energy electron capture by C3+ from hydrogen using merged beams
+journal_name,Phys. Rev. A
+volume_and_issue_No,51
+page_number,2982
+date_of_publication,1995

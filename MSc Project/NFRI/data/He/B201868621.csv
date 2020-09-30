@@ -1,0 +1,15 @@
+id_number,B201868621
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ar2+(3P) + He -> He1+ + Ar1+
+reference_number,2018000296
+author,D. SMITH### D. GRIEF and N.G. ADAMS
+title_of_record,SOME REACTIONS OF Ar2+ WITH ATOMS AND MOLECULES AT 300 K
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,30
+page_number,271
+date_of_publication,1979

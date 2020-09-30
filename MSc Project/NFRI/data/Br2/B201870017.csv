@@ -1,0 +1,15 @@
+id_number,B201870017
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Dissociation
+sub_process,Neutral Product Dissociation
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,K + Br2
+reference_number,2018000333
+author,C.W.A. Evers### A.E. de Vries### J. Los
+title_of_record,Nonreactive scattering of K by Br2 in the energy range of 0¨C10 eV
+journal_name,Chemical Physics
+volume_and_issue_No,29
+page_number,399
+date_of_publication,1978

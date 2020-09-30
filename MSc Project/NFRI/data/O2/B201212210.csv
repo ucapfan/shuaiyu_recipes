@@ -1,0 +1,15 @@
+id_number,B201212210
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Quenching
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,NCO(A3¦²+) + O2 -> NCO(A2¦°i) + O2
+reference_number,2012000651
+author,Changjin Hu### Yunzhen Liu### Linsen Pei### Jinghua Dai### Yang Chen### Congxiang Chen### Xingxiao Ma
+title_of_record,Collisional quenching of NCO (A2¦²+) by some inorganic molecules
+journal_name,Chem. Phys.
+volume_and_issue_No,289
+page_number,389
+date_of_publication,2003

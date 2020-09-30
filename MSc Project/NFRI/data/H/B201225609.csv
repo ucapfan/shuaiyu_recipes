@@ -1,0 +1,15 @@
+id_number,B201225609
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Radiative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Si+ + H -> SiH+ + hv
+reference_number,2012001340
+author,P.C. Stancil### K. Kirby### J.-P. Gu### G. Hirsch### R.J. Buenker### A.B. Sannigrahi
+title_of_record,The formation of SiH+, PH+, and SH+ by radiative association
+journal_name,Astron. Astrophys. Suppl. Ser.
+volume_and_issue_No,142
+page_number,107
+date_of_publication,2000

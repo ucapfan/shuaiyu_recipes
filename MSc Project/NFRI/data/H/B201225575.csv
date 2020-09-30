@@ -1,0 +1,15 @@
+id_number,B201225575
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Ionization
+sub_process,Partial
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H(1s1) + H(n=20) -> H(1s1) + H+ + e
+reference_number,2012001333
+author,W. H. SOON
+title_of_record,ANALYTICAL CROSS SECTIONS AND RATE COEFFICIENTS FOR H-H INELASTIC COLLISIONS
+journal_name,Astrophys. J.
+volume_and_issue_No,394
+page_number,717
+date_of_publication,1992

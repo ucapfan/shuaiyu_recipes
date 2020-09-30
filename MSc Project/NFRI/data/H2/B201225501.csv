@@ -1,0 +1,15 @@
+id_number,B201225501
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Dissociation
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H + H2
+reference_number,2012000879
+author,P. G. MARTIN### W. J. KEOGH### M. E. MANDY
+title_of_record,COLLISION-INDUCED DISSOCIATION OF MOLECULAR HYDROGEN AT LOW DENSITIES
+journal_name,Astrophys. J.
+volume_and_issue_No,499
+page_number,793
+date_of_publication,1998

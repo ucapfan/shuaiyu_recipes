@@ -1,0 +1,15 @@
+id_number,B201868847
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O21+ + C2H4 -> C2H41+ + O2
+reference_number,2018000322
+author,A.B. Raksit
+title_of_record,Reactions of O2+, O4+ and O2+¡¤H2O ions with neutral molecules
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,69
+page_number,45
+date_of_publication,1986

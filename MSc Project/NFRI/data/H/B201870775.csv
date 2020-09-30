@@ -1,0 +1,15 @@
+id_number,B201870775
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Detachment
+sub_process,Associative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H + H1- -> H2(v=1 j=7) + e
+reference_number,2018000371
+author,Bieniek### R. J.; Dalgarno### A.
+title_of_record,Associative detachment in collisions of H and H-
+journal_name,The Astrophysical Journal
+volume_and_issue_No,228
+page_number,635
+date_of_publication,1979

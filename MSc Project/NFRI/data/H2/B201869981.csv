@@ -1,0 +1,15 @@
+id_number,B201869981
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Dissociation
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Li1+ + H2
+reference_number,2018000326
+author,J. Schttler### J. Peter Toennies
+title_of_record,Dissociation of hydrogen molecules in collisions with light alkali ions. II. Li+-H2
+journal_name,Chemical Physics
+volume_and_issue_No,4
+page_number,24
+date_of_publication,1974

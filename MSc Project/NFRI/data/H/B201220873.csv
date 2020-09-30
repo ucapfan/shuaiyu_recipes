@@ -1,0 +1,15 @@
+id_number,B201220873
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H -> H+ + H(n=2)
+reference_number,2012001206
+author,Zhifan Chen### Daniel Bessis### Alfred Z. Msezane
+title_of_record,Numerical method for the calculation of two-center integrals
+journal_name,Phys. Rev. A
+volume_and_issue_No,47
+page_number,4756
+date_of_publication,1993

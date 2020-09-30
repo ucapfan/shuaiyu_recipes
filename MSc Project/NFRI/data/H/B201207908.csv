@@ -1,0 +1,15 @@
+id_number,B201207908
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H -> H2+
+reference_number,2012000481
+author,Pichl
+title_of_record,Total, Partial, and Differential Ionization Cross Sections in Proton¨CHydrogen Atom Collisions in the Energy Region of 0.1¨C10 keV/u
+journal_name,J. Phys. Chem. Ref. Data
+volume_and_issue_No,33
+page_number,1031
+date_of_publication,2004

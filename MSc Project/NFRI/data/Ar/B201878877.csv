@@ -1,0 +1,15 @@
+id_number,B201878877
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Ionization
+sub_process,Single
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + Ar4+ -> Ar3+
+reference_number,2018000542
+author,D. A.VERNER### G. J. FERLAND### AND K. T. KORISTA AND D. G. YAKOVLEV
+title_of_record,ATOMIC DATA FOR ASTROPHYSICS. II. NEW ANALYTIC FITS FOR PHOTOIONIZATION CROSS SECTIONS OF ATOMS AND IONS
+journal_name,THE ASTROPHYSICAL JOURNAL
+volume_and_issue_No,465
+page_number,487
+date_of_publication,1996

@@ -1,0 +1,15 @@
+id_number,B201870640
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H2(j=0) + H3(j=4) -> H2(j=2) + H2(j=4)
+reference_number,2018000363
+author,George Zarur### and Herschel Rabitz
+title_of_record,Effective potential formulation of molecule©\molecule collisions with application to H2¨CH2
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,60
+page_number,2057
+date_of_publication,1974

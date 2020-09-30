@@ -1,0 +1,15 @@
+id_number,B201218771
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Associative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H(2s1) + H2 -> H3+ + e
+reference_number,2012000854
+author,A. Gicquel### M. Chenevier### Kh. Hassouni### A. Tserepi### M. Dubus
+title_of_record,Validation of actinometry for estimating relative hydrogen atom densities and electron energy evolution in plasma assisted diamond deposition reactors
+journal_name,J. Appl. Phys.
+volume_and_issue_No,83
+page_number,7504
+date_of_publication,1998

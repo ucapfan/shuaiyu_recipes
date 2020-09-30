@@ -1,0 +1,15 @@
+id_number,B201868394
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H1+ + CN(J=0) -> H1+ + CN(J=2)
+reference_number,2018000284
+author,M J Jamieson### P M Kalaghan and A Dalgarno
+title_of_record,Rotational excitation of CN molecules by proton impact
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,8
+page_number,2140
+date_of_publication,1975

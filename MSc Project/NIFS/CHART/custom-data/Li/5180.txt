@@ -1,0 +1,20 @@
+Id Number = 5180
+Process = CT
+Element A = Li
+Initial Charge Number A = +3
+Final Charge Number A = +2
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 1.30E+05
+Y Axis Data = 3.822E-19
+Y Axis Error Data = 0.00E+00
+Reference Number = 1981C317
+Author(s) = Crothers,D.S.F.
+Title of Record = Continuum distorted waves: capture into the nth shell
+Journal Name = J. Phys. B
+Volume and Issue No. = 14
+Page Numbers = 1035-1040
+Date of Publication = 1981
+Process Title = Li3+ + H(1s) --> Li2+(n=14) + H+

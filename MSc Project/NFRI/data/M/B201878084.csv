@@ -1,0 +1,15 @@
+id_number,B201878084
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Scattering
+sub_process,Differential
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + Md
+reference_number,2018000498
+author,B.K.Chatterjee and S.C. Roy
+title_of_record,Tables of Elastic Scattering Cross Sections of Photons in the Energy Range 50¨C1500 keV for All Elements in the Range 13Z104
+journal_name,J. Phys. Chem. Ref. Data
+volume_and_issue_No,27
+page_number,1011
+date_of_publication,1998

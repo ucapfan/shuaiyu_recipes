@@ -1,0 +1,15 @@
+id_number,B201879486
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + Ti -> Ti1+
+reference_number,2018000565
+author,I. M. BAND### YU. I. KHARITONOV### AND M. B. TRZHASKOVSKAYA
+title_of_record,PHOTOIONIZATION CROSS SECTIONS AND PHOTOELECTRON ANGULAR DISTRIBUTIONS FOR X-RAY LINE ENERGIES IN THE RANGE 0.132-4.509 KEV Targets: 1 ¡Ü 2 ¡Ü 100
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,23
+page_number,443
+date_of_publication,1979

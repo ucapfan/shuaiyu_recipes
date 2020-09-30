@@ -1,0 +1,15 @@
+id_number,B201880849
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Dissociative
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + O31+ -> O21+ + O
+reference_number,2018000582
+author,M. L. Vestal and  G. H. Mauclaire
+title_of_record,Photodissociation of positive and negative ions formed in O2 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,67
+page_number,3767
+date_of_publication,1977

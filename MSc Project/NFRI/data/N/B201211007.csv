@@ -1,0 +1,15 @@
+id_number,B201211007
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Electron Loss
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Xe3+ + N -> Xe7+ + N + e(4)
+reference_number,2012000615
+author,R. D. DuBois### A. C. F. Santos### R. E. Olson
+title_of_record,Electron loss from 0.74- and 1.4-MeV/u low-charge-state argon and xenon ions colliding with neon, nitrogen, and argon
+journal_name,Phys. Rev. A
+volume_and_issue_No,68
+page_number,042701
+date_of_publication,2003

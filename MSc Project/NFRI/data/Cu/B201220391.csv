@@ -1,0 +1,15 @@
+id_number,B201220391
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Partial
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He2+ + Cu -> He2+ + Cu3+ + e(3)
+reference_number,2012001161
+author,C. J. Patton### M. B. Shah### M. A. Bolorizadeh### J. Geddes### H. B. Gilbody
+title_of_record,Ionization in collisions of fast H+ and He2+ ions with Fe and Cu atoms
+journal_name,J. Phys. B
+volume_and_issue_No,28
+page_number,3889
+date_of_publication,1995

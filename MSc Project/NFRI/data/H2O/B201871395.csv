@@ -1,0 +1,15 @@
+id_number,B201871395
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He1+ + H2O -> He1+ + H2O1+
+reference_number,2018000466
+author,P. M. Y. Garcia and G. M. Sigaud### H. Luna### A. C. F. Santos and E. C. Montenegro### M. B. Shah
+title_of_record,Water-molecule dissociation by impact of He+ ions
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,77
+page_number,052708
+date_of_publication,2008

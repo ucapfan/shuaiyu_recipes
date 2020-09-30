@@ -1,0 +1,15 @@
+id_number,B201211747
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H2(j=1) + F -> HF + H
+reference_number,2012000627
+author,V. Aquilanti### S. Cavalli### D. De Fazio### A. Volpi### A. Aguilar### X. Gimenez### J. M. Lucas
+title_of_record,Exact reaction dynamics by the hyperquantization algorithm: integral and differential cross sections for F+H2 , including long-range and spin¨Corbit effects
+journal_name,Phys. Chem. Chem. Phys.
+volume_and_issue_No,4
+page_number,401
+date_of_publication,2002

@@ -1,0 +1,20 @@
+Record Number = 10408
+Process = particle rearrangement;association;dissociation
+Theory or Experiment = T
+data type = CS
+Projectile Element = D
+Projectile Charge State = +1
+Target Molecule = H2
+Target Charge State = 0
+Initial Excited State B =
+Products = HD+;H
+Original X Unit = eV
+Original Y Unit = cm2
+Reference Number = 1996T301
+Author(s) = Ichihara, A.$Shirai, T.$Yokoyama, K.
+Title of Record = A study on ion-molecule reactions in the H3+ system with the trajectory-surface-hopping model
+Journal Name = J. Chem. Phys.
+Volume and Issue No. = 105
+Page Numbers = 1857
+Date of Publication = 1996
+Process Title = D+ (v=0,j=1) + H2 --> HD++H

@@ -1,0 +1,15 @@
+id_number,B201223949
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,C(3P) + O2 -> CO + O
+reference_number,2012001308
+author,D. Chastaing### P. L. James### I. R. Sims### I. W. M. Smith
+title_of_record,Neutral-neutral reactions at the temperatures of interstellar clouds: Rate coefficients for reactions of atomic carbon, C(3P), with O2, C2H2, C2H4 and C3H6 down to 15 K
+journal_name,Phys. Chem. Chem. Phys.
+volume_and_issue_No,1
+page_number,2247
+date_of_publication,1999

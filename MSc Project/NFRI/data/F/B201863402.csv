@@ -1,0 +1,15 @@
+id_number,B201863402
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Excitation
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H1+ + F5+(2s 2p,3P0) -> H1+ + F5+(2s 2p,3P1)
+reference_number,2018000175
+author,J.G. Doyle
+title_of_record,Proton excitation rate coefficients and cross sections among the fine-structure levels of the (2s2p)3P state in Be-like ions
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,37
+page_number,441
+date_of_publication,1987

@@ -1,0 +1,15 @@
+id_number,B201216764
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,NO(v=0) + NO(X2¦°1/2,v=3, J=31/2) -> NO(v=1) + NO(X2¦°1/2,v=2, J=27/2)
+reference_number,2012001050
+author,M. Islam### I. W. M. Smith
+title_of_record,Rotationally specific rates of vibration-vibration energy exchange in collisions of NO(X2¦°1/2,v=3) with NO(X2¦°,v=0)
+journal_name,J. Chem. Phys.
+volume_and_issue_No,111
+page_number,9296
+date_of_publication,1999

@@ -1,0 +1,15 @@
+id_number,B201878524
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + H1- -> H + e
+reference_number,2018000537
+author,Cecil Laughlin### Shih-I Chu
+title_of_record,Multiphoton detachment of H
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,48
+page_number,4654
+date_of_publication,1993

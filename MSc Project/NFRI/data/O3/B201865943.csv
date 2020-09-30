@@ -1,0 +1,15 @@
+id_number,B201865943
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,OH + O3 -> HO2 + O2
+reference_number,2018000307
+author,R.A. Cox### J.P. Burrows### T.J. Wallington
+title_of_record,Rate coefficient for the reaction OH + HO2 = H2O + O2 at 1 atmosphere pressure and 308 K
+journal_name,Chemical Physics Letters
+volume_and_issue_No,84
+page_number,217
+date_of_publication,1981

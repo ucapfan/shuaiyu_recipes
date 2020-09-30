@@ -1,0 +1,15 @@
+id_number,B201878378
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + HCl
+reference_number,2018000516
+author,Mohammed Bahou### Chao-Yu Chung### and Yuan-Pern Lee### Bing-Ming Cheng### Yuk L. Yung### L. C. Lee 
+title_of_record,ABSORPTION CROSS SECTIONS OF HCl AND DCl AT 135¨C232 NANOMETERS: IMPLICATIONS FOR PHOTODISSOCIATION ON VENUS
+journal_name,The Astrophysical Journal
+volume_and_issue_No,559
+page_number,L179
+date_of_publication,2001

@@ -1,0 +1,15 @@
+id_number,B201876721
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,e + C2F6
+reference_number,2018000044
+author,L.G.Christophorou and J.K.Olthoff
+title_of_record,Electron Interactions with C2F6
+journal_name,J. Phys. Chem. Ref. Data
+volume_and_issue_No,27
+page_number,1
+date_of_publication,1998

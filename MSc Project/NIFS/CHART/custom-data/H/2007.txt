@@ -1,0 +1,20 @@
+Id Number = 2007
+Process = EXC
+Element A = H
+Initial Charge Number A = +1
+Final Charge Number A = +1
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = 0
+Theory or Experiment = E
+X Axis Data = 1.5000E+04,2.0000E+04,2.5000E+04,3.0000E+04,3.5000E+04,4.0000E+04,4.5000E+04,5.0000E+04,5.5000E+04,6.0000E+04,6.5000E+04,7.0000E+04,7.5000E+04,8.0000E+04,8.5000E+04,9.5000E+04,1.0500E+05,1.2500E+05,1.4500E+05,1.6500E+05,1.8500E+05,2.0000E+05
+Y Axis Data = 3.4400E-17,5.3600E-17,6.6300E-17,7.8600E-17,8.4700E-17,9.6400E-17,9.9000E-17,1.0530E-16,1.0590E-16,1.0740E-16,1.0190E-16,1.0260E-16,1.0260E-16,9.7500E-17,9.4700E-17,9.3200E-17,8.8800E-17,8.4700E-17,7.7500E-17,7.2700E-17,6.8700E-17,6.6400E-17
+Y Axis Error Data = 4.0000E-18,2.0000E-18,4.4000E-18,5.0000E-18,7.8000E-18,8.3000E-18,9.7000E-18,6.4000E-18,2.5000E-18,6.4000E-18,6.6000E-18,8.4000E-18,2.7000E-18,3.8000E-18,7.0000E-18,5.5000E-18,2.9000E-18,2.4000E-18,5.8000E-18,3.1000E-18,2.0000E-18,3.5000E-18
+Reference Number = 1976C051
+Author(s) = Park,J.T. Aldag,J.E. George,J.M. Peacher,J.L.
+Title of Record = Cross sections for excitation of atomic hydrogen to the n=2, 3 and 4 states by 15-200 keV protons
+Journal Name = Phys.Rev.A
+Volume and Issue No. = 14
+Page Numbers = 608
+Date of Publication = 1976
+Process Title = H+ + H --> H+ + H(N=2)

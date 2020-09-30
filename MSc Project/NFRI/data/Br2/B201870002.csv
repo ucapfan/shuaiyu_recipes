@@ -1,0 +1,15 @@
+id_number,B201870002
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Dissociation
+sub_process,Neutral Product Dissociation
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,K + Br2 -> K + Br + Br
+reference_number,2018000329
+author,C.W.A. Evers
+title_of_record,Total cross sections for K + Br2 at relative energies between 0 and 8000 eV
+journal_name,Chemical Physics
+volume_and_issue_No,30
+page_number,27
+date_of_publication,1978

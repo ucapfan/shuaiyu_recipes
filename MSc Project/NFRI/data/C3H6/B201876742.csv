@@ -1,0 +1,15 @@
+id_number,B201876742
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + C3H6
+reference_number,2018000493
+author,Askar Fahr### Akshaya Nayak
+title_of_record,Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene and vinylacetylene
+journal_name,Chemical Physics
+volume_and_issue_No,203
+page_number,351
+date_of_publication,1996

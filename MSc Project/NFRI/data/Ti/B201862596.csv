@@ -1,0 +1,15 @@
+id_number,B201862596
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Sub Shell
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + Ti -> H+ + Ti+(K-shell) + e
+reference_number,2018000172
+author,DAVID D. COHEN
+title_of_record,K- AND L-SHELL IONIZATION CROSS SECTIONS FOR PROTONS AND HELIUM IONS CALCULATED IN THE ECPSSR THEORY
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,33
+page_number,255
+date_of_publication,1985

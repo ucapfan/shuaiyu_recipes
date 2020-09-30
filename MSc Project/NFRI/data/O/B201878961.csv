@@ -1,0 +1,15 @@
+id_number,B201878961
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + O
+reference_number,2018000551
+author,P. S. Ganas
+title_of_record,Photoionization of Atomic Nitrogen and Atomic Oxygen
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,7
+page_number,928
+date_of_publication,1973

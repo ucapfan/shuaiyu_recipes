@@ -1,0 +1,15 @@
+id_number,B201870281
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O1+ + N2 -> NO1+ + N
+reference_number,2018000350
+author,J. A. Rutherford and  D. A. Vroom
+title_of_record,Effect of Metastable O+(2D) on Reactions of O+ with Nitrogen Molecules 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,55
+page_number,5622
+date_of_publication,1971

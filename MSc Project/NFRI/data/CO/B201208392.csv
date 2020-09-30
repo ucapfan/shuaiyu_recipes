@@ -1,0 +1,15 @@
+id_number,B201208392
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Partial
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,F4+ + CO4+ -> F4+ + O2+ + C3+ + e
+reference_number,2012000501
+author,Takao Wada### Toshiaki Kaneko
+title_of_record,The Molecular Effect in the Multiple Ionization of Diatom Molecules by Fast Ion Impact
+journal_name,J. Phys. Soc. Jpn
+volume_and_issue_No,74
+page_number,568
+date_of_publication,2005

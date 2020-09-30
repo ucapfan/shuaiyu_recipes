@@ -1,0 +1,15 @@
+id_number,B201219983
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H(1s1) + B5+ -> H(2p1) + B5+
+reference_number,2012001169
+author,L. F. Errea### L. Mendez### B. Pons### A. Riera### I. Sevila### J. Suarez
+title_of_record,Semiclassical treatment of excitation and electron loss in Aq++H(1s) collisions using spherical Bessel functions
+journal_name,Phys. Rev. A
+volume_and_issue_No,74
+page_number,012722
+date_of_publication,2006

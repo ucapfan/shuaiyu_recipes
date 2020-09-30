@@ -1,0 +1,15 @@
+id_number,B201869595
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Quenching
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O(1D) + N2O
+reference_number,2018000432
+author,R. A. Young### Graham Black### and T. G. Slanger
+title_of_record,Reaction and Deactivation of O(1D)
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,49
+page_number,4758
+date_of_publication,1968

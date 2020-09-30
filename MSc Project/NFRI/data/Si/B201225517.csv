@@ -1,0 +1,15 @@
+id_number,B201225517
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Charge Transfer
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + Si(1D) -> H + Si+(2D)
+reference_number,2012001328
+author,M. KIMURA### A. B. SANNIGRAHI### J. P. GU### G. HIRSCH### R. J. BUENKER### I. SHIMAMURA
+title_of_record,CHARGE TRANSFER RATE IN COLLISIONS OF H+ IONS WITH Si ATOMS
+journal_name,Astrophys. J.
+volume_and_issue_No,473
+page_number,1114
+date_of_publication,1996

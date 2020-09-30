@@ -1,0 +1,15 @@
+id_number,B201869587
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,N21+ + CO2 -> N2 + CO21+
+reference_number,2018000430
+author,H. F. Savage and F. C. Witteborn
+title_of_record,Charge©\Exchange Cross Sections of N22+ in N2, CO2 and Ar and Contamination of N+ Beams by N22+
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,48
+page_number,1872
+date_of_publication,1968

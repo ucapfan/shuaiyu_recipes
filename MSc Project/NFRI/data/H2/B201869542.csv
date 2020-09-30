@@ -1,0 +1,15 @@
+id_number,B201869542
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He(n=2,3S) + H2
+reference_number,2018000421
+author,Albert P. Hickman###  Alan D. Isaacson### and  William H. Miller
+title_of_record,Penning ionization of H2 by He(23S): Quantum mechanical scattering calculations within the rigid©\rotor approximation 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,66
+page_number,1492
+date_of_publication,1977

@@ -1,0 +1,15 @@
+id_number,B201878991
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + H2S
+reference_number,2018000557
+author,T.Ibuki### H.Koizumi### T.Yoshimi### M.Morita### S.Arai### K.Hironaka### K.Shinsaka### Y.Hatano### Y.Yagishita### K.Ito
+title_of_record,PHOTOABSORPTlON CROSS SECTION OF H2S
+journal_name,Chemical Physics Letters
+volume_and_issue_No,119
+page_number,327
+date_of_publication,1985

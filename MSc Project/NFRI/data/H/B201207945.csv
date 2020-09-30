@@ -1,0 +1,15 @@
+id_number,B201207945
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,HCN(004) + H -> H2 + CN
+reference_number,2012000487
+author,D. Troya### I. Banos### M. Gonzalez### G. wu### M. A. ter Horst### G. C. Schatz
+title_of_record,A quasiclassical trajectory study of the H+HCN->H2+CN reaction dynamics
+journal_name,J. Chem. Phys.
+volume_and_issue_No,113
+page_number,6253
+date_of_publication,2000

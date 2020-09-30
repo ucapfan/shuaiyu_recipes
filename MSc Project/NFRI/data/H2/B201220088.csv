@@ -1,0 +1,15 @@
+id_number,B201220088
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,H+ + H2
+reference_number,2012001170
+author,A. V. Phelps
+title_of_record,Cross Sections and Swarm Coefficients for H+,H2+,H3+,H,H2,and H-in H2 for Energies from 0.1eV to 10keV
+journal_name,J. Phys. Chem. Ref. Data
+volume_and_issue_No,19
+page_number,653
+date_of_publication,1990

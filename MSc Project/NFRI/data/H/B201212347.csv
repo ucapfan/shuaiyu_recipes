@@ -1,0 +1,15 @@
+id_number,B201212347
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H2O + H -> OH + H2
+reference_number,2012000666
+author,M. Brouard### S. Marinakis### L. Rubio Lago### F. Quadrini### D. Solaiman### C. Vallance### F. J. Aoiz### L. Banares### J. F. Castillo
+title_of_record,Cross-sections for the H+H2O->OH+H2 and H+D2O->OD+HD abstraction reactions
+journal_name,Phys . Chem. Chem. Phys.
+volume_and_issue_No,6
+page_number,4991
+date_of_publication,2004

@@ -1,0 +1,15 @@
+id_number,B201211348
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Scattering
+sub_process,Elastic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H + H2(v=0, J=8) -> H + H2(v=0, J=8)
+reference_number,2012000636
+author,D. R. Flower
+title_of_record,A quantal study of the rovibrational excitation of H2 by H
+journal_name,J. Phys. B
+volume_and_issue_No,30
+page_number,3009
+date_of_publication,1997

@@ -1,0 +1,15 @@
+id_number,B201225519
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Charge Transfer
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + C -> C+ + H
+reference_number,2012001329
+author,P. C. STANCIL### C. C. HAVENER### P. S. KRSTIC###  D. R. SCHULTZ
+title_of_record,CHARGE TRANSFER IN COLLISIONS OF C+ WITH H AND H+ WITH C
+journal_name,Astrophys. J.
+volume_and_issue_No,502
+page_number,1006
+date_of_publication,1998

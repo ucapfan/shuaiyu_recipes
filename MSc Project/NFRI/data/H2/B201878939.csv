@@ -1,0 +1,15 @@
+id_number,B201878939
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Ionization
+sub_process,Single
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + H2 -> H21+
+reference_number,2018000543
+author,M. YAN### H. R. SADEGHPOUR### AND A. DALGARNO
+title_of_record,PHOTOIONIZATION CROSS SECTIONS OF He AND H2
+journal_name,THE ASTROPHYSICAL JOURNAL
+volume_and_issue_No,496
+page_number,1044
+date_of_publication,1998

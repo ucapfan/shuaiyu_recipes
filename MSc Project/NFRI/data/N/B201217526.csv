@@ -1,0 +1,15 @@
+id_number,B201217526
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H + N4+
+reference_number,2012001068
+author,E. Y. Sidky### W. Fritsch### C. D. Lin
+title_of_record,Total and state-selective electron-capture cross sections for N4+-H collisions
+journal_name,Phys. Rev. A
+volume_and_issue_No,59
+page_number,1994
+date_of_publication,1999

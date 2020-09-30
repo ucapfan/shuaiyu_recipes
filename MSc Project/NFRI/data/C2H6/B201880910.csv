@@ -1,0 +1,15 @@
+id_number,B201880910
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + C2H6
+reference_number,2018000596
+author,Mount### G. H.; Moos### H. W.
+title_of_record,Photoabsorption cross sections of methane and ethane, 1380-1600 A, at T = 295 K and T = 200 K
+journal_name,The Astrophysical Journal
+volume_and_issue_No,224
+page_number,L35
+date_of_publication,1978

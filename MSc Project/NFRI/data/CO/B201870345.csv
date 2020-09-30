@@ -1,0 +1,15 @@
+id_number,B201870345
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O1+(4S) + CO(1&Sigma+) -> O(3P) + CO1+(2&Sigma+)
+reference_number,2018000355
+author,Edmond Murad
+title_of_record,Reaction of O+ with CO
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,58
+page_number,4374
+date_of_publication,1973

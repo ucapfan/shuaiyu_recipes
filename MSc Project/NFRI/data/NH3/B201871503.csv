@@ -1,0 +1,15 @@
+id_number,B201871503
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Dissociation
+sub_process,Neutral Product Dissociation
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,hv + NH3
+reference_number,2018000471
+author,K.KAMETA###N.KOUCHI###Y.HATANO
+title_of_record,Photon and Electron Interactions with Atoms, Molecules and Ions
+journal_name,Numerical Data and Functional Relationships in Science and Technology
+volume_and_issue_No,17C
+page_number,Chap.4
+date_of_publication,2003

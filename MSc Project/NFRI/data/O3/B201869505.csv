@@ -1,0 +1,15 @@
+id_number,B201869505
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,SH1- + O3 -> SO21- + OH
+reference_number,2018000413
+author,C. Lifshitz###  R. L. C. Wu###  J. C. Haartz### and  T. O. Tiernan
+title_of_record,Associative detachment reactions of negative ions with O3 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,67
+page_number,2381
+date_of_publication,1977

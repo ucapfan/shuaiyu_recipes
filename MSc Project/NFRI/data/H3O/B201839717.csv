@@ -1,0 +1,15 @@
+id_number,B201839717
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,State Selectivity
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CH3COSH + H3O1+ -> CH3CO 1+ + H2O + H2S
+reference_number,2018000168
+author,Patrik pan¨§l### David Smith
+title_of_record,Selected ion flow tube studies of the reactions of H3O+, NO+, and O2+ with some organosulphur molecules
+journal_name,International Journal of Mass Spectrometry and Ion Processes
+volume_and_issue_No,176
+page_number,167
+date_of_publication,1998

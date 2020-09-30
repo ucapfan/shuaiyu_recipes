@@ -1,0 +1,15 @@
+id_number,B201871047
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,C1+ + NH3 -> NH31+
+reference_number,2018000377
+author,D. Smith### N.G. Adams
+title_of_record,Reactions of CH+n IONS with ammonia at 300 K
+journal_name,Chemical Physics Letters
+volume_and_issue_No,47
+page_number,145
+date_of_publication,1977

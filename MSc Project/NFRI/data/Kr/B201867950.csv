@@ -1,0 +1,15 @@
+id_number,B201867950
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He2+ + Kr -> He1+(2s1) + Kr1+
+reference_number,2018000236
+author,M B Shah and H B Gilbody
+title_of_record,Redetermination of cross sections for formation of metastable He+ (2s) ions in fast collisions using an improved calibration procedure
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,9
+page_number,1933
+date_of_publication,1976

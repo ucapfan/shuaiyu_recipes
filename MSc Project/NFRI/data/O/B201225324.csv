@@ -1,0 +1,15 @@
+id_number,B201225324
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H + O(3P0) -> H + O(3P2)
+reference_number,2012001303
+author,E. Abrahamsson### R. V. Krems### A. Dalgarno
+title_of_record,FINE-STRUCTURE EXCITATION OF O i AND C i BY IMPACT WITH ATOMIC HYDROGEN
+journal_name,Astrophys. J.
+volume_and_issue_No,654
+page_number,1171
+date_of_publication,2007

@@ -1,0 +1,20 @@
+Record Number = 11070
+Process = vibration;excitation
+Theory or Experiment = T
+data type = RC
+Projectile Element = H2
+Projectile Charge State = 0
+Target Molecule = H2
+Target Charge State = 0
+Initial Excited State B = v=9
+Products = H2(v=13)
+Original X Unit = K
+Original Y Unit = cm3/s
+Reference Number = 2002T301
+Author(s) = Ceballos, A.$Garcia, E.$Lagana, A.
+Title of Record = Quasiclassical Rate Coefficients for the H2 + H2 Reaction and Dissociation
+Journal Name = J. Phys. Chem. Ref. Data
+Volume and Issue No. = 31
+Page Numbers = 371-385
+Date of Publication = 2002
+Process Title = H2 (v=11) + H2 (v=9) --> H2(v=13)

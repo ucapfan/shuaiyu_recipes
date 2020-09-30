@@ -1,0 +1,15 @@
+id_number,B201880902
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + H2O
+reference_number,2018000593
+author,D. H. Katayama###  R. E. Huffman### and  C. L. O'Bryan
+title_of_record,Absorption and photoionization cross sections for H2O and D2O in the vacuum ultraviolet
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,59
+page_number,4309
+date_of_publication,1973

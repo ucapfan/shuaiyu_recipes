@@ -1,0 +1,15 @@
+id_number,B201867299
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H1+ + Kr -> H1+ + Kr1+
+reference_number,2018000218
+author,R Hippler and K-H Schartner
+title_of_record,Outer s-shell ionization of neon, argon, and krypton by proton impact (125 keV-1200 keV)
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,7
+page_number,1167
+date_of_publication,1974

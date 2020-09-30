@@ -1,0 +1,15 @@
+id_number,B201868791
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,N2H1+ + N2O -> HN2O1+
+reference_number,2018000319
+author,A.B. Rakshit
+title_of_record,A drift-chamber mass-spectrometric study of the interaction of H3+ ions with neutral molecules at 300 K
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,41
+page_number,185
+date_of_publication,1982

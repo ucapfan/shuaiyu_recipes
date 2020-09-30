@@ -1,0 +1,15 @@
+id_number,B201208355
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H2 + H2
+reference_number,2012000498
+author,TATSUO TABATA### TOSHIZO SHIRAI
+title_of_record,ANALYTIC CROSS SECTIONS FOR COLLISIONS OF H+, H+2, H+3 , H, H2, AND H- WITH HYDROGEN MOLECULES
+journal_name,ADNDT
+volume_and_issue_No,76
+page_number,1
+date_of_publication,2000

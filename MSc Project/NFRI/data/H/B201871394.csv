@@ -1,0 +1,15 @@
+id_number,B201871394
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Si3+ + H
+reference_number,2018000465
+author,H. Bruhns### H. Kreckel### and D. W. Savin### D. G. Seely### C. C. Havener
+title_of_record,Low-energy charge transfer for collisions of Si3+ with atomic hydrogen
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,77
+page_number,064702
+date_of_publication,2008

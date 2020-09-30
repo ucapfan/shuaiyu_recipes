@@ -1,0 +1,15 @@
+id_number,B201209107
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O+(4S) + CO(v=0) -> O(3P2) + CO+(v=0)
+reference_number,2012000537
+author,T. Kusakabe### H. Nakanishi### A. Iida### K. Hosomi### H. Tawara### M. Sasao### Y. Nakai
+title_of_record,Charge transfer cross sections in collisions of ground state O+(4S) ions with H2 and various carbon-containing molecules in the low-energy region
+journal_name,J. Phys. B
+volume_and_issue_No,34
+page_number,4809
+date_of_publication,2001

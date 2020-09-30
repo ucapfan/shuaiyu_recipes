@@ -1,0 +1,16 @@
+id_number,B201216797
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Attachment
+sub_process,Dissociative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,SF5Cl + CF3- -> SF5- + Cl + CF3
+reference_number,2012000654
+author,C.A. Mayhew### A. Critchley### G.K. Jarvis
+title_of_record,Electron attachment to and anion reactions with SF5Cl:
+electron-swarm and selected ion flow tube studies
+journal_name,Int. J. Mass Spectrom.
+volume_and_issue_No,233
+page_number,259
+date_of_publication,2004

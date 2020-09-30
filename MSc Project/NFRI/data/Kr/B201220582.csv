@@ -1,0 +1,15 @@
+id_number,B201220582
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Attachment
+sub_process,Ion Pair Production
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Br + Kr -> Br- + Kr+
+reference_number,2012001183
+author,B. Hird### B. M. Elrick### H. Lacasse### J. H. LaCasse### P. Tume
+title_of_record,Bromine-rare-gas electron-transfer and electron-loss cross sections at 15-130-keV collision energies
+journal_name,Phys. Rev. A
+volume_and_issue_No,41
+page_number,5217
+date_of_publication,1990

@@ -1,0 +1,15 @@
+id_number,B201870722
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,N3+ + H -> N2+ + H1+
+reference_number,2018000367
+author,Christensen### R. B.; Watson### W. D.; Blint### R. J. 
+title_of_record,Calculation of the Cross Section for N iv-H Charge-Exchange Significance for the Intercloud Gas 
+journal_name,The Astrophysical Journal
+volume_and_issue_No,213
+page_number,712
+date_of_publication,1977

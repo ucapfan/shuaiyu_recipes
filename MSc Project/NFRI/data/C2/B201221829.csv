@@ -1,0 +1,15 @@
+id_number,B201221829
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He + C2(X1¦²+, j=4) -> He + C2(X1¦²+, j'=2)
+reference_number,2012001285
+author,J.M. Robbe### H. Lavendy### D. Lemoine### B. Pouilly
+title_of_record,Theoretical study of the deexcitation of C2 in collisions with helium
+journal_name,Astron. Astrophys.
+volume_and_issue_No,256
+page_number,679
+date_of_publication,1992

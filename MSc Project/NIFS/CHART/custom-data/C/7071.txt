@@ -1,0 +1,20 @@
+Id Number = 7071
+Process = CT
+Element A = C
+Initial Charge Number A = +2
+Final Charge Number A = +1
+Element B = H2
+Initial Charge Number B = 0
+Final Charge Number B = +??
+Theory or Experiment = E
+X Axis Data = 0.08,0.15,0.31,0.46,0.77,1.54,3.08,7.69,15.4,30.8,46.2,76.9,108,185,277
+Y Axis Data = 9.8E-16,10.2E-16,8.8E-16,8.0E-16,7.7E-16,6.7E-16,5.1E-16,7.2E-16,7.1E-16,9.1E-16,10.2E-16,11.3E-16,11.0E-16,9.3E-16,11.8E-16
+Y Axis Error Data = 2.9E-16,3.1E-16,2.6E-16,2.4E-16,2.3E-16,2.0E-16,1.5E-16,2.2E-16,2.1E-16,2.7E-16,3.1E-16,3.4E-16,3.3E-16,2.8E-16,3.5E-16
+Reference Number = 2001C438
+Author(s) = Ishii, K.$Tanabe, T.$Lomsadze, R.$Okuno, K.
+Title of Record = Charge-Changing Cross Sections in Collisions of Cq+(q=2-5) with He and H2 at Energies below 750eV/u
+Journal Name = Physica Scripta.
+Volume and Issue No. = T92
+Page Numbers = 332-334
+Date of Publication = 2001
+Process Title = C2+ + H2 --> C+ + H2

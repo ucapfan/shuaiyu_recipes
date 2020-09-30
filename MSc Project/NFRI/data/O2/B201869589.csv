@@ -1,0 +1,15 @@
+id_number,B201869589
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Attachment
+sub_process,Ion Pair Production
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,O21- + O21+ -> O2 + O2*
+reference_number,2018000431
+author,F. T. Chan
+title_of_record,Electron¨CIon and Ion¨CIon Dissociative Recombination of Oxygen. II. Ion¨CIon Recombination
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,49
+page_number,2540
+date_of_publication,1968

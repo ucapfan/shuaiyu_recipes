@@ -1,0 +1,15 @@
+id_number,B201869074
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Kr2+(1D) + Ne -> Kr1+ + Ne1+
+reference_number,2018000405
+author,Rainer Johnsen and Manfred A. Biondi
+title_of_record,Thermal-energy charge transfer, quenching, and association reactions of doubly charged ions in the rare gases
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,20
+page_number,87
+date_of_publication,1979

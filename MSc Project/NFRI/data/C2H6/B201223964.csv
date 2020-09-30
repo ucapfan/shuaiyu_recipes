@@ -1,0 +1,15 @@
+id_number,B201223964
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,NCO + C2H6
+reference_number,2012001310
+author,K. H. Becker### H. Geiger### F. Schmidt### P. Wiesen
+title_of_record,Kinetic investigation of NCO radicals reacting with selected hydrocarbons
+journal_name,Phys. Chem. Chem. Phys.
+volume_and_issue_No,1
+page_number,5305
+date_of_publication,1999

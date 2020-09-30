@@ -1,0 +1,15 @@
+id_number,B201225968
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,HC3N+ + N -> C2N+ + HCN
+reference_number,2012001057
+author,G. B. I. Scott### D. A. Fairley### C. G. Freeman### M. J. McEwan
+title_of_record,Gas-phase reactions of some positive ions with atomic and molecular nitrogen
+journal_name,J. Chem. Phys.
+volume_and_issue_No,109
+page_number,9010
+date_of_publication,1998

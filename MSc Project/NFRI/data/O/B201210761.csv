@@ -1,0 +1,15 @@
+id_number,B201210761
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H+ + O(1s22s22p4,3P) -> H + O+
+reference_number,2012000623
+author,W. R. Thompson### M. B. Shah### J. Geddes### H. B. Gilbody
+title_of_record,Ionization of atomic oxygen by protons
+journal_name,J. Phys. B
+volume_and_issue_No,30
+page_number,L207
+date_of_publication,1997

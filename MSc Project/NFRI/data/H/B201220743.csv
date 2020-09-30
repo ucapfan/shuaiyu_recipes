@@ -1,0 +1,15 @@
+id_number,B201220743
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H -> H+ + H(2p1)
+reference_number,2012001197
+author,J. P. Hansen### A. Dubois### S. E. Nielsen
+title_of_record,Orientation and alignment in H+-H collisions
+journal_name,Phys. Rev. A
+volume_and_issue_No,44
+page_number,6130
+date_of_publication,1991

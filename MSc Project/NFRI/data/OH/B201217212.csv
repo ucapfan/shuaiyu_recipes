@@ -1,0 +1,15 @@
+id_number,B201217212
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,C2H5OH + OH -> H2O
+reference_number,2012000629
+author,Annia Galano### J. Raul Alvarez-Idaboy### Graciela Bravo-Perez### Ma. Esther Ruiz-Santoyo
+title_of_record,Gas phase reactions of C1¨CC4 alcohols with the OH radical: A quantum mechanical approach
+journal_name,Phys. Chem. Chem. Phys.
+volume_and_issue_No,4
+page_number,4648
+date_of_publication,2002

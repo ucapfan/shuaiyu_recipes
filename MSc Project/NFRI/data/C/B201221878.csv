@@ -1,0 +1,15 @@
+id_number,B201221878
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + C+(1s22s22p1,2P1/2) -> H+ + C+(1s22s22p1,2P3/2)
+reference_number,2012001288
+author,V.J. Foster### F.P. Keenan### R.H.G. Reid
+title_of_record,Proton impact excitation of the ground state fine-structure transition in C ll, N III and 0 IV
+journal_name,Astron. Astrophys
+volume_and_issue_No,308
+page_number,1009
+date_of_publication,1996

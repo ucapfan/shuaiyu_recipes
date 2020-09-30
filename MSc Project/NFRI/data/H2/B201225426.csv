@@ -1,0 +1,15 @@
+id_number,B201225426
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Associative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CH(v=1) + H2 -> CH3
+reference_number,2012001321
+author,RICHARD A. BROWNSWORD### IAN R. SIMS### IAN W. M. SMITH### DAVID W. A. STEWART
+title_of_record,THE RADIATIVE ASSOCIATION OF CH WITH H2 : A MECHANISM FOR FORMATION OF CH3 IN INTERSTELLAR CLOUDS
+journal_name,Astrophys. J.
+volume_and_issue_No,485
+page_number,195
+date_of_publication,1997

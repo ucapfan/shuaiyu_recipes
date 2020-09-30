@@ -1,0 +1,15 @@
+id_number,B201210258
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,CH3O + Cl -> HCHO + HCl
+reference_number,2012000603
+author,E. Drougas### D.K Papayannis### A.M. Kosmas
+title_of_record,Quantum mechanical and PPKM studies of the reactions
+journal_name,Chem. Phys.
+volume_and_issue_No,276
+page_number,15
+date_of_publication,2002

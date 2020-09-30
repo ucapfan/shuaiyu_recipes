@@ -1,0 +1,20 @@
+Id Number = 6202
+Process = CT
+Element A = H
+Initial Charge Number A = +1
+Final Charge Number A = 0
+Element B = Ne
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = E
+X Axis Data = 0.8E+06,1.5E+06,2.0E+06,3.0E+06
+Y Axis Data = 1.04E-19,1.07E-20,3.52E-21,0.89E-21
+Y Axis Error Data = 0.0E-00,0.0E-00,0.0E-00,0.0E-00
+Reference Number = 1985C381
+Author(s) = Varghese, A.L.$Bissinger, G.$Joyce, J.M.$Laubert, R.
+Title of Record = Atomic total electron-capture cross sections from C-, O-, F-, and S-bearingmolecular gases for ~ MeV/u H+ and He+ projectiles
+Journal Name = Phys. Rev. A
+Volume and Issue No. = 31
+Page Numbers = 2202
+Date of Publication = 1985
+Process Title = H+ + Ne(1s) --> H(n=1) + Ne+

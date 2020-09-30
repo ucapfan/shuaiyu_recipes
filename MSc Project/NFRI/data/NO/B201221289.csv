@@ -1,0 +1,15 @@
+id_number,B201221289
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,(CH3)3CO + NO -> (CH3)3CONO
+reference_number,2012001265
+author,M. Blitz### M. J. Pilling### S. H. Robertson### P. W. Seakins
+title_of_record,Direct studies on the decomposition of the tert-butoxy radical and its reaction with NO
+journal_name,Phys. Chem. Chem. Phys.
+volume_and_issue_No,1
+page_number,73
+date_of_publication,1999

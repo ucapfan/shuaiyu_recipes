@@ -1,0 +1,15 @@
+id_number,B201863595
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H2(v=4) + F2(v=0) -> 2HF
+reference_number,2018000183
+author,Donald L. Thompson
+title_of_record,A quasiclassical trajectory study of the H2+F2 reactions 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,62
+page_number,4284
+date_of_publication,1975

@@ -1,0 +1,15 @@
+id_number,B201878356
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CO2 -> CO2
+reference_number,2018000510
+author,A. Karaiskou### C. Vallance### V. Papadakis### I.M. Vardavas### T.P. Rakitzis
+title_of_record,Absolute absorption cross-section measurements of CO2 in the ultraviolet from 200 to 206 nm at 295 and 373 K
+journal_name,Chemical Physics Letters
+volume_and_issue_No,400
+page_number,30
+date_of_publication,2004

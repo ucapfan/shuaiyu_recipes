@@ -1,0 +1,15 @@
+id_number,B201878992
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + H2
+reference_number,2018000558
+author,Stephen V. ONeil and  William P. Reinhardt
+title_of_record,Photoionization of molecular hydrogen
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,69
+page_number,2126
+date_of_publication,1978

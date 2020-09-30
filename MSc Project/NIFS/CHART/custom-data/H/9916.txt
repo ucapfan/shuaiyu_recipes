@@ -1,0 +1,20 @@
+Id Number = 9916
+Process = CT
+Element A = H
+Initial Charge Number A = 0
+Final Charge Number A = +1
+Element B = N
+Initial Charge Number B = +7
+Final Charge Number B = +6
+Theory or Experiment = T
+X Axis Data = 3.996E+03,8.958E+03,9.998E+03,1.228E+04,1.999E+04,2.490E+04,2.985E+04,3.478E+04,5.001E+04,5.502E+04,5.996E+04,6.472E+04,7.020E+04,8.498E+04,9.997E+04,1.204E+05,1.551E+05,1.816E+05,1.989E+05,2.252E+05,2.550E+05,2.985E+05,3.072E+05,3.412E+05,3.995E+05
+Y Axis Data = 1.089E-16,2.257E-15,3.519E-15,7.301E-15,2.271E-14,2.935E-14,3.306E-14,3.438E-14,3.340E-14,3.211E-14,3.084E-14,2.965E-14,2.851E-14,2.509E-14,2.251E-14,1.941E-14,1.561E-14,1.360E-14,1.269E-14,1.138E-14,1.002E-14,8.804E-15,8.465E-15,7.748E-15,6.819E-15
+Y Axis Error Data =
+Reference Number = 2013C472
+Author(s) = Jorge, A.$Errea, L.F.$Illescas, C. Mendez, L.$Suarez, J.
+Title of Record = Total and partial charge exchange and ionization cross sections for C6+ and N7+ colliding with H(n = 1, 2)
+Journal Name = Physica Scripta.
+Volume and Issue No. = T156
+Page Numbers = 014032
+Date of Publication = 2013
+Process Title = H(n=2) + N7+ --> H+ + N6+

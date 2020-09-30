@@ -1,0 +1,20 @@
+Id Number = 7228
+Process = CT
+Element A = Xe
+Initial Charge Number A = 54
+Final Charge Number A = 53
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = 1
+Theory or Experiment = T
+X Axis Data = 1.0E0,5.0E0,2.5E1,5.0E1,1.0E2,2.5E2,5.0E2,1.0E3,2.5E3,1.0E4,2.5E4,5.0E4,1.0E5
+Y Axis Data = 6.50E-14,3.30E-14,2.83E-14,2.83E-14,2.83E-14,2.83E-14,2.78E-14,2.83E-14,2.78E-14,2.78E-14,2.78E-14,2.70E-14,2.58E-14
+Y Axis Error Data =
+Reference Number = 2001C452
+Author(s) = Perez, J.A.$Olson, R.E.$Beiersdorfer, P.
+Title of Record = Charge transfer and x-ray emission reactions involving highly charged ions and neutral hydrogen
+Journal Name = J. Phys. B
+Volume and Issue No. = 34
+Page Numbers = 3063
+Date of Publication = 2001
+Process Title = Xe54+ + H(n=1) --> Xe53+(total) + H+

@@ -1,0 +1,15 @@
+id_number,B201224488
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,N(4S) + O2(X3¦²g-) -> NO(X2¦°) + O(3P)
+reference_number,2012001318
+author,R. A. Sultanov### N. Balakrishnan
+title_of_record,Quantum mechanical investigations of the N(4S)+O2(X3¦²g-)¡úNO(X2¦°)+O(3P) reaction
+journal_name,J. Chem. Phys.
+volume_and_issue_No,124
+page_number,124321
+date_of_publication,2006

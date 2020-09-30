@@ -1,0 +1,15 @@
+id_number,B201224004
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CF3+ + CHF3 -> CHF2+
+reference_number,2011000307
+author,C. Q. Jiao### R. Nagpal### P. D. Haaland
+title_of_record,Ion chemistry in trifluoromethane, CHF3
+journal_name,Chem. Phys. Lett.
+volume_and_issue_No,269
+page_number,117
+date_of_publication,1997

@@ -1,0 +1,15 @@
+id_number,B201880811
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Excitation
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + H21+(1psigma,v=0 j=1) -> H21+(2ppiu)
+reference_number,2018000573
+author,Samir Saha### K K Datta### D Basu and A K Barua
+title_of_record,Photodissociation of H2+ by the 1s¦Òg ¡ú 2p¦Ðu transition
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,13
+page_number,3755
+date_of_publication,1980

@@ -1,0 +1,15 @@
+id_number,B201867320
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Sub Shell
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H1+ + Ti -> H1+ + Ti1+(K-shell)
+reference_number,2018000222
+author,Mau Hsiung Chen### Bernd Crasemann
+title_of_record,Atomic K-, L-, and M-shell cross sections for ionization by protons: A relativistic hartree-slater calculation
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,41
+page_number,257
+date_of_publication,1989

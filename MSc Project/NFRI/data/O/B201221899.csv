@@ -1,0 +1,15 @@
+id_number,B201221899
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + O4+(1s22s12p1,3P1) -> H+ + O4+(1s22s12p1,3P2)
+reference_number,2012001290
+author,R.S.I. Ryans### V.J. Foster-Woods### R.H.G. Reid### F.P. Keenan### F. Copeland
+title_of_record,Proton impact excitation of the 1s22s2p 3P fine-structure transitions in the Be-like ions C III, N IV, and O V
+journal_name,Astron. Astrophys.
+volume_and_issue_No,336
+page_number,393
+date_of_publication,1998

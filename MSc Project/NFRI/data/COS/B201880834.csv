@@ -1,0 +1,15 @@
+id_number,B201880834
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Emission cross section
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + COS1+(A2&Piu) -> COS1+(X2&Pig)
+reference_number,2018000576
+author,C.Y. ROBERT WU### T.S. YIH ** and D.L. JUDGE
+title_of_record,STUDY OF SULFUR-CONTAINING MOLECULES IN THE EUV REGION. V. CS2+ (A¡ú X) AND COS +(A¡ú X) FLUORESCENCE EXCITATION FUNCTIONS
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,68
+page_number,303
+date_of_publication,1986

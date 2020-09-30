@@ -1,0 +1,15 @@
+id_number,B201210003
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,SF6- + Ne -> SF6 + e + Ne
+reference_number,2012000549
+author,R. L. Champion### I. V. Dyakov### and B. L. Peko### Yicheng Wang
+title_of_record,Collisional decomposition of the sulfur hexaflouride anion (SF-6)
+journal_name,J. Chem. Phys.
+volume_and_issue_No,115
+page_number,1765
+date_of_publication,2001

@@ -1,0 +1,15 @@
+id_number,B201217084
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,CH2ClF + OH- -> Cl- + CH2O + HF
+reference_number,2012000653
+author,C.A. Mayhew### R. Peverall### C.M. Timperley### P. Watts
+title_of_record,A selected ion flow tube study of the reactions of OH- with a number of fully and partially halogenated methanes
+journal_name,Int. J. Mass Spectrom.
+volume_and_issue_No,233
+page_number,155
+date_of_publication,2004

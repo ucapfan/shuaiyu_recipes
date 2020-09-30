@@ -1,0 +1,15 @@
+id_number,B201878990
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CO
+reference_number,2018000556
+author,C. LETZELTER### M. EIDELSBERG### F. ROSTAS
+title_of_record,PHOTOABSORPTION AND PHOTODISSOCIATION CROSS SECTIONS OF CO BETWEEN 88.5 AND 115 nm
+journal_name,Chemical Physics
+volume_and_issue_No,114
+page_number,273
+date_of_publication,1987

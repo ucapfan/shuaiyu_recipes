@@ -1,0 +1,15 @@
+id_number,B201222670
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He + CS(v=0, j=22) -> He + CS(v=0, j=8)
+reference_number,2012001300
+author,F. Lique### A. Spielfiedel### J. Cernicharo
+title_of_record,Rotational excitation of carbon monosulfide by collisions with helium
+journal_name,Astron. Astrophys
+volume_and_issue_No,451
+page_number,1125
+date_of_publication,2006

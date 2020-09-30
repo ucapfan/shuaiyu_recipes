@@ -1,0 +1,15 @@
+id_number,B201220579
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H+ + Ar -> H + Ar+
+reference_number,2012001182
+author,E. Horsdal Pedersen### J. P. Giese
+title_of_record,Electron capture by fast protons in Ar: Cross sections for capture from the M shell
+journal_name,Phys. Rev. A
+volume_and_issue_No,41
+page_number,4831
+date_of_publication,1990

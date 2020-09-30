@@ -1,0 +1,20 @@
+Id Number = 7120
+Process = CT
+Element A = Ar
+Initial Charge Number A = +11
+Final Charge Number A = +10
+Element B = H2
+Initial Charge Number B = 0
+Final Charge Number B =
+Theory or Experiment = E
+X Axis Data = 0.138,0.275,0.550,1.10,2.75,5.50,11.0,27.5,55.0,110,275
+Y Axis Data = 378E-16,345E-16,346E-16,325E-16,320E-16,270E-16,258E-16,229E-16,216E-16,223E-16,205E-16
+Y Axis Error Data = 76E-16,69E-16,69E-16,65E-16,64E-16,54E-16,52E-16,46E-16,43E-16,45E-16,41E-16
+Reference Number = 1995C442
+Author(s) = Kravis, S.$Saitoh, H.$Okuno, K.$Soejima, K.$Kimura, M.$Shimamura, I.$Awaya, Y.$Kaneko, Y.$Oura, M.$Shimakura, N.
+Title of Record = Single-and Double-Charge-Exchange Cross Sections for Arq++H2 (q=6,7,8,9 and 11) Collisions from 6 eV to 11 keV
+Journal Name = Phys. Rev. A
+Volume and Issue No. = 52
+Page Numbers = 1206-1212
+Date of Publication = 1995
+Process Title = Ar11+ + H2 --> Ar10+

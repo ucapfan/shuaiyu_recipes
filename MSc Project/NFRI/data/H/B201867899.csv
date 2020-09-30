@@ -1,0 +1,15 @@
+id_number,B201867899
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Attachment
+sub_process,Ion Pair Production
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H1+ + H1- -> H + H
+reference_number,2018000230
+author,B Peart### R Grey and K T Dolder
+title_of_record,Measurements of cross sections for electron detachment from H- ions by proton impact
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,9
+page_number,3047
+date_of_publication,1976

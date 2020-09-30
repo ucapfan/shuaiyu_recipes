@@ -1,0 +1,15 @@
+id_number,B201219323
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H -> H+ + H(2p1)
+reference_number,2012001108
+author,V. D. Rodriguez### J. E. Miraglia
+title_of_record,Ion-atom excitation at high and intermediate energies
+journal_name,J. Phys. B
+volume_and_issue_No,23
+page_number,3629
+date_of_publication,1990

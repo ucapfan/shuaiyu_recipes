@@ -1,0 +1,15 @@
+id_number,B201220121
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H(2s1) -> H+ + H(n=3)
+reference_number,2012001151
+author,Z. Chen### B. D. Esry### C. D. Lin### R. D. Piacentini
+title_of_record,Excitation and ionization of H(2s) by proton impact
+journal_name,J. Phys. B
+volume_and_issue_No,27
+page_number,2511
+date_of_publication,1994

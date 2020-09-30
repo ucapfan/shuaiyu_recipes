@@ -1,0 +1,15 @@
+id_number,B201881139
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Scattering
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,hv + Cu
+reference_number,2018000609
+author,Wm.J. Veigele
+title_of_record,Photon cross sections from 0.1 keV to 1 MeV for elements Z = 1 to Z = 94
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,5
+page_number,51
+date_of_publication,1973

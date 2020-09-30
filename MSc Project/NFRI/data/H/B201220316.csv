@@ -1,0 +1,15 @@
+id_number,B201220316
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He2+ + H(1s1) -> He2+ + H(2s1)
+reference_number,2012001156
+author,M. P. Hughes### J. Geddes### H. B. Gilbody
+title_of_record,Excitation of the n=2 states of H in He2+-H collisions
+journal_name,J. Phys. B
+volume_and_issue_No,27
+page_number,1143
+date_of_publication,1994

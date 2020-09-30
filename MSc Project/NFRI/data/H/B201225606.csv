@@ -1,0 +1,15 @@
+id_number,B201225606
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Radiative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Li+ + H -> LiH+ + hv
+reference_number,2012001338
+author,F. A. GIANTURCO### P. GORI GIORGI
+title_of_record,RADIATIVE ASSOCIATION RATES AND STRUCTURE OF RESONANCES FOR Li AND Li+ COLLIDING WITH H AND H+
+journal_name,Astrophys. J.
+volume_and_issue_No,479
+page_number,560
+date_of_publication,1997

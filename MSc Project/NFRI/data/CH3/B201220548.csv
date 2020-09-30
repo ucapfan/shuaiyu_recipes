@@ -1,0 +1,15 @@
+id_number,B201220548
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,HCl + CH3 -> Cl + CH4
+reference_number,2012001051
+author,H. G. Yu### G. Nyman
+title_of_record,Reaction dynamics of chlorine atom with methane: Dual-level ab initio analytic potential energy surface and isotope effects
+journal_name,J. Chem. Phys.
+volume_and_issue_No,111
+page_number,6693
+date_of_publication,1999

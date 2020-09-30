@@ -1,0 +1,15 @@
+id_number,B201869959
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,C1+(2P, 4P) + CO -> C + CO1+
+reference_number,2018000449
+author,T. F. Moran and  J. B. Wilcox
+title_of_record,Charge transfer reactions of ground C+(2P) and excited C+(4P) state ions with neutral molecules 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,68
+page_number,2855
+date_of_publication,1978

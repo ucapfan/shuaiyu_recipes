@@ -1,0 +1,15 @@
+id_number,B201871097
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CH31+ + COS -> H3CS 1+
+reference_number,2018000379
+author,D. Smith### N.G. Adams
+title_of_record,Binary and ternary reactions of CH+3 ions with several molecules at thermal energies
+journal_name,Chemical Physics Letters
+volume_and_issue_No,54
+page_number,535
+date_of_publication,1978

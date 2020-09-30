@@ -1,0 +1,20 @@
+Id Number = 9412
+Process = CT
+Element A = H
+Initial Charge Number A = +1
+Final Charge Number A = 0
+Element B = H2
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 2.006E+00,2.494E+00,3.003E+00,3.501E+00,3.995E+00,4.495E+00,5.003E+00,6.002E+00,7.516E+00,9.479E+00
+Y Axis Data = 3.230E-17,5.641E-17,4.724E-17,3.784E-17,4.268E-17,5.465E-17,5.535E-17,4.434E-17,2.180E-17,1.426E-17
+Y Axis Error Data =
+Reference Number = 2005T301
+Author(s) = Kristic, P.S.
+Title of Record = Vibrationally resolved collisions inf cold hydrogen plasma
+Journal Name = Nucl. Instrum. Methods Phys. Res. B
+Volume and Issue No. = 241
+Page Numbers = 58-62
+Date of Publication = 2005
+Process Title = H+ + H2(1s) --> H(vi=0) + H2+

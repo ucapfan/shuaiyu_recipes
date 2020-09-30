@@ -1,0 +1,15 @@
+id_number,B201218862
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,F(2P1/2) + H2(j=0) -> F(2P3/2) + H2(j=2)
+reference_number,2012001098
+author,C. Zhu### R. Krems### A. Dalgarno### N. Balakrishnan
+title_of_record,CHEMISTRY OF HYDROGEN FLUORIDE IN THE INTERSTELLAR MEDIUM
+journal_name,Astrophys. J.
+volume_and_issue_No,577
+page_number,795
+date_of_publication,2002

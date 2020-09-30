@@ -1,0 +1,20 @@
+Record Number = 10211
+Process = charge transfer
+Theory or Experiment = E
+data type = CS
+Projectile Element = He
+Projectile Charge State = +1
+Target Molecule = CO
+Target Charge State = 0
+Initial Excited State B = 1s
+Products = He(n=1);CO+
+Original X Unit = eV
+Original Y Unit = cm2
+Reference Number = 1985C381
+Author(s) = Varghese, A.L.$Bissinger, G.$Joyce, J.M.$Laubert, R.
+Title of Record = Atomic total electron-capture cross sections from C-, O-, F-, and S-bearingmolecular gases for ~ MeV/u H+ and He+ projectiles
+Journal Name = Phys. Rev. A
+Volume and Issue No. = 31
+Page Numbers = 2202
+Date of Publication = 1985
+Process Title = He+ + CO (1s) --> He(n=1)+CO+

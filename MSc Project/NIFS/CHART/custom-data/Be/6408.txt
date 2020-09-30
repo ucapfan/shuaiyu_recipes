@@ -1,0 +1,20 @@
+Id Number = 6408
+Process = CT
+Element A = Be
+Initial Charge Number A = +4
+Final Charge Number A = +3
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 1.11E+04,2.22E+04,2.78E+04,3.33E+04,3.89E+04,4.72E+04,5.56E+04,6.67E+04,7.78E+04,1.11E+05,1.67E+05,2.78E+05,5.56E+05,8.33E+05,1.11E+06
+Y Axis Data = 1.78E-19,6.38E-19,8.66E-19,1.06E-18,1.21E-18,1.34E-18,1.38E-18,1.32E-18,1.16E-18,4.97E-19,2.41E-19,2.04E-19,5.55E-20,1.67E-20,6.08E-21
+Y Axis Error Data = 0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+Reference Number = 1991C244
+Author(s) = Belkic,D.
+Title of Record = Electron Transfer from Hydrogenlike Atoms to Partially and Completely Stripped Projectiles: CDW Approximation.
+Journal Name = Phys. Scripta
+Volume and Issue No. = 43
+Page Numbers = 561
+Date of Publication = 1991
+Process Title = Be4+ + H --> Be3+(n=1) + H+

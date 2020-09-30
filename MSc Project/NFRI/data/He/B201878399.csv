@@ -1,0 +1,15 @@
+id_number,B201878399
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + He -> He1+
+reference_number,2018000520
+author,James A R Samson### Z X He### L Yin and G N Haddad
+title_of_record,Precision measurements of the absolute photoionization cross sections of He
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,27
+page_number,887
+date_of_publication,1994

@@ -1,0 +1,15 @@
+id_number,B201208544
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,N2+ + CO2 -> N2 + CO2+
+reference_number,2012000519
+author,Michael H. Cohen### Cynthia Barckholtz### Brian T. Frink### Joshua J. Bond### C. Michael Geise### Jerry Hoff### John Herlinger### Tom Hickey### and Christopher M. Hadad
+title_of_record,Reactions of Ar+ with Selected Volatile Organic Compounds. A Flowing Afterglow and Selected Ion Flow Tube Study
+journal_name,J. Phys. Chem. A
+volume_and_issue_No,104
+page_number,11318
+date_of_publication,2000

@@ -1,0 +1,15 @@
+id_number,B201207909
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Partial
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + CO -> H+ + CO+ + e
+reference_number,2012000483
+author,M. E. Galassi### R. D. Rivarola### M. Beuve### G. H. Olivera### P. D. Fainstein
+title_of_record,Theoretical calculation of single ionization in collisions between protons and low-Z molecules at intermediate and high energies
+journal_name,Phys. Rev. A
+volume_and_issue_No,62
+page_number,022701
+date_of_publication,2002

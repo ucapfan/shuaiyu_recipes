@@ -1,0 +1,15 @@
+id_number,B201863509
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Ar + N2(j=10) -> Ar + N2(j'=10)
+reference_number,2018000176
+author,Russell T Pack
+title_of_record,Close coupling test of classical and semiclassical cross sections for rotationally inelastic Ar¨CN2 collisions 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,62
+page_number,3143
+date_of_publication,1975

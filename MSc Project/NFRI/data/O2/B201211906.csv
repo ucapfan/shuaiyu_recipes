@@ -1,0 +1,15 @@
+id_number,B201211906
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Quenching
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CO(B1¦²+,v=0) + O2 -> CO(A1¦°) + O2
+reference_number,2012000631
+author,T. B. Settersten### A. Dreizler### R. L. Farrow
+title_of_record,Temperature- and species-dependent quenching of CO B probed by twophoton laser-induced fluorescence using a picosecond laser
+journal_name,J. Chem. Phys.
+volume_and_issue_No,117
+page_number,3173
+date_of_publication,2002

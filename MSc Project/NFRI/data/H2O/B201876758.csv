@@ -1,0 +1,15 @@
+id_number,B201876758
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + H2O
+reference_number,2018000494
+author,K. Yoshino ### J.R. Esmond ### W.H. Parkinson### K. Ito ### T. Matsui 
+title_of_record,Absorption cross section measurements of water vapor in the wavelength region 120 to 188 nm
+journal_name,Chemical Physics
+volume_and_issue_No,211
+page_number,387
+date_of_publication,1996

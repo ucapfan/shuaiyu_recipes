@@ -1,0 +1,15 @@
+id_number,B201221256
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Quenching
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,OH(A2¦²+,v=0) + H2O -> OH(X2¦°i) + H2O
+reference_number,2012001258
+author,A. E. Bailey### D. E. Heard### D. A. Henderson### P. H. Paul
+title_of_record,Colisional quenching of OH(A2¦²+, v'=0) by H2O between 211 and 294 K and the development of a unified model for quenching
+journal_name,Chem. Phys. Lett.
+volume_and_issue_No,302
+page_number,132
+date_of_publication,1999

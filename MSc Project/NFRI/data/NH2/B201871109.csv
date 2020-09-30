@@ -1,0 +1,16 @@
+id_number,B201871109
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H2O + NH21- -> OH1- + NH3
+reference_number,2018000381
+author,D. Betowski###  J.D. Payzant### G.I. Mackay### D.K. Bohme
+
+title_of_record,Rate coefficients at 297 K for proton transfer reactions with H2O. Comparisons with classical theories and exothermicity
+journal_name,Chemical Physics Letters
+volume_and_issue_No,31
+page_number,321
+date_of_publication,1975

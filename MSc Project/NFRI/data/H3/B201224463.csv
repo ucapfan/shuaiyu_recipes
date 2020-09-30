@@ -1,0 +1,15 @@
+id_number,B201224463
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,C3H8 + H3+
+reference_number,2012001315
+author,C. Praxmarer### A. Hansel### W. Lindinger
+title_of_record,The reactions of the highly polar ion ArD3+ with C3H8 and C4H10
+journal_name,IJMSIP
+volume_and_issue_No,156
+page_number,189
+date_of_publication,1996

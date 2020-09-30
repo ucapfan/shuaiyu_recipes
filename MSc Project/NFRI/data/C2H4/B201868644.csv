@@ -1,0 +1,15 @@
+id_number,B201868644
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,State Selectivity
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ne1+ + C2H4
+reference_number,2018000298
+author,T.P.J. Izod### J.M. Tedder
+title_of_record,Two-stage ion-beam mass spectrometry II. The reactions of the rare-gas ions with ethylene and with halogen-substituted ethylenes
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,22
+page_number,85
+date_of_publication,1976

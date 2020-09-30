@@ -1,0 +1,15 @@
+id_number,B201219251
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,F+ + NO -> NO+ + F
+reference_number,2012001107
+author,Christopher A Mayhew### David Smith
+title_of_record,The reactions of F+ ions at thermal energies
+journal_name,J. Phys. 8
+volume_and_issue_No,23
+page_number,3139
+date_of_publication,1990

@@ -1,0 +1,20 @@
+Id Number = 6566
+Process = CT
+Element A = Kr
+Initial Charge Number A = +8
+Final Charge Number A = +5
+Element B = CO
+Initial Charge Number B = 0
+Final Charge Number B =
+Theory or Experiment = E
+X Axis Data = 5.00E-02,9.81E-02,2.00E-01,4.91E-01,1.00E+00,1.96E+00,4.82E+00,9.81E+00,2.00E+01,4.91E+01,1.00E+02,2.04E+02
+Y Axis Data = 1.48E-16,1.18E-16,1.10E-16,1.28E-16,2.33E-16,3.03E-16,3.80E-16,4.58E-16,7.47E-16,7.76E-16,8.36E-16,1.17E-15
+Y Axis Error Data =
+Reference Number = 1999C399
+Author(s) = Ishii, K.$Okuno, K.$Kobayashi, N.
+Title of Record = Single- and multiple-charge changing cross sections in slow collsions of Krq+(q=7-9) with Ne, N2, O2 and CO
+Journal Name = Physica Scripta.
+Volume and Issue No. = T80
+Page Numbers = 176-178
+Date of Publication = 1999
+Process Title = Kr8+ + CO --> Kr5+

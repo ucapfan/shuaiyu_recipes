@@ -1,0 +1,15 @@
+id_number,B201869163
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He + CO(j=5) -> He + CO(j'=11)
+reference_number,2018000409
+author,Rudolf Goldflam and  Donald J. Kouri### Sheldon Green
+title_of_record,On the factorization and fitting of molecular scattering information 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,67
+page_number,5661
+date_of_publication,1977

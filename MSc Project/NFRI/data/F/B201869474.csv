@@ -1,0 +1,15 @@
+id_number,B201869474
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Association
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Na1+ + F1- -> NaF
+reference_number,2018000412
+author,R. K. Janev and  Z. M. Radulovi
+title_of_record,Recombination of alkali positive and halogen negative ions 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,67
+page_number,2856
+date_of_publication,1977

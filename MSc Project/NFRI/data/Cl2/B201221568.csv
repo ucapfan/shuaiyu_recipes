@@ -1,0 +1,15 @@
+id_number,B201221568
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CH3CO + Cl2 -> CH3C(O)Cl + Cl
+reference_number,2012001278
+author,M. M. Maricq### J. J. Szente
+title_of_record,The UV spectrum of acetyl and the kinetics of the chain reaction between acetaldehyde and chlorine
+journal_name,Chem. Phys. Lett.
+volume_and_issue_No,253
+page_number,333
+date_of_publication,1996

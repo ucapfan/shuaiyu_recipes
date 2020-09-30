@@ -1,0 +1,20 @@
+Id Number = 5221
+Process = CT
+Element A = He
+Initial Charge Number A = +2
+Final Charge Number A = +1
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 5.00E+03,1.00E+04,2.50E+04,5.00E+04,1.00E+05,2.00E+05
+Y Axis Data = 9.5E-19,3.7E-18,4.10E-17,3.76E-17,9.3E-18,8E-19
+Y Axis Error Data = 0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+Reference Number = 1980C323
+Author(s) = Bransden,B.H. Newby,C.W. Noble,C.J.
+Title of Record = Electron capture by fully stripped ions of helium, lithium, beryllium and boron from atomic hydrogen
+Journal Name = J. Phys. B
+Volume and Issue No. = 13
+Page Numbers = 4245-4255
+Date of Publication = 1980
+Process Title = He2+ + H(1s) --> He+(n=4) + H+

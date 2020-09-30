@@ -1,0 +1,15 @@
+id_number,B201868470
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,O1+ + H -> O + H1+
+reference_number,2018000289
+author,G Chambaud### J M Launay### B Levy### P Milliet### E Rouef and F Tran Minh
+title_of_record,Charge exchange and fine-structure excitation in O-H+ collisions
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,13
+page_number,4205
+date_of_publication,1979

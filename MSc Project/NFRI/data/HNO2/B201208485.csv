@@ -1,0 +1,15 @@
+id_number,B201208485
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,OH + HNO2 -> H2O + NO2
+reference_number,2012000509
+author,Matthias Wollenhaupt### John N. Crowley
+title_of_record,Kinetic Studies of the Reactions CH3 + NO2 -> Products, CH3O + NO2 -> Products, and OH + CH3C(O)CH3 -> CH3C(O)OH + CH3, over a Range of Temperature and Pressure
+journal_name,J. Phys. Chem. A
+volume_and_issue_No,104
+page_number,6429
+date_of_publication,2000

@@ -1,0 +1,20 @@
+Id Number = 9600
+Process = CT
+Element A = N
+Initial Charge Number A = 6
+Final Charge Number A = 5
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 1.E3,5.E3,7.E3,10.E3,25.E3,45.E3,90.E3,100.E3,150.E3,250.E3,500.E3
+Y Axis Data = 1.93E-02,2.68E-01,3.87E-01,3.12E-01,1.35E+00,1.60E+00,4.24E-01,2.92E-01,6.16E-02,4.36E-03,4.32E-05
+Y Axis Error Data =
+Reference Number = 2012C468
+Author(s) = Igenbergs, K.$Schweinzer, J.$Veiter, A.$Perneczky, L.$Fruhwirth, E.$Wallerberger, M.$Olson, R.E.$Aumay, F.
+Title of Record = Charge exchange and ionization in N7+ -, N6+ -, C6+-H(n = 1, 2) collisions studied systematically by theoretical approaches
+Journal Name = J. Phys. B
+Volume and Issue No. = 45
+Page Numbers = 065203
+Date of Publication = 2012
+Process Title = N6+ + H(1s) --> N5+(n=6,l=4) + H+

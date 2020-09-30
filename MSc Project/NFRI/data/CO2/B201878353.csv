@@ -1,0 +1,15 @@
+id_number,B201878353
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CO2 -> CO2
+reference_number,2018000509
+author,Reed J. Jensen### Robert D. Guettler### John L. Lyman
+title_of_record,The ultraviolet absorption spectrum of hot carbon dioxide
+journal_name,Chemical Physics Letters
+volume_and_issue_No,277
+page_number,356
+date_of_publication,1997

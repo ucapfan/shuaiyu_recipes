@@ -1,0 +1,15 @@
+id_number,B201218118
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Charge Transfer
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + C(3P) -> H + C+(2P)
+reference_number,2012001076
+author,M. Kimura### J. P. Gu### G. Hirsch### R. J. Buenker
+title_of_record,Inelastic processes in collisions of H+ ions with C, N, O and Si atoms below 1 keV
+journal_name,Phys. Rev. A
+volume_and_issue_No,55
+page_number,2778
+date_of_publication,1997

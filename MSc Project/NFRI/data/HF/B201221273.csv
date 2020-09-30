@@ -1,0 +1,15 @@
+id_number,B201221273
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Li(v=0, j=2) + HF -> LiF + H
+reference_number,2012001262
+author,F. J. Aoiz### M. T. Martinez### M. Menendez### V. S. Rabanos### E. Verdasco
+title_of_record,Quasiclassical trajectory study of the Li+HF(v=0)¡úLiF+H reaction
+journal_name,Chem. Phys. Lett.
+volume_and_issue_No,299
+page_number,25
+date_of_publication,1999

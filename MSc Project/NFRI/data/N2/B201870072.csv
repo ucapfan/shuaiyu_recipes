@@ -1,0 +1,15 @@
+id_number,B201870072
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Ar + N2(j=4) -> Ar + N2(j'=6)
+reference_number,2018000335
+author,Paul McGuire
+title_of_record,Validity of the coupled states approximation for molecular collisions
+journal_name,Chemical Physics
+volume_and_issue_No,13
+page_number,81
+date_of_publication,1976

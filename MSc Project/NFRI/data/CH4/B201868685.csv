@@ -1,0 +1,15 @@
+id_number,B201868685
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ne2+ + CH4 -> CH41+
+reference_number,2018000314
+author,N.G. Adams and D. SMITH
+title_of_record,CHARGE TRANSFER REACTIONS OF Kr2+ AND Ne2+ IONS WITIH SEVERAL MOLECULAR GASES AT 300 K
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,35
+page_number,335
+date_of_publication,1980
