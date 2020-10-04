@@ -1,0 +1,15 @@
+id_number,B201225512
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Charge Transfer
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He+ + C -> He + C+
+reference_number,2012001325
+author,M. KIMURA### A. DALGARNO### L. CHANTRANUPONG### Y. LI### G. HIRSCH### R. J. BUENKER
+title_of_record,RATE COEFFICIENTS FOR CHARGE TRANSFER OF He+ WITH C
+journal_name,Astrophys. J.
+volume_and_issue_No,417
+page_number,812
+date_of_publication,1993

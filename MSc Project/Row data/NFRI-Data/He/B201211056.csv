@@ -1,0 +1,15 @@
+id_number,B201211056
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + He -> H+ + He+ + e
+reference_number,2012000634
+author,T. Das### F. B. Malik
+title_of_record,On the single- and double-ionization of He by protons and anti-protons
+journal_name,J. Phys. B
+volume_and_issue_No,30
+page_number,1223
+date_of_publication,1997

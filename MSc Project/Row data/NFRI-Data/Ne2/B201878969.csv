@@ -1,0 +1,15 @@
+id_number,B201878969
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + Ne21+(A2&Sigma+1/2u,v=3) -> Ne21+(D2&Sigma+1/2g)
+reference_number,2018000554
+author,B. PEART### D. S. ITALTON and K. T. DOLDER
+title_of_record,The ranges of validity of the Born and Bethe approximations for the single ionization of He+ and Li+ ions by electron impact
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,2
+page_number,1347
+date_of_publication,1969

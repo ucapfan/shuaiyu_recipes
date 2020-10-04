@@ -1,0 +1,15 @@
+id_number,B201880907
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + O2
+reference_number,2018000595
+author,L. C. Lee### R. W. Carlson### D. L. Judge### and M. Ogawa
+title_of_record,Vacuum ultraviolet fluorescence from photodissociation fragments of O2 and N2
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,61
+page_number,3261
+date_of_publication,1974

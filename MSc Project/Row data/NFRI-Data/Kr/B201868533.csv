@@ -1,0 +1,15 @@
+id_number,B201868533
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Kr1+ + Kr -> Kr + Kr1+
+reference_number,2018000293
+author,A. ROSENBERG### H. BREGMAN-REISLER AND S. AMIEL
+title_of_record,A MASS SPECTROMETRIC METHOD FOR STUDYING CHARGE TRANSFER REACTIONS
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,11
+page_number,433
+date_of_publication,1973

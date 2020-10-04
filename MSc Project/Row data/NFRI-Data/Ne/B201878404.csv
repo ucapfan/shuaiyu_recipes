@@ -1,0 +1,15 @@
+id_number,B201878404
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + Ne
+reference_number,2018000523
+author,James A. R. Samson and G. C. Angel
+title_of_record,Double-photoionization studies of Ne, 0, and N from threshold to 280 eV
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,42
+page_number,5328
+date_of_publication,1990

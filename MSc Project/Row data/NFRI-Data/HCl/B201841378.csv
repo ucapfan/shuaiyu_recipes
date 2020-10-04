@@ -1,0 +1,15 @@
+id_number,B201841378
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H1+ + HCl -> HCl1+ + H
+reference_number,2018000170
+author,V. G. ANICICH
+title_of_record,A SURVEY OF BIMOLECULAR ION-MOLECULE REACTIONS FOR USE IN MODELING THE CHEMISTRY OF PLANETARY ATMOSPHERES, COMETARY COMAE, AND INTERSTELLAR CLOUDS: 1993 SUPPLEMENT
+journal_name,THE ASTROPHYSICAL JOURNAL SUPPLEMENT SERIES
+volume_and_issue_No,84
+page_number,215
+date_of_publication,1993

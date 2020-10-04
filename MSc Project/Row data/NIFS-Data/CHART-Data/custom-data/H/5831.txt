@@ -1,0 +1,20 @@
+Id Number = 5831
+Process = CT
+Element A = H
+Initial Charge Number A = +1
+Final Charge Number A = 0
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 6.25E+01,2.50E+02,1.00E+03,2.25E+03,4.00E+03,6.25E+03,9.00E+03,1.22E+04,1.60E+04,2.02E+04,2.50E+04
+Y Axis Data = 7.81E-18,1.30E-17,2.24E-17,2.95E-17,3.04E-17,3.97E-17,5.50E-17,6.62E-17,7.42E-17,7.75E-17,7.47E-17
+Y Axis Error Data =
+Reference Number = 1998C351
+Author(s) = Harel, C.$Jouin, H.$Pons, B.
+Title of Record = Cross sections for elecron capture from atomic hydrogen by fully stripped ions in the 0.05-1.00 a.u. impact verocity range
+Journal Name = Atomic Data and Nuclear Tables
+Volume and Issue No. = 68
+Page Numbers = 279
+Date of Publication = 1998
+Process Title = H+ + H --> H(n=2) + H+

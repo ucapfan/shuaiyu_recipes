@@ -1,0 +1,15 @@
+id_number,B201869028
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He1+ + He -> He + He1+
+reference_number,2018000402
+author,M. L. Vestal### C. R. Blakley### and J. H. Futrell
+title_of_record,Crossed-beam measurements of differential cross sections for elastic scattering and charge exchange in low-energy He+-He collisions
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,17
+page_number,1321
+date_of_publication,1978

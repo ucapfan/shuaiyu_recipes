@@ -1,0 +1,15 @@
+id_number,B201869906
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Quenching
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ar(3P0) + N2
+reference_number,2018000445
+author,J. E. Velazco###  J. H. Kolts### and  D. W. Setser
+title_of_record,Rate constants and quenching mechanisms for the metastable states of argon, krypton, and xenon 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,69
+page_number,4357
+date_of_publication,1978

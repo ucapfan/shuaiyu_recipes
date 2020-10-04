@@ -1,0 +1,15 @@
+id_number,B201878454
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + Ne
+reference_number,2018000527
+author,Roger J. Bartlett and Peter J. Walsh
+title_of_record,Single-photon double ionization of He and Ne
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,46
+page_number,5574
+date_of_publication,1992

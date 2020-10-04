@@ -1,0 +1,15 @@
+id_number,B201878525
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CO2 -> CO21+
+reference_number,2018000538
+author,Toshio Masuoka
+title_of_record,Single- and donble-photoionization cross sections of carbon dioxide (C02) and ionic fragmentation of CO2+ and C022+
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,50
+page_number,3886
+date_of_publication,1994

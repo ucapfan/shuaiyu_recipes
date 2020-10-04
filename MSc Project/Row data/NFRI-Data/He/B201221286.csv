@@ -1,0 +1,15 @@
+id_number,B201221286
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H- + He -> H + He + e
+reference_number,2012001230
+author,T. J. Kvale### J. S. Allen### X. D. Fang### A. Sen### R. Matulioniene
+title_of_record,Single-electron detachment cross sections for 5-50-keV H- ions incident on helium, neon,and argon atoms
+journal_name,Phys. Rev. A
+volume_and_issue_No,51
+page_number,1351
+date_of_publication,1995

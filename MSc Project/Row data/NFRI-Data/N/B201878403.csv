@@ -1,0 +1,15 @@
+id_number,B201878403
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + N
+reference_number,2018000522
+author,James A. R. Samson and G. C. Angel
+title_of_record,Single- and double-photoionization cross sections of atomic nitrogen from threshold to 31 A
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,42
+page_number,1307
+date_of_publication,1990

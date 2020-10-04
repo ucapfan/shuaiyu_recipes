@@ -1,0 +1,15 @@
+id_number,B201217512
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Ionization
+sub_process,Partial
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H3O+ + C2H4 -> C2H5+ + H2O
+reference_number,2012000650
+author,Paul F. Wilson### Colin G. Freeman### Murray J. McEwan
+title_of_record,Reactions of small hydrocarbons with H3O+, O2+ and NO+ ions
+journal_name,Int. J. Mass Spectrom.
+volume_and_issue_No,229
+page_number,143
+date_of_publication,2003

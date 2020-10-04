@@ -1,0 +1,15 @@
+id_number,B201878956
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CO2
+reference_number,2018000548
+author,L. C. Lee### R. W. Carlson### D. L. Judge### and M. Ogawa
+title_of_record,Vacuum ultraviolet fluorescence from photodissociation fragments of CO and CO2
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,63
+page_number,3987
+date_of_publication,1975

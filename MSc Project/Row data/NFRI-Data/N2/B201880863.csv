@@ -1,0 +1,15 @@
+id_number,B201880863
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + N2
+reference_number,2018000586
+author,Carolyn Duzy and  R. Stephen Berry
+title_of_record,Photoionization and Rydberg states of N2 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,64
+page_number,2421
+date_of_publication,1976

@@ -1,0 +1,15 @@
+id_number,B201863540
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H1+ + CH4 -> H21+ + CH3
+reference_number,2018000177
+author,C. J. Cook
+title_of_record,Measured cross section for the formation of H+2 by fast proton impact on methane 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,63
+page_number,1218
+date_of_publication,1975

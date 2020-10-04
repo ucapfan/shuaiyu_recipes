@@ -1,0 +1,20 @@
+Id Number = 3553
+Process = CT
+Element A = O
+Initial Charge Number A = +5
+Final Charge Number A = +4
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 5.0000E+02,1.0000E+03,2.0000E+03,4.0000E+03,6.0000E+03,8.0000E+03,1.1000E+04,1.4000E+04,2.5000E+04,3.5000E+04,5.0000E+04,7.0000E+04,1.0000E+05
+Y Axis Data = 9.3701E-16,9.4901E-16,9.6801E-16,8.4801E-16,7.0200E-16,6.4600E-16,5.9700E-16,6.3200E-16,7.3000E-16,6.7600E-16,4.8300E-16,2.7600E-16,1.2200E-16
+Y Axis Error Data = 0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00
+Reference Number = 1989C240
+Author(s) = Tawara,H. Fritsch,W.
+Title of Record = Electron Transfer Data for C(q+) and O(q+) Ions in Collisions with H,H(2) and He Targets-Present Status and Some Related Data Needs in Applications to Fusion Research.
+Journal Name = Physica Scripta
+Volume and Issue No. = T28
+Page Numbers = 58
+Date of Publication = 1989
+Process Title = O5+ + H --> O4+(n=3) + H+

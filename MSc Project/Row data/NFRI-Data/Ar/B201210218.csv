@@ -1,0 +1,15 @@
+id_number,B201210218
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,HF(v=1,j=2) + Ar -> HF(v=0,j=0) + Ar
+reference_number,2012000601
+author,Roman V. Krems### Nikola Markovic
+title_of_record,Quantum-mechanical study of vibrational relaxation of HF in collisions with Ar atoms
+journal_name,J. Chem. Phys.
+volume_and_issue_No,114
+page_number,1249
+date_of_publication,2001

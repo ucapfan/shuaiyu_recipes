@@ -1,0 +1,15 @@
+id_number,B201221875
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He + HCl(J=7) -> He + HCl(J'=4)
+reference_number,2012001287
+author,DAVID A. NEUFELD### SHELDON GREEN### 
+title_of_record,EXCITATION OF INTERSTELLAR HYDROGEN CHLORIDE
+journal_name,Astrophys. J.
+volume_and_issue_No,432
+page_number,158
+date_of_publication,1994

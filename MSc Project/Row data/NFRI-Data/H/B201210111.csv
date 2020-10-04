@@ -1,0 +1,15 @@
+id_number,B201210111
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H -> H+ + H(2p1)
+reference_number,2012000590
+author,Emil Y. Sidky### C. D. Lin
+title_of_record,Total cross-section calculations on proton-impact ionization of hydrogen
+journal_name,Phys. Rev. A
+volume_and_issue_No,65
+page_number,012711
+date_of_publication,2002

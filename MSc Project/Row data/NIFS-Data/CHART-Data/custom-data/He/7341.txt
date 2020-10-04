@@ -1,0 +1,20 @@
+Id Number = 7341
+Process = CT
+Element A = He
+Initial Charge Number A = +2
+Final Charge Number A = +1
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 50,100,200,500,1000,2000,5000,10000
+Y Axis Data = 1.39E-21,8.96E-20,1.73E-18,2.20E-17,7.16E-17,1.47E-16,2.38E-16,2.69E-16
+Y Axis Error Data =
+Reference Number = 2001C464
+Author(s) = Solov, E.A.$Stephens, J.A.$Janev, R.K.
+Title of Record = State-selective and total electron capture,excitation and ionization cross-sections in slow collisions of H(2s) and He+(2s) with H+,He2+,li3+,Be4+ and B5+
+Journal Name = At. Plasma-Mater. Interact. Data Fusion
+Volume and Issue No. = 9
+Page Numbers = 179-191
+Date of Publication = 2001
+Process Title = He2+ + H(2s) --> He+(n=8) + H+

@@ -1,0 +1,15 @@
+id_number,B201878962
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Dissociation
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + H21+
+reference_number,2018000552
+author,Friedrich von Busch and Gordon H. Dunn
+title_of_record,Photodissociation of H 2+ and D 2+: Experiment
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,5
+page_number,1726
+date_of_publication,1972

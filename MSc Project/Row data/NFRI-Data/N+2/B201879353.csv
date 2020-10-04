@@ -1,0 +1,15 @@
+id_number,B201879353
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + N2 -> N21+(B2&Sigma+u)
+reference_number,2018000564
+author,James A R Samson### G N Haddad and J L Gardner
+title_of_record,Total and partial photoionization cross sections of N2 from threshold to 100 AA
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,10
+page_number,1749
+date_of_publication,1977

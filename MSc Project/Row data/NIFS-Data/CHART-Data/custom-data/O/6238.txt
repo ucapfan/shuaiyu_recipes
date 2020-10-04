@@ -1,0 +1,20 @@
+Id Number = 6238
+Process = CT
+Element A = O
+Initial Charge Number A = +3
+Final Charge Number A = +2
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = E
+X Axis Data = 4.500E+01,6.800E+01,1.010E+02,1.660E+02,2.650E+02,4.620E+02,7.520E+02,1.500E+03
+Y Axis Data = 1.908E-15,1.922E-15,2.696E-15,3.428E-15,3.061E-15,3.415E-15,2.725E-15,2.140E-15
+Y Axis Error Data = 4.850E-16,4.310E-16,4.910E-16,4.410E-16,5.500E-16,4.630E-16,3.410E-16,2.360E-16
+Reference Number = 1996C385
+Author(s) = Beijers, J.P.M.$Hoekstra, R$Morgenstern, R
+Title of Record = State-selective charge transfer in slow collisions of O3+ with H and H2
+Journal Name = J. Phys. B
+Volume and Issue No. = 29
+Page Numbers = 1397
+Date of Publication = 1996
+Process Title = O3+ + H --> O2+(n=3) + H+

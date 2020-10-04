@@ -1,0 +1,15 @@
+id_number,B201223394
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Charge Transfer
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,O + C2+ -> O+ + C+
+reference_number,2012001304
+author,D. A. Swartz
+title_of_record,CHARGE TRANSFER IN HELIUM-RICH SUPERNOVA PLASMA
+journal_name,Astrophys. J.
+volume_and_issue_No,428
+page_number,267
+date_of_publication,1994

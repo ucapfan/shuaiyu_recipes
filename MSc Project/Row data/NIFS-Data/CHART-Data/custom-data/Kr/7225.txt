@@ -1,0 +1,20 @@
+Id Number = 7225
+Process = CT
+Element A = Kr
+Initial Charge Number A = 36
+Final Charge Number A = 35
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = 1
+Theory or Experiment = T
+X Axis Data = 1.0E1,2.5E1,5.0E1,7.5E1,1.0E2,1.75E2,2.5E2,1.0E3,2.5E3,5.0E3,1.0E4,2.5E4,5.0E4,1.0E5
+Y Axis Data = 5.09E-16,8.19E-16,1.20E-15,1.38E-15,1.63E-15,2.12E-15,2.33E-15,3.52E-15,4.43E-15,4.86E-15,5.01E-15,4.17E-15,2.15E-15,7.13E-16
+Y Axis Error Data =
+Reference Number = 2001C452
+Author(s) = Perez, J.A.$Olson, R.E.$Beiersdorfer, P.
+Title of Record = Charge transfer and x-ray emission reactions involving highly charged ions and neutral hydrogen
+Journal Name = J. Phys. B
+Volume and Issue No. = 34
+Page Numbers = 3063
+Date of Publication = 2001
+Process Title = Kr36+ + H(n=1) --> Kr35+(n=14) + H+

@@ -1,0 +1,15 @@
+id_number,B201210183
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Partial
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He+ + CO -> Cq+(q+p=5) + He+ + Op+ + e(5)
+reference_number,2012000600
+author,B. Siegmann### U. Werner### Z. Kaliman### Z. Roller-Lutz### N. M. Kabachnik### H. O. Lutz
+title_of_record,Multiple ionization of diatomic molecules in collisions with 50¨C300-keV hydrogen and helium ions
+journal_name,Phys. Rev. A
+volume_and_issue_No,66
+page_number,052701
+date_of_publication,2002

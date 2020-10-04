@@ -1,0 +1,15 @@
+id_number,B201871460
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,hv + CF3I
+reference_number,2018000001
+author,L.G.Christophorou and J.K.Olthoff
+title_of_record,Electron Interactions With CF3I
+journal_name,J. Phys. Chem. Ref. Data
+volume_and_issue_No,29
+page_number,553
+date_of_publication,2000

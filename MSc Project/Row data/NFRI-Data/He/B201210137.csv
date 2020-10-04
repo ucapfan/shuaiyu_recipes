@@ -1,0 +1,15 @@
+id_number,B201210137
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Attachment
+sub_process,Dissociative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H3+ + He -> H- + H+ + H+ + He
+reference_number,2012000593
+author,G. Hinojosa### F. B. Yousif### C. Cisneros### I. Alvarez
+title_of_record,Ion-formation total cross sections from dissociative collisions of vibrationally relaxed H+3, D+3, and HD+2 molecular ions with He
+journal_name,Phys. Rev. A
+volume_and_issue_No,66
+page_number,022712
+date_of_publication,2002

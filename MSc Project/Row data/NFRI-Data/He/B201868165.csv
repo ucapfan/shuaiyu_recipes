@@ -1,0 +1,15 @@
+id_number,B201868165
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H1+ + He1+ -> H + He2+
+reference_number,2018000247
+author,G C Angel### E C Sewell### K F Dunn and H B Gilbody
+title_of_record,Charge transfer and ionisation in fast H+ -He+ collisions: further measurements using a coincidence technique
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,11
+page_number,L297
+date_of_publication,1978

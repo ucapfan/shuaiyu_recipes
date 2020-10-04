@@ -1,0 +1,15 @@
+id_number,B201217497
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H(1s) -> H+ + H(2p)
+reference_number,2012001066
+author,N. Tohima
+title_of_record,Convergence and completeness of the pseudostate expansion for proton-hydrogen collisions in two-center close-coupling calculations
+journal_name,Phys. Rev. A
+volume_and_issue_No,59
+page_number,1981
+date_of_publication,1999

@@ -1,0 +1,15 @@
+id_number,B201216669
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,T+ + O4+(1s22s12p1,3Po0) -> O4+(1s22s12p1,3Po1) + T+
+reference_number,2012000664
+author,R. S. I. Ryans### V. J. Foster-woods### F. Copeland### F. P. Keenan### A. Matthews
+title_of_record,Cross sections and rate coefficients for excitation of the 1s22s22p1 3PoJ ¡ú 1s22s12p1 3PoJ' fine-structure transitions in beryllium-like iions by heavy particle impact
+journal_name,ADNDT
+volume_and_issue_No,70
+page_number,179
+date_of_publication,1998

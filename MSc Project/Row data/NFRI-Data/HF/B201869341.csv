@@ -1,0 +1,15 @@
+id_number,B201869341
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,HF(v1=3, j1=2) + HF(v2=0) -> HF(v1'=1 , j1'=19) + HF(v2'=0)
+reference_number,2018000410
+author,Roger L. Wilkins
+title_of_record,Mechanisms of energy transfer in hydrogen fluoride systems 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,67
+page_number,5838
+date_of_publication,1977

@@ -1,0 +1,15 @@
+id_number,B201866121
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He + HCN(j=1) -> He + HCN(j'=5)
+reference_number,2018000313
+author,Green### S. & Thaddeus### P.
+title_of_record,Rotational Excitation of HCN by Collisions
+journal_name,The Astrophysical Journal
+volume_and_issue_No,191
+page_number,653
+date_of_publication,1974

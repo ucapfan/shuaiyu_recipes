@@ -1,0 +1,15 @@
+id_number,B201878514
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CO -> CO1+
+reference_number,2018000536
+author,Toshio Masuoka### Eiken Nakamura
+title_of_record,Single-, double-, and triple-photoionization cross sections of carbon monoxide (CO) and ionic fragmentation of CO+, C02+, and C03+
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,48
+page_number,4379
+date_of_publication,1993

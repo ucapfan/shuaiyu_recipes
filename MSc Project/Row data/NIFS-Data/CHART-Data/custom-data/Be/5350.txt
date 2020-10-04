@@ -1,0 +1,20 @@
+Id Number = 5350
+Process = CT
+Element A = Be
+Initial Charge Number A = +4
+Final Charge Number A = +3
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 2.5E+02,5E+02,1E+03,2E+03,3E+03,4E+03,6.25E+03,9E+03,1.25E+04,2.5E+04,5E+04,7.5E+04,1E+05,1.5E+05,2E+05,4E+05,6E+05,8E+05
+Y Axis Data = 3.42E-22,4.42E-22,2.10E-20,4.84E-19,2.32E-18,6.29E-18,1.84E-17,3.67E-17,5.82E-17,1.13E-16,1.05E-16,6.74E-17,4.08E-17,1.59E-17,6.75E-18,4.92E-19,8.71E-20,2.32E-20
+Y Axis Error Data = 0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+Reference Number = 1995C302
+Author(s) = Toshima,N. Tawara,H.
+Title of Record = Excitation, Ionization, and Electron Capture Cross Sections of Atomic Hydrogen in Collisions with Multiply Cha
+Journal Name = NIFS-DATA
+Volume and Issue No. = 26
+Page Numbers =
+Date of Publication = 1995
+Process Title = Be4+ + H(1s) --> Be3+(n=2) + H+

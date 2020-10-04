@@ -1,0 +1,15 @@
+id_number,B201218610
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Charge Transfer
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + S(1D) -> S+(2Po) + H
+reference_number,2012001087
+author,L. B. Zhao### P. C. Stancil### J.-P. Gu### H.-P. Liebermann### P. Funke### R. J. Buenker### M. Kimura
+title_of_record,Electron capture in collisions of S with H+
+journal_name,Phys. Rev. A
+volume_and_issue_No,71
+page_number,062713
+date_of_publication,2005

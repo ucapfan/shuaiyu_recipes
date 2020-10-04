@@ -1,0 +1,15 @@
+id_number,B201221238
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H
+reference_number,2012001242
+author,Nobuyuki Toshima
+title_of_record,Charge asymmetry of ionization cross sections of atomic hydrogen by antiproton and proton impact
+journal_name,Phys. Lett. A.
+volume_and_issue_No,175
+page_number,133
+date_of_publication,1993

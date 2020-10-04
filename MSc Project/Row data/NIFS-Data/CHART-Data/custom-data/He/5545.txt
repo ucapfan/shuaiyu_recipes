@@ -1,0 +1,20 @@
+Id Number = 5545
+Process = CT
+Element A = He
+Initial Charge Number A = +2
+Final Charge Number A = +1
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 4.00E+04,5.00E+04,6.00E+04,7.00E+04,8.00E+04,9.00E+04,1.00E+05,1.25E+05,1.50E+05,2.00E+05,3.00E+05,4.00E+05,5.00E+05,6.00E+05,7.00E+05,8.00E+05,9.00E+05,1.00E+06,2.00E+06,3.00E+06,4.00E+06,5.00E+06,6.00E+06,7.00E+06,8.00E+06,9.00E+06,1.00E+07
+Y Axis Data = 3.90E-16,2.03E-16,1.15E-16,6.99E-17,4.45E-17,2.94E-17,2.01E-17,8.65E-18,4.19E-18,1.25E-18,2.00E-19,5.03E-20,1.66E-20,6.57E-21,2.96E-21,1.47E-21,7.90E-22,4.51E-22,1.03E-23,1.08E-24,2.15E-25,6.09E-26,2.17E-26,9.03E-27,4.22E-27,2.16E-27,1.18E-27
+Y Axis Error Data = 0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+Reference Number = 1992C301
+Author(s) = Belkic,D. Gayet,R. Salin,A.
+Title of Record = Cross sections for electron capture from atomic hydrogen by fully stripped ions
+Journal Name = Atomic Data and Nuclear Data Tables
+Volume and Issue No. = 51
+Page Numbers = 59-150
+Date of Publication = 1992
+Process Title = He2+ + H(1s) --> He+(n=2) + H+

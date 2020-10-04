@@ -1,0 +1,15 @@
+id_number,B201208229
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Quenching
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CO(B1¦²+, v=0) + H2O -> CO(X1¦²+) + H2O
+reference_number,2012000492
+author,F. Di Teodoro### J. E. Rehm### R. L. Farrow### P. H. Paul
+title_of_record,Collisional quenching of CO B 1¡Æ+(v'=0) probed by two-photon laser-induced fluorescence using a picosecond laser
+journal_name,J. Chem. Phys.
+volume_and_issue_No,113
+page_number,3046
+date_of_publication,2000

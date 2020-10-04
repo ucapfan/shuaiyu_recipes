@@ -1,0 +1,15 @@
+id_number,B201220505
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,N5+ + H2
+reference_number,2012001177
+author,D. Elizaga### L. F. Errea### J. D. Gorfinkiel### C. Illescas### A. Macias### L. Mendez### I. Rabadan### A. Riera### A. Rojas### P. Sanz
+title_of_record,Vibrationally resolved charge transfer and ionisation cross sections for ion-H2(D2, DT, T2) collisions
+journal_name,At. Plasma-Mater. Interact. Data fusion
+volume_and_issue_No,10
+page_number,71
+date_of_publication,2002

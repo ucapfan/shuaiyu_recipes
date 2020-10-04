@@ -1,0 +1,15 @@
+id_number,B201863667
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H1+ + He -> H1+ + He2+
+reference_number,2018000190
+author,L. J. Puckett and D. W. Martin
+title_of_record,Analysis of Recoil He+ and He++ Ions Produced by Fast Protons in Helium Gas
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,1
+page_number,1432
+date_of_publication,1970

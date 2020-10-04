@@ -1,0 +1,15 @@
+id_number,B201208810
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Quenching
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,N(1s22s22p23p1,2S) + Xe -> N(1s22s22p23s1,2P) + Xe
+reference_number,2012000526
+author,Hironobu Umemoto### Naoki Terada### Kunikazu Tanaka### Shigeki Oguro
+title_of_record,Deactivation processes of highly excited atomic nitrogen, N(2p23p 2S)
+journal_name,Phys. Chem. Chem. Phys.
+volume_and_issue_No,2
+page_number,3425
+date_of_publication,2000

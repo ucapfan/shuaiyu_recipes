@@ -1,0 +1,15 @@
+id_number,B201880859
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + SF6
+reference_number,2018000584
+author,L. C. Lee###  E. Phillips### and  D. L. Judge
+title_of_record,Photoabsorption cross sections of CH4, CF4, CF3Cl, SF6, and C2F6 from 175 to 770  
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,67
+page_number,1237
+date_of_publication,1977

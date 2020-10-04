@@ -1,0 +1,15 @@
+id_number,B201880905
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Emission cross section
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CO2 -> CO2(A2&Piu +B2&Sigma+u) + CO2(X2&Pig)
+reference_number,2018000594
+author,James A. R. Samson and J. L. Gardner
+title_of_record,Fluorescent cross sections and yields of CO2+ from threshold to 185 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,58
+page_number,3771
+date_of_publication,1973

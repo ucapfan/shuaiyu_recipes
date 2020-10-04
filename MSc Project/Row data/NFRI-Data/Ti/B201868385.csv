@@ -1,0 +1,15 @@
+id_number,B201868385
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Sub Shell
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Heq+ + Ti -> Heq+ + Ti1+(K-shell) + e
+reference_number,2018000275
+author,O Benka and M Geretschlager
+title_of_record,K-shell ionisation cross sections for Ti, Fe, Cu, Zr and Ag by protons and He ions in the energy range 85-790 keV
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,13
+page_number,3223
+date_of_publication,1980

@@ -1,0 +1,15 @@
+id_number,B201876723
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + NO2 -> NO21+
+reference_number,2018000490
+author,Toshio Masuoka### Ataru Kobayashi
+title_of_record,Single- and double-photoionization cross-sections of nitrogen dioxide (NO2) and ionic fragmentation of NO2+ and NO22+
+journal_name,Chemical Physics
+volume_and_issue_No,302
+page_number,31
+date_of_publication,2004

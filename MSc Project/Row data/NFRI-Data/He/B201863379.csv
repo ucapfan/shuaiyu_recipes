@@ -1,0 +1,15 @@
+id_number,B201863379
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,O3+ + He -> O3+ + He1+ + e
+reference_number,2018000174
+author,R.K. Janev### R.A. Phaneuf### H.T. Hunter
+title_of_record,Recommmended cross sections for electron capture and ionization in collisions of Cq+ and Oq+ ions with H, He, and H2
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,40
+page_number,249
+date_of_publication,1988

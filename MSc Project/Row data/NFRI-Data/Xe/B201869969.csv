@@ -1,0 +1,15 @@
+id_number,B201869969
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ar1+ + Xe -> Ar + Xe1+
+reference_number,2018000450
+author,William B. Maier II
+title_of_record,Electron transfer in collisions between atomic ions and rare©\gas atoms for primary©\ion energies below 200 eV. II 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,69
+page_number,3077
+date_of_publication,1978

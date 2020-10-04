@@ -1,0 +1,15 @@
+id_number,B201208365
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Associative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ag2+ + O2 -> Ag2O2+
+reference_number,2012000500
+author,L. D. Socaciu### J. Hagen### U. Heiz### T. M. Bernhardt### T. Leisner### L. Woste
+title_of_record,Reaction mechanism for the oxidation of free silver dimers
+journal_name,Chem. Phys. Lett.
+volume_and_issue_No,340
+page_number,282
+date_of_publication,2001

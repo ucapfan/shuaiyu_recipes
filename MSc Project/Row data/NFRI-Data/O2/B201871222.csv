@@ -1,0 +1,15 @@
+id_number,B201871222
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Dissociation
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,O + O2
+reference_number,2018000453
+author,Fabrizio Esposito### Iole Armenise### Giulia Capitta### Mario Capitelli
+title_of_record,O¨CO2 state-to-state vibrational relaxation and dissociation rates based on quasiclassical calculations
+journal_name,Chemical Physics
+volume_and_issue_No,351
+page_number,91
+date_of_publication,2008

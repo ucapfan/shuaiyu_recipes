@@ -1,0 +1,15 @@
+id_number,B201209243
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O3+ + CO -> O2+ + CO+
+reference_number,2012000543
+author,H. Gao### Z. Fang### Victor H. S. Kwong
+title_of_record,Absolute total one- and two-electron-transfer cross sections of O3+ and O2+ with CO at kilo-electron-volt energies
+journal_name,Phys. Rev. A
+volume_and_issue_No,63
+page_number,032704
+date_of_publication,2001

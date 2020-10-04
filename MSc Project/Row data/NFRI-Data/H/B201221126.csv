@@ -1,0 +1,15 @@
+id_number,B201221126
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,N4+ + H
+reference_number,2012001234
+author,L. Folkerts### M. A. Haque### C. C. Havener### N. Shimakura### M. Kimura
+title_of_record,Low-energy electron capture by N4+ ions from H atoms: Experimental study using merged beams and theoretical analysis by molecular representation
+journal_name,Phys. Rev. A
+volume_and_issue_No,51
+page_number,3685
+date_of_publication,1995

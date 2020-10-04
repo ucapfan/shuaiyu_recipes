@@ -1,0 +1,20 @@
+Id Number = 6187
+Process = CT
+Element A = He
+Initial Charge Number A = +2
+Final Charge Number A = +1
+Element B = CO2
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = E
+X Axis Data = 0.667E+03,0.833E+03,1.000E+03,1.330E+03,1.670E+03,2.000E+03,2.670E+03,3.330E+03,4.000E+03,4.670E+03,5.330E+03,6.000E+03,6.670E+03
+Y Axis Data = 0.407E-15,0.492E-15,0.567E-15,0.692E-15,0.872E-15,0.950E-15,1.100E-15,1.120E-15,1.156E-15,1.210E-15,1.222E-15,1.224E-15,1.202E-15
+Y Axis Error Data = 0.013E-15,0.026E-15,0.023E-15,0.030E-15,0.040E-15,0.035E-15,0.057E-15,0.044E-15,0.056E-15,0.046E-15,0.079E-15,0.036E-15,0.035E-15
+Reference Number = 2000C380
+Author(s) = Greenwood, J.B.$Chutjian, A.$Smith, S.J.
+Title of Record = MEASUREMENTS OF ABSOLUTE, SINGLE CHARGE-EXCHANGE CROSS SECTIONS OF H+, He+ AND He2+ WITH H2O AND CO2
+Journal Name = Astrophys. J.
+Volume and Issue No. = 529
+Page Numbers = 605
+Date of Publication = 2000
+Process Title = He2+ + CO2 --> He+(n=1) + CO2+

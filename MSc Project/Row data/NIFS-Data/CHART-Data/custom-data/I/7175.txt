@@ -1,0 +1,20 @@
+Id Number = 7175
+Process = CT
+Element A = I
+Initial Charge Number A = +25
+Final Charge Number A = +23
+Element B = He
+Initial Charge Number B = 0
+Final Charge Number B = +2
+Theory or Experiment = E
+X Axis Data = 2.0,3.9,9.9,19.7,39.4,98.5,197,295
+Y Axis Data = 16.1E-16,20.6E-16,22.2E-16,16.9E-16,16.6E-16,16.2E-16,13.7E-16,15.4E-16
+Y Axis Error Data = 3.2E-16,4.1E-16,4.4E-16,3.4E-16,3.3E-16,3.2E-16,2.7E-16,3.1E-16
+Reference Number = 1995C449
+Author(s) = Okuno, K.$Saitoh, H.$Soejima, K.$Kravis, S.$Kobayashi, N.
+Title of Record = Measurements of Charge Transfer Cross Sections of Arq+ + H2 (q=6, 7, 8, 9 and 11) Collisions with He and H2 Targets at Low Energies
+Journal Name = AIP Conf. Proc.
+Volume and Issue No. = 360
+Page Numbers = 867-876
+Date of Publication = 1995
+Process Title = I25+ + He --> I23+ + He2+

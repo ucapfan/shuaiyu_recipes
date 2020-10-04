@@ -1,0 +1,15 @@
+id_number,B201871250
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He + NO(X2&Sigma,j=1/2) -> He + NO(X2&Sigma,j'=1.5)
+reference_number,2018000457
+author,J. Kos### F. Lique### M.H. Alexander
+title_of_record,Quantum scattering of NO(X2¦°) with He(1S): Temperature dependence of rotational (de)-excitation rate coefficients
+journal_name,Chemical Physics Letters
+volume_and_issue_No,455
+page_number,1
+date_of_publication,2008

@@ -1,0 +1,15 @@
+id_number,B201865984
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Excitation
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H1+ + Cl12+(2p,2P1/2) -> H+ + Cl12+(2p,2P3/2)
+reference_number,2018000310
+author,Bely### O.; Faucher### P. 
+title_of_record,Fine Structure Proton Excitation Rates for Positive Ions in the 2p, 2p5, 3p, 3p5 Series 
+journal_name,Astronomy and Astrophysics 
+volume_and_issue_No,6
+page_number,88
+date_of_publication,1970

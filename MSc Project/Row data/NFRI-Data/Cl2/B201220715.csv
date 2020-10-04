@@ -1,0 +1,15 @@
+id_number,B201220715
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Na + Cl2 -> NaCl + Cl
+reference_number,2012001195
+author,Babaji Charan Mishra### Trilochan Pradhan
+title_of_record,Reactive collision between alkali-metal atoms and halogen molecules
+journal_name,Phys. Rev. A
+volume_and_issue_No,44
+page_number,4395
+date_of_publication,1991

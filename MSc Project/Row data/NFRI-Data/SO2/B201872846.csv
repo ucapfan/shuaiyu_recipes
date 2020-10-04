@@ -1,0 +1,15 @@
+id_number,B201872846
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + SO2 -> SO21+
+reference_number,2018000481
+author,Toshio Masuoka### Youngmin Chung### Eun-Mee Lee### and James A. R. Samson
+title_of_record,Dissociative photoionization of SO2 from 16 to 120 eV
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,109
+page_number,2246
+date_of_publication,1998

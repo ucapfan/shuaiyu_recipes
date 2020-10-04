@@ -1,0 +1,15 @@
+id_number,B201217323
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Associative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H3O+ + CHF2Br -> CHFBrH3O+
+reference_number,2012000648
+author,Richard A. Kennedya### Chris A. Mayhew### Richard Thomas### Peter Watts
+title_of_record,Reactions of H3O+ with a number of bromine containing fully and partially halogenated hydrocarbons
+journal_name,Int. J. Mass Spectrom.
+volume_and_issue_No,223
+page_number,627
+date_of_publication,2003

@@ -1,0 +1,16 @@
+id_number,B201219158
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Partial
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He2+ + CO -> He2+ + CO+ + e
+reference_number,2012001104
+author,M. B. Shah### H. B. Gilbody
+title_of_record,Ionisation and electron capture in collisions of H+ and He2+
+ions with carbon monoxide
+journal_name,J. Phys. B
+volume_and_issue_No,23
+page_number,1491
+date_of_publication,1990

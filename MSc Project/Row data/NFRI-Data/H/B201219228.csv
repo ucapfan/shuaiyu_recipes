@@ -1,0 +1,15 @@
+id_number,B201219228
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,B5+ + H(1s1) -> B5+ + H(3d1)
+reference_number,2012001163
+author,N. Toshima### H. Tawara
+title_of_record,Excitaion, ionization, and electron capture cross sections of hydrogen in collisions with multiply charged ions
+journal_name,Natl. Inst. Fusion. Sci.
+volume_and_issue_No,26
+page_number,1
+date_of_publication,1995

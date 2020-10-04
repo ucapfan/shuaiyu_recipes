@@ -1,0 +1,15 @@
+id_number,B201868484
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Kr1+(3P3/2) + H2S -> S1+
+reference_number,2018000290
+author,N G Adams### D Smith and E Alge
+title_of_record,Reactions of the 2P3/2 and 2P1/2 doublet ground states of Kr+ and Xe+ at 300K
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,13
+page_number,3235
+date_of_publication,1980

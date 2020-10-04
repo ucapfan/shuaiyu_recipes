@@ -1,0 +1,15 @@
+id_number,B201870204
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H1+ + CO2 -> H + CO21+
+reference_number,2018000339
+author,M. A. Coplan and  K. W. Ogilvie
+title_of_record,Charge Exchange for H+ and H2+ in H2O, CO2, and NH3 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,52
+page_number,4154
+date_of_publication,1970

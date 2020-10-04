@@ -1,0 +1,15 @@
+id_number,B201220913
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,N2 + O+
+reference_number,2012001228
+author,H. Martinez### C. L. Hernandez### F. B. Yousif
+title_of_record,Absolute differential and total cross sections for charge transfer of O+ ground and mixed states ions in N2
+journal_name,J. Phys. B
+volume_and_issue_No,39
+page_number,2535
+date_of_publication,2006

@@ -1,0 +1,15 @@
+id_number,B201871459
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + F1- -> F+1 + 2e
+reference_number,2018000470
+author,V.T.Davis###A. Aguilar###A.M.Covington###J.S.Thompson###D.Calabrese###C.Cisneros###M.S.Gulley###M.Halka###D.Hanstorp### J.S.andstr\H{o}m###B.M.McLaughlin###G.F.Gribakin and D.J.Pegg   
+title_of_record,Photo-double detachment from the F ion
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,38
+page_number,2579
+date_of_publication,2005

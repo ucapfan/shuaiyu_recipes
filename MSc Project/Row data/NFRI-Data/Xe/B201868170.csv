@@ -1,0 +1,15 @@
+id_number,B201868170
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ne2+ + Xe -> Ne1+ + Xe1+
+reference_number,2018000248
+author,H C Suk### A Guilbaud and B Hird
+title_of_record,Cross sections for electron capture by Ne2+ in He, Ne, Ar, Kr and Xe between 60 and 200 keV
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,11
+page_number,1463
+date_of_publication,1978

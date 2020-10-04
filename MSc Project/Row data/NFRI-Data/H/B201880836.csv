@@ -1,0 +1,15 @@
+id_number,B201880836
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + H1- -> H + e
+reference_number,2018000577
+author,A W Wishart
+title_of_record,The bound-free photodetachment cross section of H-
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,12
+page_number,3511
+date_of_publication,1979

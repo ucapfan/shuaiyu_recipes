@@ -1,0 +1,20 @@
+Record Number = 10422
+Process = dissociative ionization;charge exchange;dissociation
+Theory or Experiment = T
+data type = CS
+Projectile Element = He
+Projectile Charge State = +1
+Target Molecule = H2
+Target Charge State = 0
+Initial Excited State B = v=3
+Products = He;H;H+
+Original X Unit = eV
+Original Y Unit = cm2
+Reference Number = 1998C394
+Author(s) = Aguillon, F.
+Title of Record = A new treatment of nonadiabatic dynamics: Application to the determination of the He++H2->He+H+H+ differential cross section
+Journal Name = J. Chem. Phys.
+Volume and Issue No. = 109
+Page Numbers = 560-571
+Date of Publication = 1998
+Process Title = He+ + H2 (v=3) --> He+H+H+

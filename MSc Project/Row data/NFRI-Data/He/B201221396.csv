@@ -1,0 +1,15 @@
+id_number,B201221396
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Si2+ + He+
+reference_number,2012001268
+author,P. Honvault### M. C. B. Montabonel### M. Gargaud### R. McCarroll
+title_of_record,Charge transfer between Si3+ and helium at thermal and low energies
+journal_name,Chem. Phys.
+volume_and_issue_No,238
+page_number,401
+date_of_publication,1998

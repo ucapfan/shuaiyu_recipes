@@ -1,0 +1,15 @@
+id_number,B201871364
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Vibrational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,SiS (v=0, j=0) + He -> SiS (v'=0, \Sigma j')
+reference_number,2018000461
+author,R Toboa### F Lique### J Kos and G Chaasinski
+title_of_record,Ro-vibrational excitation of SiS by He
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,41
+page_number,155702
+date_of_publication,2008

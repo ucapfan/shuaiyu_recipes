@@ -1,0 +1,15 @@
+id_number,B201208227
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Quenching
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CF2(3B1) + O2 -> CF2(1A1) + O2
+reference_number,2012000491
+author,Bart Dils### Shaun Avondale Carl### Jozef Peeters
+title_of_record,Absolute rate coefficient of the reaction of CF2( 3B1) with O2 between 288 and 600 K
+journal_name,Phys. Chem. Chem. Phys.
+volume_and_issue_No,5
+page_number,2376
+date_of_publication,2003

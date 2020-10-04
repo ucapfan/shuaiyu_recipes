@@ -1,0 +1,15 @@
+id_number,B201868276
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H + He -> H1+ + He1+
+reference_number,2018000264
+author,E Horsdal Pedersen and Lea Larsen
+title_of_record,Simultaneous ionisation of both collision partners in single collisions between H projectiles and He and Xe targets
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,12
+page_number,4099
+date_of_publication,1979

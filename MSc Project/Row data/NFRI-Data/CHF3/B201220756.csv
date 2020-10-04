@@ -1,0 +1,15 @@
+id_number,B201220756
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,OH + CHF3
+reference_number,2012001215
+author,L. J. Medhurst### J. Fleming### H. H. Nelson
+title_of_record,Reaction rate constants of OH + CHF3 ¡ú products and O(3P) + CHF3 ¡ú OH + CF3 at 500-750 K
+journal_name,Chem. Phys. Lett.
+volume_and_issue_No,266
+page_number,607
+date_of_publication,1997

@@ -1,0 +1,15 @@
+id_number,B201207937
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Associative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Kr(j=0) + O(3P) -> KrO(j=2)
+reference_number,2012000485
+author,J. Klos### G. Chalasinski### Roman V. Krems### A. A. Buchachenko### Vincenzo Aquilanti### Fernando Pirani### David Cappelletti
+title_of_record,Ab initio potentials for the S(3Pj)¡­¨Crare gas dimers: Implementation for elastic and inelastic collisions and comparison with scattering potentials
+journal_name,J. Chem. Phys.
+volume_and_issue_No,116
+page_number,9269
+date_of_publication,2002

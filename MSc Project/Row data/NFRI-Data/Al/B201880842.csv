@@ -1,0 +1,15 @@
+id_number,B201880842
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + Al
+reference_number,2018000581
+author,Rajendra Prasad
+title_of_record,Total photon-absorption cross-section measurements at 52.4, 60, 72.2, and 84.4 keV in Al, Fe, Mo, Ag, W, and Pt: Photoelectric cross sections deduced
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,18
+page_number,2167
+date_of_publication,1978

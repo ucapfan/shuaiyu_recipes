@@ -1,0 +1,15 @@
+id_number,B201223845
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O+(1s22s22p3,4S) + H2
+reference_number,2012001305
+author,D. R. Sieglaff### B. G. Lindsay### K. A. Smith### R. F. Stebbings
+title_of_record,Absolute differential and total cross sections for charge tranfer of O+ with H2
+journal_name,Phys. Rev. A
+volume_and_issue_No,59
+page_number,3538
+date_of_publication,1999

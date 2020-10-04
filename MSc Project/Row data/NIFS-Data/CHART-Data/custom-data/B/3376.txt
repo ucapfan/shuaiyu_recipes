@@ -1,0 +1,20 @@
+Id Number = 3376
+Process = CT
+Element A = B
+Initial Charge Number A = +5
+Final Charge Number A = +4
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 1.0000E+03,4.0000E+03,9.0000E+03,1.6000E+04,2.5000E+04
+Y Axis Data = 1.1000E-16,8.5001E-16,1.1300E-15,1.1000E-15,1.0800E-15
+Y Axis Error Data = 0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00
+Reference Number = 1985C230
+Author(s) = Bendahman,M. Bliman,S. Dousson,S. Hitz,D. Gayet,R. Hanssen,J. Harel,C. Salin,A.
+Title of Record = Electron capture from atomic hydrogen by multiply charged ions in low energy collisions.
+Journal Name = J. de Phys.
+Volume and Issue No. = 46
+Page Numbers = 561
+Date of Publication = 1985
+Process Title = B5+ + H --> B4+(n=3) + H+

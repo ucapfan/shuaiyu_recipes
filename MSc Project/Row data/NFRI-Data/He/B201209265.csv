@@ -1,0 +1,15 @@
+id_number,B201209265
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Sr3+ + He -> Sr + He+(1s1)
+reference_number,2012000545
+author,D. Rabli### M. Gargaud### R. McCarroll
+title_of_record,Electron capture in low-energy collisions of Si3+ with He
+journal_name,J. Phys. B
+volume_and_issue_No,34
+page_number,1395
+date_of_publication,2001

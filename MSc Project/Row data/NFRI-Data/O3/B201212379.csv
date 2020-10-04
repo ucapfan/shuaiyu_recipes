@@ -1,0 +1,15 @@
+id_number,B201212379
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,FeO2 + O3 -> FeO3 + O2
+reference_number,2012000668
+author,Daniel E. Self### John M. C. Plane
+title_of_record,A kinetic study of the reactions of iron oxides and hydroxides relevant to the chemistry of iron in the upper mesosphere
+journal_name,Phys. Chem. Chem. Phys.
+volume_and_issue_No,5
+page_number,1407
+date_of_publication,2003

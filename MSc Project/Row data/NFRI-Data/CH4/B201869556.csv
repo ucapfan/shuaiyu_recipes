@@ -1,0 +1,15 @@
+id_number,B201869556
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CH41+ + CH4 -> CH51+ + CH3
+reference_number,2018000425
+author,Anna Giardini©\Guidoni and  Lewis Friedman
+title_of_record,Energy Transfer in Ion¡ªMolecule Reactions in the Methane System
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,45
+page_number,937
+date_of_publication,1966

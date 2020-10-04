@@ -1,0 +1,15 @@
+id_number,B201210508
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Scattering
+sub_process,Elastic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H2 + H2(v=0, J=9) -> H2 + H2(v=0, J=9)
+reference_number,2012000587
+author,D. R. Flower### E. Roueff
+title_of_record,Rovibrational relaxation in collisions between H2 molecules: I. Transitions induced by ground state para-H2
+journal_name,J. Phys. B
+volume_and_issue_No,31
+page_number,2935
+date_of_publication,1998

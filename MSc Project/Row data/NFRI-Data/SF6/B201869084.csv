@@ -1,0 +1,15 @@
+id_number,B201869084
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H1+ + SF6
+reference_number,2018000407
+author,L. H. Toburen and  W. E. Wilson### L. E. Porter
+title_of_record,Energy and angular distributions of electrons ejected in the ionization of SF6 and TeF6 by fast protons 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,67
+page_number,4212
+date_of_publication,1977

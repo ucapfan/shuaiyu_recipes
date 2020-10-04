@@ -1,0 +1,15 @@
+id_number,B201219677
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He+ + H -> He+ + H(n=3)
+reference_number,2012001136
+author,D. Jackson### H. A. Slim### B. H. Bransden### D. R. Flower
+title_of_record,Excitation and charge transfer in He+-H collisions
+journal_name,J. Phys. B
+volume_and_issue_No,25
+page_number,L127
+date_of_publication,1992

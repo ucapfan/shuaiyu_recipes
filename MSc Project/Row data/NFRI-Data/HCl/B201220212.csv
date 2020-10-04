@@ -1,0 +1,15 @@
+id_number,B201220212
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Cl + HCl(j=5, v=0) -> ClH + Cl
+reference_number,2012001171
+author,D. Sokolovski### J. N. L. Connor### G. C. Schatz
+title_of_record,Centrifugal-sudden hyperspherical study of Cl + HCl ¡ú ClH + Cl reaction dynamics on 'tight-bend' and 'loose-bend' potential energy surfaces
+journal_name,Chem. Phys.
+volume_and_issue_No,207
+page_number,461
+date_of_publication,1996

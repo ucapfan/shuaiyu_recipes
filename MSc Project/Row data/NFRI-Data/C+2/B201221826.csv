@@ -1,0 +1,15 @@
+id_number,B201221826
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H2 + C2(j=18) -> H2 + C2(j'=16)
+reference_number,2012001284
+author,H. Lavendy### J.M. Robbe### G. Chambaud### .B. Levy### E. Roueff
+title_of_record,Theoretical determination of the intermolecular potentials of the C2-H2 system. Application to the collisional deexcitation of C2 in collisions with H2
+journal_name,Astron. Astrophys.
+volume_and_issue_No,251
+page_number,365
+date_of_publication,1991

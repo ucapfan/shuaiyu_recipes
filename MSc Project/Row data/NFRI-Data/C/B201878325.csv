@@ -1,0 +1,15 @@
+id_number,B201878325
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + C1-(1s2s22p3,4S0) -> C1+(2l2"2l'') + e
+reference_number,2018000501
+author,C. W. Walter### N. D. Gibson### R. C. Bilodeau### N. Berrah### J. D. Bozek### G. D. Ackerman### and A. Aguilar
+title_of_record,Shape resonance in K-shell photodetachment from C
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,73
+page_number,062702
+date_of_publication,2006

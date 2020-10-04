@@ -1,0 +1,15 @@
+id_number,B201869569
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,D21+ + CO2 -> CO2D1+ + D
+reference_number,2018000427
+author,T. W. Shannon and A. G. Harrison
+title_of_record,Concurrent Ion¡ªMolecule Reactions. II. Reactions in X¡ªD2 Mixtures
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,43
+page_number,4206
+date_of_publication,1965

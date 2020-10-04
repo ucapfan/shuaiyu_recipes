@@ -1,0 +1,15 @@
+id_number,B201217553
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H2 + B3+
+reference_number,2012001069
+author,M. C. B. Montabonel
+title_of_record,Theoretical treatment of electron-capture processes in ion-molecule collisions: B3++H2 as a test case
+journal_name,Phys. Rev. A
+volume_and_issue_No,59
+page_number,3569
+date_of_publication,1999

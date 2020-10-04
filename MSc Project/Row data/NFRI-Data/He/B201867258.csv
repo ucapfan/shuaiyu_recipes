@@ -1,0 +1,15 @@
+id_number,B201867258
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H1+ + He -> H
+reference_number,2018000213
+author,S Begum### B H Bransden and J Coleman
+title_of_record,The use of second order potentials in the theory of scattering of charged particles by atoms V. Excitation of helium atoms by fast protons and charge exchange
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,6
+page_number,837
+date_of_publication,1973

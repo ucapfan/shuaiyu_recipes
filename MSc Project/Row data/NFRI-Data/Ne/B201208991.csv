@@ -1,0 +1,15 @@
+id_number,B201208991
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He+ + Ne
+reference_number,2012000535
+author,J. Fiol### R. E. Olson### A. C. F. Santos### G. M. Sigaud### E. C. Montenegro
+title_of_record,Simultaneous projectile and target ionization in He+ + Ne collisions
+journal_name,J. Phys. B
+volume_and_issue_No,34
+page_number,L503
+date_of_publication,2001

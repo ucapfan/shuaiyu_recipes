@@ -1,0 +1,15 @@
+id_number,B201870344
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He1+ + C2H6 -> He + C2H61+
+reference_number,2018000354
+author,T. F. Moran and  R. J. Conrads
+title_of_record,Charge neutralization of He+ ion beams
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,58
+page_number,3793
+date_of_publication,1973

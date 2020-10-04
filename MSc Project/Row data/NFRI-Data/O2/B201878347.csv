@@ -1,0 +1,15 @@
+id_number,B201878347
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + O2 -> O2
+reference_number,2018000508
+author,I. Kanik### L. Beegle### C. Noren### S.M. Ahrned### R. Link
+title_of_record,Temperature-dependent photoabsorption cross section measurements of O2 at the NI airglow and auroral emission lines
+journal_name,Chemical Physics Letters
+volume_and_issue_No,279
+page_number,297
+date_of_publication,1997

@@ -1,0 +1,15 @@
+id_number,B201217639
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Associative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,NO+ + C4H2 -> C4H2NO+
+reference_number,2012000650
+author,Paul F. Wilson### Colin G. Freeman### Murray J. McEwan
+title_of_record,Reactions of small hydrocarbons with H3O+, O2+ and NO+ ions
+journal_name,Int. J. Mass Spectrom.
+volume_and_issue_No,229
+page_number,143
+date_of_publication,2003

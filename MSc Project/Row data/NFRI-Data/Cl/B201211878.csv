@@ -1,0 +1,15 @@
+id_number,B201211878
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O3 + Cl -> O2 + ClO
+reference_number,2012000628
+author,William J. Bloss### David M. Rowley### R. Anthony Cox and Roderic L. Jones
+title_of_record,Rate coefficient for the BrO +HO2 reaction at 298 K
+journal_name,Phys. Chem. Chem. Phys.
+volume_and_issue_No,4
+page_number,3639
+date_of_publication,2002

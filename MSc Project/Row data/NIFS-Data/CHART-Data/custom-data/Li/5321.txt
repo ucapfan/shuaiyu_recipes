@@ -1,0 +1,20 @@
+Id Number = 5321
+Process = CT
+Element A = Li
+Initial Charge Number A = +2
+Final Charge Number A = +1
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 7.71E+04,1.02E+05,1.36E+05,1.83E+05,2.17E+05,3.14E+05,4E+05,5E+05,6.38E+05,8.35E+05,1.18E+06,1.65E+06,2.39E+06,3.53E+06,8.71E+06,1.53E+07,2.68E+07
+Y Axis Data = 1E-20,2.05E-20,3.89E-20,6.57E-20,1E-19,1.75E-19,2.43E-19,2.96E-19,3.42E-19,3.65E-19,3.51E-19,3.16E-19,2.59E-19,1.92E-19,1E-19,5.77E-20,3.33E-20
+Y Axis Error Data = 0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+Reference Number = 1993C336
+Author(s) = Hovland,H. Hansen,J.P.
+Title of Record = Double-atom excitation in heavy-particle collisions induced by the electron-electron interaction
+Journal Name = J. Phys. B
+Volume and Issue No. = 26
+Page Numbers = 2659-2666
+Date of Publication = 1993
+Process Title = Li2+ + H(1s) --> Li+(n=2) + H+(n=2)

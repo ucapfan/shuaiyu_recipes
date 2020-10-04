@@ -1,0 +1,15 @@
+id_number,B201876762
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + O2 -> O(3P) + O(3S0)
+reference_number,2018000496
+author,S.M. Ahmed### I. Kanik### R. Link
+title_of_record,Temperature-dependent photoabsorption cross section measurements of O2 at the O I-1304 A triplet emission lines
+journal_name,Chemical Physics Letters
+volume_and_issue_No,259
+page_number,545
+date_of_publication,1996

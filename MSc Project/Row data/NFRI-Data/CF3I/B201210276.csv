@@ -1,0 +1,16 @@
+id_number,B201210276
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Ionization
+sub_process,Partial
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CF2+ + CF3I -> CF3+ + CF2I
+reference_number,2012000595
+author,C.Q. Jiao### B. Ganguly### C.A. DeJoseph Jr.### A. Garscadden
+title_of_record,Comparisons of electron impact ionization and ion chemistries
+of CF3Br and CF3I
+journal_name,Int. J. Mass Spectrom.
+volume_and_issue_No,208
+page_number,127
+date_of_publication,2001

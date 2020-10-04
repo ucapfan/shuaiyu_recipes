@@ -1,0 +1,15 @@
+id_number,B201225565
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Radiative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He+ + O -> O+ + He + hv
+reference_number,2012001331
+author,L. B. Zhao### P. C. Stancil### J. P. Gu### H.-P. Liebermann### Y. Li### P. Funke### R. J. Buenker### B. Zygelman### M. Kimura### A. Dalgarno
+title_of_record,RADIATIVE CHARGE TRANSFER IN COLLISIONS OF O WITH He+
+journal_name,Astrophys. J.
+volume_and_issue_No,615
+page_number,1063
+date_of_publication,2004

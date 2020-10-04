@@ -1,0 +1,15 @@
+id_number,B201878326
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,e + Cl2
+reference_number,2018000049
+author,Christophorou
+title_of_record,Electron Interactions with Cl2
+journal_name,J. Phys. Chem. Ref. Data
+volume_and_issue_No,28
+page_number,131
+date_of_publication,1999

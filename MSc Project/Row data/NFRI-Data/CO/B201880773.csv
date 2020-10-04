@@ -1,0 +1,15 @@
+id_number,B201880773
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CO
+reference_number,2018000567
+author,B E Cole and R N Dexter
+title_of_record,Photoabsorption and photoionisation measurements on some atmospheric gases in the wavelength region 50-340 AA
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,11
+page_number,1011
+date_of_publication,1978

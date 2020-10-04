@@ -1,0 +1,15 @@
+id_number,B201216857
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,F + H2(v=0, j=2) -> HF(v=1) + H
+reference_number,2012001055
+author,J. F. Castillo### B. Hartk### H. J. Wemer### F. J. Aoiz### L. Banares### B. Martinez-Haya
+title_of_record,Quantum mechanical and quasiclassical simulations of molecular beam experiments for the F+H2¡úHF+H reaction on two ab initio potential energy surfaces
+journal_name,J. Chem. Phys.
+volume_and_issue_No,109
+page_number,7224
+date_of_publication,1998

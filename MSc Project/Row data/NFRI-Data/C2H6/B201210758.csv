@@ -1,0 +1,15 @@
+id_number,B201210758
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Electron Loss
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H + C2H6 -> H+ + C2H6 + e
+reference_number,2012000608
+author,J. M. Sanders### S. L. Varghese### C. H. Fleming### G. A. Soosai
+title_of_record,Electron capture by protons and electron loss from hydrogen atoms in collisions with hydrocarbon and hydrogen molecules in the 60¨C120 keV energy range
+journal_name,J. Phys. B
+volume_and_issue_No,36
+page_number,3835
+date_of_publication,2003

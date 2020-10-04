@@ -1,0 +1,15 @@
+id_number,B201225964
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Reaction
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O2+ + C10H19OH -> C6H8+
+reference_number,2012001346
+author,P. Spanel### D. Smith
+title_of_record,SIFT studies of the reactions of H3O+, NO+ and O2+ with a series of alcohols
+journal_name,IJMSIP
+volume_and_issue_No,167
+page_number,375
+date_of_publication,1997

@@ -1,0 +1,15 @@
+id_number,B201221310
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Partial
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Be4+ + C5+ -> Be4+ + C6+ + e
+reference_number,2012001266
+author,T. G. Winter
+title_of_record,Electron transfer and ionization in collisions between H+, He2+, Li3+, Be4+, B5+, C6+, N7+ ions and target C5+(1s) ions studied using a Sturmian basis
+journal_name,Phys. Rev. A
+volume_and_issue_No,56
+page_number,2903
+date_of_publication,1997

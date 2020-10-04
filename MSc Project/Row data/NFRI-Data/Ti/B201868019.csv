@@ -1,0 +1,15 @@
+id_number,B201868019
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Sub Shell
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,Bq+ + Ti -> Bq+ + Ti1+(K-shell)
+reference_number,2018000244
+author,R. K. GARDNER and TOM J. GRAY
+title_of_record,CROSS SECTIONS FOR K-SHELL IONIZATION, X-RAY PRODUCTION, OR AUGER-ELECTRON PRODUCTION BY ION IMPACT*
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,21
+page_number,515
+date_of_publication,1978

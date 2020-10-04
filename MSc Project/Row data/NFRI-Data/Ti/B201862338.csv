@@ -1,0 +1,15 @@
+id_number,B201862338
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Sub Shell
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,D+ + Ti -> D+ + Ti1+(2P3/2) + e
+reference_number,2018000171
+author,DAVID D. COHEN
+title_of_record,K- AND L-SHELL IONIZATION CROSS SECTIONS FOR DEUTERONS CALCULATED IN THE ECPSSR THEORY
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,41
+page_number,287
+date_of_publication,1989

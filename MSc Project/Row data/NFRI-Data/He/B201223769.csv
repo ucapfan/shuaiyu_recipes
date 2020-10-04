@@ -1,0 +1,15 @@
+id_number,B201223769
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Vibrational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,HD(v=0, j=0) + He -> HD(v=2, j=0) + He
+reference_number,2012001294
+author,E. Roueff### C. J. Zeippen
+title_of_record,Rovibrational excitation of HD molecules by He atoms
+journal_name,Astron. Astrophys. Suppl. Ser.
+volume_and_issue_No,142
+page_number,475
+date_of_publication,2000

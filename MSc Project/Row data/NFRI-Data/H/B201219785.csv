@@ -1,0 +1,15 @@
+id_number,B201219785
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H(n=2) -> H+ + H(n=3)
+reference_number,2012001140
+author,A. L. Ford### J. F. Reading### K. A. Hall
+title_of_record,Single-centred calculations of excitation and electron removal in intermediate energy p+H(n=2) collisions
+journal_name,J. Phys. B
+volume_and_issue_No,26
+page_number,4553
+date_of_publication,1993

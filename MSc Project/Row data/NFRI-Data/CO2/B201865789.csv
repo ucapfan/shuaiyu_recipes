@@ -1,0 +1,15 @@
+id_number,B201865789
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Vibrational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Ar + CO2(100 + 020) -> Ar + CO2(000)
+reference_number,2018000299
+author,Gert Due Billing
+title_of_record,Semiclassical calculation of energy transfer in polyatomic molecules. XI. Cross sections and rate constants for Ar + CO2
+journal_name,Chemical Physics
+volume_and_issue_No,91
+page_number,327
+date_of_publication,1984

@@ -1,0 +1,15 @@
+id_number,B201872836
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + N2
+reference_number,2018000480
+author,W. C. STOLTE### Z. X. HE### J. N. CUTLER### Y. LU### and J. A. R. SAMSON
+title_of_record,DISSOCIATIVE PHOTOIONIZATION CROSS SECTIONS OF N2 AND O2 FROM 100 TO 800 eV
+journal_name,ATOMIC DATA AND NUCLEAR DATA TABLES
+volume_and_issue_No,69
+page_number,171
+date_of_publication,1998

@@ -1,0 +1,15 @@
+id_number,B201880981
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + HNO3
+reference_number,2018000605
+author,Chengzhu Zhu### Bin Xiang### Lei Zhu *### Richard Cole
+title_of_record,Determination of absorption cross sections of surface-adsorbed HNO3 in the 290¨C330 nm region by Brewster angle cavity ring-down spectroscopy
+journal_name,Chemical Physics Letters
+volume_and_issue_No,458
+page_number,373
+date_of_publication,2008

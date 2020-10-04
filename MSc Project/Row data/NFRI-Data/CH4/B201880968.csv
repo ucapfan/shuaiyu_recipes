@@ -1,0 +1,15 @@
+id_number,B201880968
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CH4
+reference_number,2018000598
+author,Mount### G. H.; Warden### E. S.; Moos### H. W 
+title_of_record,Photoabsorption cross sections of methane from 1400 to 1850 A 
+journal_name,The Astrophysical Journal
+volume_and_issue_No,214
+page_number,L47
+date_of_publication,1977

@@ -1,0 +1,15 @@
+id_number,B201208469
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electron Loss
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Kr+ + Kr -> Kr2+ + Kr + e
+reference_number,2012000508
+author,H### Martinez### A. Amaya-Tapia### J. M. Hernandez
+title_of_record,Single electron loss of Kr+ ions in gaseous media
+journal_name,J. Phys. B
+volume_and_issue_No,33
+page_number,1935
+date_of_publication,2000

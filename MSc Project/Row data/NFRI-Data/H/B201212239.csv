@@ -1,0 +1,15 @@
+id_number,B201212239
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H(n=6) + H -> H(n=11) + H
+reference_number,2012000652
+author,A. A. Mihajlov### Lj M. Ignjatovic### Z. Djuric### N. N. Ljepojevic
+title_of_record,The rate coefficients for the processes of (n  n')-mixing in collisions of Rydberg atoms H*(n) with H(1s) atoms
+journal_name,J. Phys. B
+volume_and_issue_No,37
+page_number,4493
+date_of_publication,2004

@@ -1,0 +1,15 @@
+id_number,B201873392
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + O(2p3 11d,3D)
+reference_number,2018000483
+author,VLADIMIR ESCALANTE and G.A.Victor
+title_of_record,TRANSITION PROBABILITIES AND PHOTOIONIZATION OF NEUTRAL ATOMIC OXYGEN
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,56
+page_number,213
+date_of_publication,1994

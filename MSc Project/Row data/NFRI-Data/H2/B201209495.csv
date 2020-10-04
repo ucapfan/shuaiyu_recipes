@@ -1,0 +1,15 @@
+id_number,B201209495
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He + H2(v=0, J=2) -> He + H2(v=1, J=2)
+reference_number,2012000582
+author,D. R. Flower### E. Roueff### C. J. Zeippen
+title_of_record,Rovibrational excitation of H2 molecules by He atoms
+journal_name,J. Phys. B
+volume_and_issue_No,31
+page_number,1105
+date_of_publication,1998

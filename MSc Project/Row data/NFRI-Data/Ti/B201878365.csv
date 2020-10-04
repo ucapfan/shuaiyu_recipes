@@ -1,0 +1,15 @@
+id_number,B201878365
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Scattering
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + Ti
+reference_number,2018000512
+author,V.R.K. Murty
+title_of_record,Total photon cross sections for lowenergy photons in light elements
+journal_name,Radiation Physics and Chemistry
+volume_and_issue_No,61
+page_number,379
+date_of_publication,2001

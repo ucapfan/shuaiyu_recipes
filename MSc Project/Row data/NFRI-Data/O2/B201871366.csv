@@ -1,0 +1,15 @@
+id_number,B201871366
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He1+ + O2 -> He1+ + O21+
+reference_number,2018000462
+author,W S Melo### A C F Santos### M M Sant¡¯Anna### G M Sigaud and E C Montenegro
+title_of_record,Dissociative and non-dissociative ionization of the O2 molecule by He+ impact
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,41
+page_number,205201
+date_of_publication,2008

@@ -1,0 +1,20 @@
+Id Number = 3265
+Process = CT
+Element A = B
+Initial Charge Number A = +5
+Final Charge Number A = +4
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 1.0000E+02,2.0000E+02,5.0000E+02,1.0000E+03,2.0000E+03,5.0000E+03,1.0000E+04,2.0000E+04
+Y Axis Data = 5.1001E-17,1.4100E-16,1.3000E-16,1.1400E-16,2.3000E-16,2.5500E-16,3.6801E-16,4.9001E-16
+Y Axis Error Data = 0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00,0.0000E+00
+Reference Number = 1984C214
+Author(s) = Fritsch, W. Lin, C.D.
+Title of Record = Atomic-Orbital Expansion Studies of Electron Transfer in Bare Nucleus Z(Z=2,4-8)-Hydrogen Atom Collisions.
+Journal Name = Phys.Rev.A
+Volume and Issue No. = 29
+Page Numbers = 3039
+Date of Publication = 1984
+Process Title = B5+ + H --> B4+(3d) + H+

@@ -1,0 +1,15 @@
+id_number,B201208757
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H + HCN -> H2 + CN
+reference_number,2012000520
+author,B. Cabanas ### P. Martin###S. Salgado### M.T. Baeza### M.R. Lopez###E. Martinez
+title_of_record,A kinetic study of gas-phase reaction of thiophene with NO3 by using absolute and relative methods
+journal_name,Chem. Phys. Lett.
+volume_and_issue_No,358
+page_number,401
+date_of_publication,2002

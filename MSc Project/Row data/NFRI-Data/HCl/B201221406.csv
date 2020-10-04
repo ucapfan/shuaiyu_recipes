@@ -1,0 +1,15 @@
+id_number,B201221406
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,O(1D) + HCl -> OH + Cl
+reference_number,2012001270
+author,M. W. Lufaso### A. B. McCoy
+title_of_record,Effects of complex formation on reactions of oxygen with HCl and Ar-HCl
+journal_name,Chem. Phys.
+volume_and_issue_No,239
+page_number,187
+date_of_publication,1998

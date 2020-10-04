@@ -1,0 +1,16 @@
+id_number,B201225498
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Scattering
+sub_process,Momentum Transfer
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + He
+reference_number,2012001323
+author,M. KIMURA### N. F. LANE### A. DALGARNO### R. G. DIXSON
+title_of_record,RATE COEFFICIENTS FOR MOMENTUM TRANSFER, CHARGE TRANSFER, AND RADIATIVE
+ASSOCIATION PROCESSES IN COLLISIONS OF H+ WITH He BELOW 105 K1
+journal_name,Astrophys. J.
+volume_and_issue_No,405
+page_number,801
+date_of_publication,1993

@@ -1,0 +1,15 @@
+id_number,B201208829
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Quenching
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CO(a3¦°,v=0) + O2 -> CO(X1¦²) + O2
+reference_number,2012000529
+author,Ingrid J. Wysong
+title_of_record,Measurement of quenching rates of CO(a3¦°,v=0) using laser pump-and-probe technique
+journal_name,Chem. Phys. Lett.
+volume_and_issue_No,329
+page_number,42
+date_of_publication,2000

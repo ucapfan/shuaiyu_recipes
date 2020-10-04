@@ -1,0 +1,15 @@
+id_number,B201211801
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,HD(v=0,j=0) + H -> H2(v=1,j=1) + D
+reference_number,2012000630
+author,Sheng Der Chao### Steven A. Harich### Dong Xu Dai### Chia C. Wang### Xueming Yang### Rex T. Skodje
+title_of_record,A fully state- and angle-resolved study of the H+HD->D+H2 reaction: Comparison of a molecular beam experiment to ab initio quantum reaction dynamics
+journal_name,J. Chem. Phys.
+volume_and_issue_No,117
+page_number,8341
+date_of_publication,2002

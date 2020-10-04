@@ -1,0 +1,15 @@
+id_number,B201223977
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,O(3P) + CH4
+reference_number,2012001311
+author,S. Y. Lee### H. S. Yoo### W. K. Kang### K. H. Jung
+title_of_record,Reaction of O(3P) atoms with CF2 = CXY(X, Y=H, F, F, Cl, Br). Discharge flow-chemiluminescence imaging technique
+journal_name,Chem. Phys. Lett.
+volume_and_issue_No,257
+page_number,415
+date_of_publication,1996

@@ -1,0 +1,20 @@
+Id Number = 81
+Process = CT
+Element A = N
+Initial Charge Number A = +2
+Final Charge Number A = +1
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B =
+Theory or Experiment = E
+X Axis Data = 5.7000E+02,8.6000E+02,1.2900E+03,1.8000E+03,2.0000E+03
+Y Axis Data = 4.7700E-16,4.3000E-16,4.0300E-16,4.0000E-16,3.6800E-16
+Y Axis Error Data = 2.0000E-17,2.6000E-17,6.0000E-18,1.0000E-17,1.8000E-17
+Reference Number = 1981C031
+Author(s) = Seim,W. Muller,A. Wirkner-Bott,I. Salzborn,E.
+Title of Record = Electron capture by Li(i+) (i=2,3), N(i+) and Ne(i+)(i=2,3,4,5) ions from atomic hydrogen
+Journal Name = J.Phys.B
+Volume and Issue No. = 14
+Page Numbers = 3475
+Date of Publication = 1981
+Process Title = N2+ + H --> N+

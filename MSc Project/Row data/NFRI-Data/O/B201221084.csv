@@ -1,0 +1,15 @@
+id_number,B201221084
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,O(3Pj=1) + O(3Pj'=0) -> O(3Pj=1) + O(3Pj'=0)
+reference_number,2012001227
+author,B. Zygelman### A. Dalgarno### R. D. Sharma
+title_of_record,Excitation of the 3PJ=0,1,2 fine-structure levels of atomic oxygen in collisions with oxygen atoms
+journal_name,Phys. Rev. A
+volume_and_issue_No,50
+page_number,3920
+date_of_publication,1994

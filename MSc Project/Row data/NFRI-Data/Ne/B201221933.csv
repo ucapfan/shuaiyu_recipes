@@ -1,0 +1,15 @@
+id_number,B201221933
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + Ne4+(1s22s22p2,3P0) -> H+ + Ne4+(1s22s22p2,3P2)
+reference_number,2012001291
+author,R.S.I. Ryans### V.J. Foster-Woods### R.H.G. Reid### F.P. Keenan
+title_of_record,Proton impact excitation of the 1s22s22p2 3P fine-structure transitions in carbon-like ions
+journal_name,Astron. Astrophys.
+volume_and_issue_No,345
+page_number,663
+date_of_publication,1999

@@ -1,0 +1,15 @@
+id_number,B201217597
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H(1s) -> H+ + H(n=2)
+reference_number,2012001070
+author,A. Kolakowska### M. S. Pindzola### D. R. Schultz
+title_of_record,Total electron loss, charge transfer, and ionization in proton-hydrogen collisions at 10-100 keV
+journal_name,Phys. Rev. A
+volume_and_issue_No,59
+page_number,3588
+date_of_publication,1999

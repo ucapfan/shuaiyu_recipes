@@ -1,0 +1,15 @@
+id_number,B201865938
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He + Ar21+ -> ArHe1+
+reference_number,2018000305
+author,William B. Maier II
+title_of_record,Reactions of diatomic rare©\gas ions with rare©\gas atoms for primary©\ion energies below 50 eV
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,62
+page_number,4615
+date_of_publication,1975

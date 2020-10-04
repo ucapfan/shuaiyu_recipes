@@ -1,0 +1,15 @@
+id_number,B201869863
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H1+ + CH4
+reference_number,2018000440
+author,D. J. Lynch###  L. H. Toburen### and  W. E. Wilson
+title_of_record,Electron emission from methane, ammonia, monomethylamine, and dimethylamine by 0.25 to 2.0 MeV protons 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,64
+page_number,2616
+date_of_publication,1976

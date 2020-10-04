@@ -1,0 +1,15 @@
+id_number,B201220794
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H -> H+ + H(3d1)
+reference_number,2012001202
+author,R. K. Janev### P. S. Krstic
+title_of_record,Excitation and ionization processes in slow collisions of ground-state and excited hydrogen atoms with protons
+journal_name,Phys. Rev. A
+volume_and_issue_No,46
+page_number,5554
+date_of_publication,1992

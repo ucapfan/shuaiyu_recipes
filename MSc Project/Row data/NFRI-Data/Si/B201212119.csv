@@ -1,0 +1,15 @@
+id_number,B201212119
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,D+ + Si8+(1s22s22p2,3P0) -> D+ + Si8+(1s22s22p2,3P1)
+reference_number,2012000647
+author,R. S. I. Ryans### V. J. Foser-woods### F. P. Keenan
+title_of_record,CROSS SECTIONS AND RATE COEFFICIENTS FOR EXCITATION OF THE 1s22s22p2 3PJ ¡ú 1s22s22p2 3PJ' FINE-STRUCTURE TRANSITIONS IN CARBON-LIKE IONS BY HEAVY PARTICLE IMPACT
+journal_name,ADNDT
+volume_and_issue_No,73
+page_number,1
+date_of_publication,1999

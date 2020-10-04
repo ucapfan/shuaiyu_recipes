@@ -1,0 +1,15 @@
+id_number,B201867938
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He1+(2s1) + Kr -> He + Kr1+
+reference_number,2018000235
+author,M B Shah and H B Gilbody
+title_of_record,Electron capture, loss and de-excitation in collisions involving fast metastable He+ (2s) ions
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,9
+page_number,2685
+date_of_publication,1976

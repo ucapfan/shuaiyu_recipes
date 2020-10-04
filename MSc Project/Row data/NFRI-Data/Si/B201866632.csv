@@ -1,0 +1,15 @@
+id_number,B201866632
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,H(1s) + Si10+ -> H1+ + Si9+
+reference_number,2018000196
+author,J. W. Gallagher###  B. H. Bransden### and  R. K. Janev
+title_of_record,Evaluated Theoretical Cross Section Data for Charge Exchange of Multiply Charged Ions with Atoms. II. Hydrogen Atom©\Partially Stripped Ion Systems 
+journal_name,J. Phys. Chem. Ref. Data
+volume_and_issue_No,12
+page_number,873
+date_of_publication,1983

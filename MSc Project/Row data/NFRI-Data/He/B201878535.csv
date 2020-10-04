@@ -1,0 +1,15 @@
+id_number,B201878535
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + He
+reference_number,2018000539
+author,Y. Azuma### H. G. Berry### D. S. Gemmell### and J. Suleiman### M. Westerlind and I. A. Sellin### J. C. Woicik### J. P. Kirkland
+title_of_record,Attenuation of photons at 3-14-keV energies in helium
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,51
+page_number,447
+date_of_publication,1995

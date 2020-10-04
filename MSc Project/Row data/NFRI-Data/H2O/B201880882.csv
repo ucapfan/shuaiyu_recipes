@@ -1,0 +1,15 @@
+id_number,B201880882
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Dissociation
+sub_process,Emission cross section
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + H2O -> H(n=6) + H(m=2)
+reference_number,2018000590
+author,C. Y. Robert Wu###  E. Phillips###  L. C. Lee### and  D. L. Judge
+title_of_record,Lyman©\¦Á and Balmer©\series fluorescence from hydrogen photofragments of H2O vapor
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,70
+page_number,601
+date_of_publication,1979

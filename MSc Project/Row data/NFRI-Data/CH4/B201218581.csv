@@ -1,0 +1,15 @@
+id_number,B201218581
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He2+ + CH4 -> He+ + CH4+
+reference_number,2012001083
+author,B. Seredyuk### R. W. McCullough### H. B. Gilbody
+title_of_record,Collision mechanisms in one-electron capture by He2+ ions in collisions with hydrocarbons
+journal_name,Phys. Rev. A
+volume_and_issue_No,71
+page_number,022713
+date_of_publication,2005

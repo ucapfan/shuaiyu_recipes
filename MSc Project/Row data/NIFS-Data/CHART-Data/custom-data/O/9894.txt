@@ -1,0 +1,20 @@
+Id Number = 9894
+Process = CT
+Element A = O
+Initial Charge Number A = +6
+Final Charge Number A = +5
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 5.075E+02,6.718E+02,8.949E+02,1.207E+03,1.568E+03,2.223E+03,3.171E+03,4.696E+03,6.616E+03,9.148E+03,1.234E+04,1.675E+04,2.176E+04,2.775E+04,3.540E+04,4.269E+04,5.278E+04,6.247E+04,7.348E+04,8.807E+04,1.043E+05,1.196E+05,1.373E+05,1.565E+05,1.853E+05
+Y Axis Data = 3.853E-15,3.725E-15,3.632E-15,3.603E-15,3.605E-15,3.456E-15,3.399E-15,3.287E-15,3.123E-15,2.968E-15,2.725E-15,2.439E-15,2.072E-15,1.673E-15,1.293E-15,9.659E-16,6.853E-16,4.820E-16,3.478E-16,2.226E-16,1.376E-16,8.805E-17,5.781E-17,3.796E-17,2.045E-17
+Y Axis Error Data =
+Reference Number = 2012C471
+Author(s) = Liu, L.$Wang, J.G.$Janev, R.K.
+Title of Record = State-selective electron capture in N5+ - H and O6+ - H collisions
+Journal Name = J. Phys. B
+Volume and Issue No. = 45
+Page Numbers = 015202
+Date of Publication = 2012
+Process Title = O6+ + H(1s) --> O5+(n=4) + H+

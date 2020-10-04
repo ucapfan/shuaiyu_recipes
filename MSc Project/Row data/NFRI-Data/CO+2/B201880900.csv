@@ -1,0 +1,15 @@
+id_number,B201880900
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CO2
+reference_number,2018000592
+author,M. Ogawa
+title_of_record,Absorption Cross Sections of O2 and CO2 Continua in the Schumann and Far©\uv Regions
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,54
+page_number,2550
+date_of_publication,1971

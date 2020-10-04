@@ -1,0 +1,15 @@
+id_number,B201208509
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Associative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Na+ + C2H2 -> NaC2H2 + hv
+reference_number,2012000510
+author,Simon Petrie### Robert C. Dunbar
+title_of_record,Radiative Association Reactions of Na+, Mg+, and Al+ with Abundant Interstellar Molecules. Variational Transition State Theory Calculations
+journal_name,J. Phys. Chem. A
+volume_and_issue_No,104
+page_number,4480
+date_of_publication,2000

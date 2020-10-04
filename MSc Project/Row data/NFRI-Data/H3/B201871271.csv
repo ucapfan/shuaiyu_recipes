@@ -1,0 +1,15 @@
+id_number,B201871271
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Dissociation
+sub_process,State Selectivity
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He + H31+ -> 2H + H1+
+reference_number,2018000463
+author,J. Tabet### S. Eden### F. Gobet### B. Farizon ### M. Farizon### S. Ouaskit### P. Scheier### T.D. M¡§ark
+title_of_record,Absolute partial cross-sections for the destruction of H2 and H3+ in collisions with helium atoms at 50 and 60 keV/amu
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,272
+page_number,48
+date_of_publication,2008

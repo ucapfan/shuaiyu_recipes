@@ -1,0 +1,15 @@
+id_number,B201878564
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Dissociation
+sub_process,Neutral Product Dissociation
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,hv + CH4 -> CH + H2 + H
+reference_number,2018000094
+author,J. Woodall### M. Ag¨²ndez### A. J. Markwick-Kemper### and T. J. Millar
+title_of_record,The UMIST database for astrochemistry 2006 
+journal_name,Astronomy & Astrophysics
+volume_and_issue_No,466
+page_number,1197
+date_of_publication,2007

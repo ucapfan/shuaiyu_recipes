@@ -1,0 +1,15 @@
+id_number,B201221284
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Dissociation
+sub_process,Neutral Product Dissociation
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,He+ + C2H4 -> He+ + C2H3 + H
+reference_number,2012001191
+author,Elisabeth L. Bryan### Eric J. Freeman### Michael N. Monee
+title_of_record,Balmer-a emission cross sections from collisions of He+ on H2, CH4, C2H2, C2H4, and C2H6: A study of Bragg additivity
+journal_name,Phys. Rev. A
+volume_and_issue_No,42
+page_number,6423
+date_of_publication,1990

@@ -1,0 +1,15 @@
+id_number,B201224531
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Reaction
+sub_process,Associative
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,S2+ + C2H4 -> S2+¡¤C2H4+
+reference_number,2012001281
+author,B. K. Decker### N. G. Adams
+title_of_record,Selected ion flow tube studies of S2+ reactions with a series of organic molecules
+journal_name,IJMSIP
+volume_and_issue_No,165
+page_number,257
+date_of_publication,1997

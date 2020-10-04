@@ -1,0 +1,15 @@
+id_number,B201209730
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Quenching
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,CCl2(a3B1) + CF4 -> CCl2(X1A1) + CF4
+reference_number,2012000553
+author,Yide Gao### Yang Chen### Xingxiao Ma### Congxiang Chen
+title_of_record,The collisional quenching of CCl2(A1B1 and a 3B1) by substituted methane molecules
+journal_name,Chem. Phys.
+volume_and_issue_No,269
+page_number,389
+date_of_publication,2001

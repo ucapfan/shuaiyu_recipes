@@ -1,0 +1,15 @@
+id_number,B201876759
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + C3H3
+reference_number,2018000495
+author,Askar Fahr### Parviz Hassanzadeh### Barna Laszlo### Robert E. Huie
+title_of_record,Ultraviolet absorption and cross sections of propargyl ( C3H 3 ) radicals in the 230-300 nm region
+journal_name,Chemical Physics
+volume_and_issue_No,215
+page_number,59
+date_of_publication,1997

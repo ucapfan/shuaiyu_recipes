@@ -1,0 +1,15 @@
+id_number,B201219374
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H+ + H -> H+ + H(3p1)
+reference_number,2012001115
+author,A. M. Ermolaev
+title_of_record,On Balmer alpha emission in keV collisions between protons and atomic hydrogen
+journal_name,J. Phys. B
+volume_and_issue_No,24
+page_number,L495
+date_of_publication,1991

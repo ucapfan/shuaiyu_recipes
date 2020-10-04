@@ -1,0 +1,15 @@
+id_number,B201221187
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Charge Transfer
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,C4+ + H
+reference_number,2012001255
+author,F. W. Bliek### R. Hoekstra### M. E. Bannister### C. C. Havener
+title_of_record,Low-energy electron capture by C4+ ions from atomic hydrogen
+journal_name,Phys. Rev. A
+volume_and_issue_No,56
+page_number,426
+date_of_publication,1997

@@ -1,0 +1,15 @@
+id_number,B201876735
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CCl4
+reference_number,2018000491
+author,Grace H. Ho
+title_of_record,Absolute photoabsorption cross section of CCl4 in the energy range 6-250eV
+journal_name,Chemical Physics
+volume_and_issue_No,226
+page_number,101
+date_of_publication,1998

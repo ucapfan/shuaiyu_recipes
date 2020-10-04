@@ -1,0 +1,15 @@
+id_number,B201878398
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + Cu1- -> Cu + e
+reference_number,2018000519
+author,P Balling### C Brink### T Andersen and H K Haugen
+title_of_record,Absolute photodetachment cross sections of CU-
+journal_name,J. Phys. B: At. Mol. Opt. Phys.
+volume_and_issue_No,25
+page_number,L565
+date_of_publication,1992

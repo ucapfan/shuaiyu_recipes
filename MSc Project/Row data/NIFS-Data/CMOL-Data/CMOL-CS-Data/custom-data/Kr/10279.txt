@@ -1,0 +1,20 @@
+Record Number = 10279
+Process = charge transfer
+Theory or Experiment = E
+data type = CS
+Projectile Element = Kr
+Projectile Charge State = +8
+Target Molecule = O2
+Target Charge State = 0
+Initial Excited State B =
+Products = Kr5+
+Original X Unit = eV
+Original Y Unit = cm2
+Reference Number = 1999C399
+Author(s) = Ishii, K.$Okuno, K.$Kobayashi, N.
+Title of Record = Single- and multiple-charge changing cross sections in slow collsions of Krq+(q=7-9) with Ne, N2, O2 and CO
+Journal Name = Physica Scripta.
+Volume and Issue No. = T80
+Page Numbers = 176-178
+Date of Publication = 1999
+Process Title = Kr8+ + O2 --> Kr5+

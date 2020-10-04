@@ -1,0 +1,15 @@
+id_number,B201869987
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Scattering
+sub_process,Elastic Scattering
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Na1+ + CO
+reference_number,2018000328
+author,S. Kita### K. Noda### H. Inouye
+title_of_record,Experimental determination of repulsive potentials between alkali ions (Li+, Na+, and K+) and N2 and CO molecules
+journal_name,Chemical Physics
+volume_and_issue_No,7
+page_number,156
+date_of_publication,1975

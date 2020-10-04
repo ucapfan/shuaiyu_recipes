@@ -1,0 +1,15 @@
+id_number,B201219224
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,F6+ + Ne -> F5+ + Nej+ + e(j-1)
+reference_number,2012001106
+author,D. R. Schultz### R. E. Olson### C. O. Reinhold### S. Kelbch### C. Kelbch### H Schmidt-Bocking### J Ullrich
+title_of_record,Coincident charge state production in F6+ + Ne collisions
+journal_name,J. Phys. B
+volume_and_issue_No,23
+page_number,3839
+date_of_publication,1990

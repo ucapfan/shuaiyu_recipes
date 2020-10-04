@@ -1,0 +1,20 @@
+Record Number = 10393
+Process = dissociation;charge transfer
+Theory or Experiment = T
+data type = CS
+Projectile Element = D
+Projectile Charge State = +1
+Target Molecule = H2
+Target Charge State = 0
+Initial Excited State B =
+Products = H+;H;D
+Original X Unit = eV
+Original Y Unit = cm2
+Reference Number = 2000T303
+Author(s) = Ichihara, A.
+Title of Record =
+Journal Name = Private Communication
+Volume and Issue No. =
+Page Numbers =
+Date of Publication = 2000
+Process Title = D+ (v=5,j=1) + H2 --> H++H+D

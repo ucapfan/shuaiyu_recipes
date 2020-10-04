@@ -1,0 +1,15 @@
+id_number,B201878367
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Detachment
+sub_process,Detachment
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + S1- -> S1+
+reference_number,2018000513
+author,R. C. Bilodeau### N. D. Gibson### J. D. Bozek### C. W. Walter### G. D. Ackerman### P. Andersson### J. G. Heredia
+title_of_record,High-charge-state formation following inner-shell photodetachment from S
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,72
+page_number,050701
+date_of_publication,2005

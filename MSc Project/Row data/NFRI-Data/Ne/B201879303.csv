@@ -1,0 +1,15 @@
+id_number,B201879303
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,hv + Ne3+(2s22p3,4S) -> Ne4+
+reference_number,2018000560
+author,Martin B. Hidalgo 
+title_of_record,Photo-Ionization Cross-Sections for Ions of Carbon, Nitrogen, Oxygen, and Neon  
+journal_name,The Astrophysical Journal
+volume_and_issue_No,153
+page_number,981
+date_of_publication,1968

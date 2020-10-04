@@ -1,0 +1,20 @@
+Id Number = 5203
+Process = CT
+Element A = Li
+Initial Charge Number A = +3
+Final Charge Number A = +2
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = +1
+Theory or Experiment = T
+X Axis Data = 2E+03,2.95E+03,4.89E+03,6.16E+03,1E+04
+Y Axis Data = 3.62E-19,8.13E-19,3.18E-18,4.67E-18,7.86E-18
+Y Axis Error Data = 0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+Reference Number = 1997C320
+Author(s) = Toshima,N.
+Title of Record = Coupled-channel Study of Collision Processes Involving Highly-charged Ions
+Journal Name = Physica Scripta
+Volume and Issue No. = T73
+Page Numbers = 144-148
+Date of Publication = 1997
+Process Title = Li3+ + H(1s) --> Li2+(n=6) + H+

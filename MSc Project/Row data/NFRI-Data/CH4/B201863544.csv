@@ -1,0 +1,15 @@
+id_number,B201863544
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ar1+ + CH4 -> ArH1+ + CH3
+reference_number,2018000179
+author,Wyatt### J. R.; Strattan### L. W.; Chivalak### S.; Hierl### P. M.
+title_of_record,Excitation functions for the reactions of Ar+ with CH4, CD4, and CH2D2
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,63
+page_number,4582
+date_of_publication,1975

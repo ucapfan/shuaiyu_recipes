@@ -1,0 +1,15 @@
+id_number,B201869941
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,HD1- + Ar -> D1+
+reference_number,2018000447
+author,Rafael Schnitzer### Robert W. Odom### and Michael Anbar
+title_of_record,Collision©\induced formation of positive and negative ions from diatomic and triatomic negative hydrogen ions
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,68
+page_number,1489
+date_of_publication,1978

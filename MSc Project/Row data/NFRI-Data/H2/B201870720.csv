@@ -1,0 +1,15 @@
+id_number,B201870720
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Total
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H1+ + H2
+reference_number,2018000366
+author,Cravens### T. E.; Dalgarno### A. 
+title_of_record,Ionization, dissociation, and heating efficiencies of cosmic rays in a gas of molecular hydrogen
+journal_name,The Astrophysical Journal
+volume_and_issue_No,219
+page_number,750
+date_of_publication,1978

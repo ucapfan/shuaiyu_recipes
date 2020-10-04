@@ -1,0 +1,20 @@
+Record Number = 12050
+Process = charge transfer
+Theory or Experiment = T
+data type = CS
+Projectile Element = He
+Projectile Charge State = +2
+Target Molecule = CH4
+Target Charge State = 0
+Initial Excited State B =
+Products = He+(n=1)
+Original X Unit = eV
+Original Y Unit = cm2
+Reference Number = 2005E302
+Author(s) = Seredyuk, B.$McCullough, R.W.$Gilbody, H.B.
+Title of Record = Collision mechanisms in one-electron capture by He2+ ions in collisions with hydrocarbons
+Journal Name = Phys. Rev. A
+Volume and Issue No. = 71
+Page Numbers = 022713
+Date of Publication = 2005
+Process Title = He2+ + CH4 --> He+(n=1)

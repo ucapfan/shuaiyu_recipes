@@ -1,0 +1,15 @@
+id_number,B201869532
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,Ar + HCl(j=2) -> Ar + HCl(j'=3)
+reference_number,2018000417
+author,Susan M. Tarr and  Herschel Rabitz### D. E. Fitz and  R. A. Marcus
+title_of_record,Classical and quantum centrifugal decoupling approximations for HCl¨CAr 
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,66
+page_number,2854
+date_of_publication,1977

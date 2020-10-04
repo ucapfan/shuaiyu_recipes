@@ -1,0 +1,15 @@
+id_number,B201868575
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,S1+ + NH3 -> NH31+ + S
+reference_number,2018000294
+author,M. TICHY *### A.B. RAKSHIT### D.G. LISTER and N.D. TWIDDY
+title_of_record,A STUDY OF THE REACTIONS OF THE GROUND AND METASTABLE STATES OF C+, N+, S+ AND N+2 AT 300 K
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,29
+page_number,231
+date_of_publication,1979

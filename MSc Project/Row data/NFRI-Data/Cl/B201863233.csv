@@ -1,0 +1,15 @@
+id_number,B201863233
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Ionization
+sub_process,Sub Shell
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,H1+ + Cl -> H1+ + Cl1+(K-shell) + e
+reference_number,2018000173
+author,H. PAUL and J. SACHER
+title_of_record,FITI¡¯ED EMPIRICAL REFERENCE CROSS SECIJONS FOR K-SHELL IONIZATION BY PROTONS*
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,42
+page_number,105
+date_of_publication,1989

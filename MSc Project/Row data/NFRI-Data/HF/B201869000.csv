@@ -1,0 +1,15 @@
+id_number,B201869000
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Rotational
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,He + HF(j=2) -> He + HF(j'=3)
+reference_number,2018000398
+author,L. A. Collins and N. F. Lane
+title_of_record,Quantum-mechanical calculations of rotational-excitation cross sections for HCl, DCl, DF, and HF in slow collisions with He
+journal_name,PHYSICAL REVIEW A
+volume_and_issue_No,14
+page_number,1358
+date_of_publication,1976

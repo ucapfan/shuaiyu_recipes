@@ -1,0 +1,20 @@
+Id Number = 7215
+Process = CT
+Element A = Ne
+Initial Charge Number A = 10
+Final Charge Number A = 9
+Element B = H
+Initial Charge Number B = 0
+Final Charge Number B = 1
+Theory or Experiment = T
+X Axis Data = 1.0E1,2.5E1,5.0E1,1.0E2,2.5E2,5.0E2,1.0E3,2.5E3,5.0E3,1.0E4,2.5E4,5.0E4,1.0E5
+Y Axis Data = 2.13E-16,2.70E-16,5.26E-16,7.12E-16,8.93E-16,1.16E-15,1.35E-15,1.74E-15,1.83E-15,1.76E-15,1.48E-15,7.58E-16,2.05E-16
+Y Axis Error Data =
+Reference Number = 2001C452
+Author(s) = Perez, J.A.$Olson, R.E.$Beiersdorfer, P.
+Title of Record = Charge transfer and x-ray emission reactions involving highly charged ions and neutral hydrogen
+Journal Name = J. Phys. B
+Volume and Issue No. = 34
+Page Numbers = 3063
+Date of Publication = 2001
+Process Title = Ne10+ + H(n=1) --> Ne9+(n=6) + H+

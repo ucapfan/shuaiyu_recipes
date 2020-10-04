@@ -10,6 +10,7 @@ We collect cross sections for charge transfer and ionisation by heavy particle c
 For the NIFS folder, we create two folders named "CHART" and "CMOL" in it to save their code and data separately. And for the CMOL folder, we further create two folders called "Cross Section" and "Rate Coefficient" in it to save their own basic information on data and numerical data tables.
 The codes are saved in ".py" files, the basic information of  retrieved data for each category are saved in one ".csv" file, while the sets of numerical data for each record are saved either in ".csv" files or ".txt" files.
 
+
 # NFRI
 
 For the NFRI database, we extract the information on data for both heavy particle impact and photon impact. We also collect cross sections and rate coefficients about the two type of collision processes.
@@ -17,4 +18,6 @@ For the NFRI folder, we save the code as well as all the data retrieved from the
 The codes are saved in ".py" files, the basic information of  retrieved data for each category are saved in one ".csv" file, while the sets of numerical data for each record are saved either in ".csv" files or ".txt" files.
 
 
-## 
+# Notice
+
+In the main folder named "MSc Project", we create another three folders called "Code", "The main information on data", and "Row data" respectively, in addition to the NIFS and NFRI foldes. In the "code" fodler, we collect all the code from both the NIFS/NFRI folders. Similarly, in the "The main information on data", we collect all the csv files about basic information. And in "Row data" folder, we collect all the files for each record.

@@ -1,0 +1,15 @@
+id_number,B201211779
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,H1+ + H(1s1) -> H1+ + H(2s1)
+reference_number,2012000641
+author,D. P. Higgins### J. Geddes### H. B. Gilbody
+title_of_record,Formation of H(2s) atoms by excitation in 10-100 keV H+-H collisions
+journal_name,J. Phys. B
+volume_and_issue_No,29
+page_number,1219
+date_of_publication,1996

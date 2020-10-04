@@ -1,0 +1,15 @@
+id_number,B201868710
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Charge Transfer
+sub_process,Single
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,Ne2+ + Kr -> Kr1+
+reference_number,2018000316
+author,A.A. Viggiano### F.C. Fehsenfeld### H. Villinger### E. Alge### W. Lindinger
+title_of_record,Reactions of Ne2+ with various atomic and molecular neutral species
+journal_name,International Journal of Mass Spectrometry and Ion Physics
+volume_and_issue_No,39
+page_number,1
+date_of_publication,1981

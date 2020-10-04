@@ -1,0 +1,15 @@
+id_number,B201209735
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,DCl + H -> HD + Cl
+reference_number,2012000568
+author,Alexander Hanf### Almuth Lauter### Dhanya Suresh### Hans-Robert Volpp### Jurgen Wolfrum
+title_of_record,Chlorine atom spin-orbit branching ratios and total absolute reaction cross-sections for the H+DCl->HD+Cl reaction
+journal_name,Chem. Phys.
+volume_and_issue_No,340
+page_number,71
+date_of_publication,2001

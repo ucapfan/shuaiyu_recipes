@@ -1,0 +1,15 @@
+id_number,B201869870
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Reaction
+sub_process,Particle Interchange
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,N21+ + CH4 -> N2H1+ + CH3
+reference_number,2018000442
+author,Wyatt### J. R.; Strattan### L. W.; Snyder### S. C.; Hierl### P. M.
+title_of_record,Observation of a stripping threshold for the reaction N2++CH4-->N2H++CH3
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,64
+page_number,3757
+date_of_publication,1976

@@ -1,0 +1,15 @@
+id_number,B201880876
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Absorption
+sub_process,PhotoAbsorption
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Experimental Data
+reaction_formula,hv + CHF3
+reference_number,2018000589
+author,C. Y. Robert Wu###  L. C. Lee### and  D. L. Judge
+title_of_record,Photoabsorption cross sections of CH3F, CHF3, CH3Cl, and CF2Cl2 from 175 to 760  
+journal_name,JOURNAL OF CHEMICAL PHYSICS
+volume_and_issue_No,71
+page_number,5221
+date_of_publication,1979

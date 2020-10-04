@@ -1,0 +1,15 @@
+id_number,B201225265
+categorize,Collision Processes
+collision_data_categorize,Rate Coefficient
+collision_process,Excitation
+sub_process,Electronic
+collision_type,Heavy Particle Impact
+Theory_Experiment_Recommendation,Theoretical Data
+reaction_formula,O(3P) + H -> O(1D) + H
+reference_number,2012001301
+author,R. V. Krems### M. J. Jamieson### A. Dalgarno
+title_of_record,THE 1D¨C3P TRANSITIONS IN ATOMIC OXYGEN INDUCED BY IMPACT WITH ATOMIC HYDROGEN
+journal_name,Astrophys. J.
+volume_and_issue_No,647
+page_number,1531
+date_of_publication,2006

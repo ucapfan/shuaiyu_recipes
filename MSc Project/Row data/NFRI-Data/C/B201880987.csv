@@ -1,0 +1,15 @@
+id_number,B201880987
+categorize,Collision Processes
+collision_data_categorize,Cross Section
+collision_process,Scattering
+sub_process,Total
+collision_type,Photon Impact
+Theory_Experiment_Recommendation,Recommended Data
+reaction_formula,hv + C
+reference_number,2018000608
+author,Lellery Storm### Harvey I. Israel
+title_of_record,Photon cross sections from 1 keV to 100 MeV for elements Z=1 to Z=100
+journal_name,Atomic Data and Nuclear Data Tables
+volume_and_issue_No,A7
+page_number,565
+date_of_publication,1970
